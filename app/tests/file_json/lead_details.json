@@ -1,0 +1,554 @@
+[{
+  "_id": {
+    "$oid": "62df98adcbc1af01d6b0aea5"
+  },
+  "spec_name1": "Physician Assistant",
+  "student_id": {
+    "$oid": "62df98aacbc1af01d6b0aea3"
+  },
+  "course_id": {
+    "$oid": "628e03d94e22276b98231407"
+  },
+  "college_id": {
+    "$oid": "628dfd41ef796e8f757a5c13"
+  },
+  "current_stage": 1.25,
+  "declaration": false,
+  "payment_info": {
+    "payment_id": "",
+    "status": ""
+  },
+  "last_updated_time": {
+    "$date": "2022-07-26T07:32:58.202Z"
+  },
+  "custom_application_id": "TAU/2022/BScPA/0137",
+  "allocate_to_counselor": {
+    "counselor_id": {
+      "$oid": "62bfcb0fd7a6a3c9a4e6d32b"
+    },
+    "counselor_name": "Rohan Agrawal",
+    "last_update": {
+      "$date": "2022-07-26T10:10:55.517Z"
+    }
+  },
+  "student_primary": {
+    "basic_details": {
+      "email": "bohiho4447@agrolivana.com",
+      "mobile_number": 2345654356,
+      "first_name": "Mr",
+      "middle_name": "",
+      "last_name": "Jack"
+    },
+    "address_details": {
+      "communication_address": {
+        "country": {
+          "country_id": {
+            "$oid": "623012f9683f8fb7bd213c36"
+          },
+          "country_code": "IN"
+        },
+        "state": {
+          "state_id": {
+            "$oid": "623013d9683f8fb7bd2380ef"
+          },
+          "state_code": "AP"
+        },
+        "city": {
+          "city_id": {
+            "$oid": "6230139f683f8fb7bd21ebc7"
+          },
+          "city_name": "Adoni"
+        },
+        "address_line1": "",
+        "address_line2": "",
+        "pincode": ""
+      }
+    },
+    "is_verify": false,
+    "last_accessed": {
+      "$date": "2022-07-26T07:32:58.050Z"
+    },
+    "course_details": {
+      "BSc": {
+        "course_id": {
+          "$oid": "628e03d94e22276b98231407"
+        },
+        "course_name": "BSc",
+        "application_id": {
+          "$oid": "62df98adcbc1af01d6b0aea5"
+        },
+        "status": "Incomplete",
+        "specs": [
+          {
+            "spec_name": "Physician Assistant",
+            "is_activated": true
+          }
+        ]
+      }
+    }
+  },
+  "arrayIndex": 0,
+  "course_details": {
+    "course_name": "BSc",
+    "fees": "Rs.1000.0/-"
+  },
+  "lead_details": {
+    "lead_stage": "Applied",
+    "_id": {
+      "$oid": "62df98adcbc1af01d6b0aea5"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62de5f4ab6033e3757ed20ed"
+  },
+  "spec_name1": "Physician Assistant",
+  "student_id": {
+    "$oid": "62de5f44b6033e3757ed20eb"
+  },
+  "course_id": {
+    "$oid": "628e03d94e22276b98231407"
+  },
+  "college_id": {
+    "$oid": "628dfd41ef796e8f757a5c13"
+  },
+  "current_stage": 1.25,
+  "declaration": false,
+  "payment_info": {
+    "payment_id": "",
+    "status": ""
+  },
+  "last_updated_time": {
+    "$date": "2022-07-25T09:15:48.737Z"
+  },
+  "custom_application_id": "TAU/2022/BScPA/0136",
+  "allocate_to_counselor": {
+    "counselor_id": {
+      "$oid": "62bfd13a5ce8a398ad101bd7"
+    },
+    "counselor_name": "viru chaudhary",
+    "last_update": {
+      "$date": "2022-07-26T06:19:58.971Z"
+    }
+  },
+  "student_primary": {
+    "basic_details": {
+      "email": "user1733@example.com",
+      "mobile_number": 8956245236,
+      "first_name": "Jivashnu",
+      "middle_name": "",
+      "last_name": "Singh"
+    },
+    "address_details": {
+      "communication_address": {
+        "country": {
+          "country_id": {
+            "$oid": "623012f9683f8fb7bd213c36"
+          },
+          "country_code": "IN"
+        },
+        "state": {
+          "state_id": {
+            "$oid": "623013da683f8fb7bd238592"
+          },
+          "state_code": "UP"
+        },
+        "city": {
+          "city_id": {
+            "$oid": "623013a0683f8fb7bd21fa2f"
+          },
+          "city_name": "Mathura"
+        },
+        "address_line1": "",
+        "address_line2": "",
+        "pincode": ""
+      }
+    },
+    "is_verify": false,
+    "last_accessed": {
+      "$date": "2022-07-25T09:15:48.535Z"
+    },
+    "course_details": {
+      "BSc": {
+        "course_id": {
+          "$oid": "628e03d94e22276b98231407"
+        },
+        "course_name": "BSc",
+        "application_id": {
+          "$oid": "62de5f4ab6033e3757ed20ed"
+        },
+        "status": "Incomplete",
+        "specs": [
+          {
+            "spec_name": "Physician Assistant",
+            "is_activated": true
+          }
+        ]
+      }
+    }
+  },
+  "arrayIndex": 0,
+  "course_details": {
+    "course_name": "BSc",
+    "fees": "Rs.1000.0/-"
+  },
+  "lead_details": {
+    "_id": {
+      "$oid": "62de5f4ab6033e3757ed20ed"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62da987b60288a31a2b928b5"
+  },
+  "spec_name1": "Respiratory Technology",
+  "student_id": {
+    "$oid": "62da987b60288a31a2b928b4"
+  },
+  "course_id": {
+    "$oid": "628e03d94e22276b98231407"
+  },
+  "college_id": {
+    "$oid": "628dfd41ef796e8f757a5c13"
+  },
+  "current_stage": 7.5,
+  "declaration": false,
+  "payment_info": {
+    "payment_id": "pay_JwPif9YJAibwfd",
+    "order_id": "order_JwPiO2Nti4MZiD",
+    "status": "captured",
+    "created_at": {
+      "$date": "2022-07-22T12:35:53.895Z"
+    }
+  },
+  "last_updated_time": {
+    "$date": "2022-07-22T12:42:01.355Z"
+  },
+  "custom_application_id": "TAU/2022/BScRT/0006",
+  "allocate_to_counselor": {
+    "counselor_id": {
+      "$oid": "62bfcb0fd7a6a3c9a4e6d32b"
+    },
+    "counselor_name": "Rohan Agrawal",
+    "last_update": {
+      "$date": "2022-07-26T13:26:34.641Z"
+    }
+  },
+  "student_primary": {
+    "basic_details": {
+      "email": "wifavah549@anlubi.com",
+      "mobile_number": "5444444444",
+      "first_name": "Bd",
+      "middle_name": "",
+      "last_name": "Mohib",
+      "nationality": "Andorran",
+      "date_of_birth": "2000-10-13",
+      "admission_year": "2022-23",
+      "gender": "Male",
+      "category": "SC",
+      "para_ability": {
+        "is_disable": true,
+        "name_of_disability": "Eye lose"
+      }
+    },
+    "address_details": {
+      "communication_address": {
+        "country": {
+          "country_id": {
+            "$oid": "623012f9683f8fb7bd213c36"
+          },
+          "country_code": "IN"
+        },
+        "state": {
+          "state_id": {
+            "$oid": "623013d9683f8fb7bd2380ef"
+          },
+          "state_code": "AP"
+        },
+        "city": {
+          "city_id": {
+            "$oid": "6230139f683f8fb7bd21ebca"
+          },
+          "city_name": "Akkarampalle"
+        },
+        "address_line1": "adsf",
+        "address_line2": "asdf",
+        "pincode": "125425"
+      },
+      "permanent_address": {
+        "country": {
+          "country_id": {
+            "$oid": "623012f9683f8fb7bd213c36"
+          },
+          "country_code": "IN"
+        },
+        "state": {
+          "state_id": {
+            "$oid": "623013d9683f8fb7bd237f2e"
+          },
+          "state_code": "BR"
+        },
+        "city": {
+          "city_id": {
+            "$oid": "6230139f683f8fb7bd21ece3"
+          },
+          "city_name": "Asarganj"
+        },
+        "address_line1": "adsf",
+        "address_line2": "asdf",
+        "pincode": "125425"
+      }
+    },
+    "is_verify": true,
+    "last_accessed": {
+      "$date": "2022-07-22T12:30:51.253Z"
+    },
+    "course_details": {
+      "BSc": {
+        "course_id": {
+          "$oid": "628e03d94e22276b98231407"
+        },
+        "course_name": "BSc",
+        "application_id": {
+          "$oid": "62da987b60288a31a2b928b5"
+        },
+        "status": "Incomplete",
+        "specs": [
+          {
+            "spec_name": "Respiratory Technology",
+            "is_activated": true
+          },
+          {
+            "spec_name": "Imaging Technology",
+            "is_activated": true
+          }
+        ]
+      },
+      "MSc": {
+        "course_id": {
+          "$oid": "628f35a1cb69fc0789e6917e"
+        },
+        "course_name": "MSc",
+        "application_id": {
+          "$oid": "62dae02260288a31a2b928d7"
+        },
+        "status": "Incomplete",
+        "specs": [
+          {
+            "spec_name": "Clinical Psychology",
+            "is_activated": true
+          }
+        ]
+      }
+    }
+  },
+  "arrayIndex": 0,
+  "course_details": {
+    "course_name": "BSc",
+    "fees": "Rs.1000.0/-"
+  },
+  "lead_details": {
+    "_id": {
+      "$oid": "62da987b60288a31a2b928b5"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62d8c14af5de2702972c9762"
+  },
+  "spec_name1": "Respiratory Technology",
+  "student_id": {
+    "$oid": "62d8c149f5de2702972c9761"
+  },
+  "course_id": {
+    "$oid": "628e03d94e22276b98231407"
+  },
+  "college_id": {
+    "$oid": "628dfd41ef796e8f757a5c13"
+  },
+  "current_stage": 1.25,
+  "declaration": false,
+  "payment_info": {
+    "payment_id": "",
+    "status": ""
+  },
+  "last_updated_time": {
+    "$date": "2022-07-21T03:00:25.931Z"
+  },
+  "custom_application_id": "TAU/2022/BScRT/0005",
+  "allocate_to_counselor": {
+    "counselor_id": {
+      "$oid": "62bfcb0fd7a6a3c9a4e6d32b"
+    },
+    "counselor_name": "Rohan Agrawal",
+    "last_update": {
+      "$date": "2022-07-21T09:49:29.776Z"
+    }
+  },
+  "student_primary": {
+    "basic_details": {
+      "email": "dfdfdf@gmail.com",
+      "mobile_number": 4545454545,
+      "first_name": "Dfdf",
+      "middle_name": "",
+      "last_name": ""
+    },
+    "address_details": {
+      "communication_address": {
+        "country": {
+          "country_id": {
+            "$oid": "623012f9683f8fb7bd213c36"
+          },
+          "country_code": "IN"
+        },
+        "state": {
+          "state_id": {
+            "$oid": "623013d9683f8fb7bd2381e2"
+          },
+          "state_code": "AN"
+        },
+        "city": {
+          "city_id": {
+            "$oid": "6230139f683f8fb7bd21ebc3"
+          },
+          "city_name": "Nicobar"
+        },
+        "address_line1": "",
+        "address_line2": "",
+        "pincode": ""
+      }
+    },
+    "is_verify": false,
+    "last_accessed": {
+      "$date": "2022-07-21T03:00:25.849Z"
+    },
+    "course_details": {
+      "BSc": {
+        "course_id": {
+          "$oid": "628e03d94e22276b98231407"
+        },
+        "course_name": "BSc",
+        "application_id": {
+          "$oid": "62d8c14af5de2702972c9762"
+        },
+        "status": "Incomplete",
+        "specs": [
+          {
+            "spec_name": "Respiratory Technology",
+            "is_activated": true
+          }
+        ]
+      }
+    }
+  },
+  "arrayIndex": 0,
+  "course_details": {
+    "course_name": "BSc",
+    "fees": "Rs.1000.0/-"
+  },
+  "lead_details": {
+    "lead_stage": "Not Interested",
+    "_id": {
+      "$oid": "62d8c14af5de2702972c9762"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62d58ee3ed486b7273a528ff"
+  },
+  "spec_name1": "Medical Lab Technology",
+  "student_id": {
+    "$oid": "62d58ee2ed486b7273a528fd"
+  },
+  "course_id": {
+    "$oid": "628e03d94e22276b98231407"
+  },
+  "college_id": {
+    "$oid": "628dfd41ef796e8f757a5c13"
+  },
+  "current_stage": 1.25,
+  "declaration": false,
+  "payment_info": {
+    "payment_id": "",
+    "status": ""
+  },
+  "last_updated_time": {
+    "$date": "2022-07-18T16:48:34.248Z"
+  },
+  "custom_application_id": "TAU/2022/BScMLT/0012",
+  "allocate_to_counselor": {
+    "counselor_id": {
+      "$oid": "62bf143c41782e1c3f308344"
+    },
+    "counselor_name": "vakado jaysko",
+    "last_update": {
+      "$date": "2022-07-26T10:18:38.153Z"
+    }
+  },
+  "student_primary": {
+    "basic_details": {
+      "email": "wevica2260@teasya.com",
+      "mobile_number": 8787878787,
+      "first_name": "Testutm",
+      "middle_name": "",
+      "last_name": ""
+    },
+    "address_details": {
+      "communication_address": {
+        "country": {
+          "country_id": {
+            "$oid": "623012f9683f8fb7bd213c36"
+          },
+          "country_code": "IN"
+        },
+        "state": {
+          "state_id": {
+            "$oid": "623013d9683f8fb7bd2380ef"
+          },
+          "state_code": "AP"
+        },
+        "city": {
+          "city_id": {
+            "$oid": "6230139f683f8fb7bd21ebc7"
+          },
+          "city_name": "Adoni"
+        },
+        "address_line1": "",
+        "address_line2": "",
+        "pincode": ""
+      }
+    },
+    "is_verify": false,
+    "last_accessed": {
+      "$date": "2022-07-18T16:48:34.109Z"
+    },
+    "course_details": {
+      "BSc": {
+        "course_id": {
+          "$oid": "628e03d94e22276b98231407"
+        },
+        "course_name": "BSc",
+        "application_id": {
+          "$oid": "62d58ee3ed486b7273a528ff"
+        },
+        "status": "Incomplete",
+        "specs": [
+          {
+            "spec_name": "Medical Lab Technology",
+            "is_activated": true
+          }
+        ]
+      }
+    }
+  },
+  "arrayIndex": 0,
+  "course_details": {
+    "course_name": "BSc",
+    "fees": "Rs.1000.0/-"
+  },
+  "lead_details": {
+    "_id": {
+      "$oid": "62d58ee3ed486b7273a528ff"
+    }
+  }
+}]

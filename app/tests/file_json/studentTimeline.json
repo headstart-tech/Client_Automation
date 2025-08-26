@@ -1,0 +1,5437 @@
+[{
+  "_id": {
+    "$oid": "62c481e1423203f80359cb6a"
+  },
+  "timelines": [
+    {
+      "application_id": {
+        "$oid": "62c481e0423203f80359cb69"
+      },
+      "timestamp": "05 Jul 2022 11:50 PM",
+      "event_type": "Application",
+      "event_status": "Started",
+      "event_name": "BSc(Physician Assistant)"
+    }
+  ],
+  "student_id": {
+    "$oid": "62c481de423203f80359cb67"
+  }
+},{
+  "_id": {
+    "$oid": "62c54ad1d432420cec63ba9e"
+  },
+  "timelines": [
+    {
+      "application_id": {
+        "$oid": "62c54ad0d432420cec63ba9d"
+      },
+      "timestamp": "06 Jul 2022 02:09 PM",
+      "event_type": "Application",
+      "event_status": "Started",
+      "event_name": "Bachelor(Social Work)"
+    }
+  ],
+  "student_id": {
+    "$oid": "62c54accd432420cec63ba9c"
+  }
+},{
+  "_id": {
+    "$oid": "62c54bc05fe08ad59d86f955"
+  },
+  "timelines": [
+    {
+      "application_id": {
+        "$oid": "62c54bbf5fe08ad59d86f954"
+      },
+      "timestamp": "06 Jul 2022 02:15 PM",
+      "event_type": "Application",
+      "event_status": "Started",
+      "event_name": "Bachelor(Social Work)"
+    }
+  ],
+  "student_id": {
+    "$oid": "62c54bbb5fe08ad59d86f953"
+  }
+},{
+  "_id": {
+    "$oid": "62c54c93fa7821fdff6eef36"
+  },
+  "timelines": [
+    {
+      "application_id": {
+        "$oid": "62c54c92fa7821fdff6eef35"
+      },
+      "timestamp": "06 Jul 2022 02:18 PM",
+      "event_type": "Application",
+      "event_status": "Started",
+      "event_name": "Bachelor(Social Work)"
+    }
+  ],
+  "student_id": {
+    "$oid": "62c54c8ffa7821fdff6eef34"
+  }
+},{
+  "_id": {
+    "$oid": "62c54cdafa7821fdff6eef39"
+  },
+  "timelines": [
+    {
+      "application_id": {
+        "$oid": "62c54cd9fa7821fdff6eef38"
+      },
+      "timestamp": "06 Jul 2022 02:18 PM",
+      "event_type": "Application",
+      "event_status": "Started",
+      "event_name": "Bachelor(Social Work)"
+    }
+  ],
+  "student_id": {
+    "$oid": "62c54cd6fa7821fdff6eef37"
+  }
+},{
+  "_id": {
+    "$oid": "62c54d0bfa7821fdff6eef3d"
+  },
+  "timelines": [
+    {
+      "application_id": {
+        "$oid": "62c54d0afa7821fdff6eef3c"
+      },
+      "timestamp": "06 Jul 2022 02:18 PM",
+      "event_type": "Application",
+      "event_status": "Started",
+      "event_name": "Bachelor(Social Work)"
+    }
+  ],
+  "student_id": {
+    "$oid": "62c54d07fa7821fdff6eef3a"
+  }
+},{
+  "_id": {
+    "$oid": "62c54da38f897f71b08309ad"
+  },
+  "timelines": [
+    {
+      "application_id": {
+        "$oid": "62c54da18f897f71b08309ac"
+      },
+      "timestamp": "06 Jul 2022 02:23 PM",
+      "event_type": "Application",
+      "event_status": "Started",
+      "event_name": "Bachelor(Social Work)"
+    }
+  ],
+  "student_id": {
+    "$oid": "62c54d9e8f897f71b08309ab"
+  }
+},{
+  "_id": {
+    "$oid": "62c5525516544407b1bc97ce"
+  },
+  "timelines": [
+    {
+      "application_id": {
+        "$oid": "62c5525416544407b1bc97cd"
+      },
+      "timestamp": "06 Jul 2022 02:42 PM",
+      "event_type": "Application",
+      "event_status": "Started",
+      "event_name": "Bachelor(Social Work)"
+    }
+  ],
+  "student_id": {
+    "$oid": "62c5525116544407b1bc97cc"
+  }
+},{
+  "_id": {
+    "$oid": "62c6b00c07f536bb1c9742ec"
+  },
+  "timelines": [
+    {
+      "application_id": {
+        "$oid": "62c6afc107f536bb1c9742eb"
+      },
+      "timestamp": "07 Jul 2022 03:33 PM",
+      "event_type": "Application",
+      "event_status": "Started",
+      "event_name": "BSc(Renal Dialysis Technology)"
+    }
+  ],
+  "student_id": {
+    "$oid": "62c6afc007f536bb1c9742ea"
+  }
+},{
+  "_id": {
+    "$oid": "62c6b0f1a0d70f15eecbc095"
+  },
+  "timelines": [
+    {
+      "application_id": {
+        "$oid": "62c6b0f0a0d70f15eecbc094"
+      },
+      "timestamp": "07 Jul 2022 03:39 PM",
+      "event_type": "Application",
+      "event_status": "Started",
+      "event_name": "BSc(Renal Dialysis Technology)"
+    }
+  ],
+  "student_id": {
+    "$oid": "62c6b0eea0d70f15eecbc093"
+  }
+},{
+  "_id": {
+    "$oid": "62c6b13aa0d70f15eecbc098"
+  },
+  "timelines": [
+    {
+      "application_id": {
+        "$oid": "62c6b137a0d70f15eecbc097"
+      },
+      "timestamp": "07 Jul 2022 03:39 PM",
+      "event_type": "Application",
+      "event_status": "Started",
+      "event_name": "BSc(Renal Dialysis Technology)"
+    }
+  ],
+  "student_id": {
+    "$oid": "62c6b136a0d70f15eecbc096"
+  }
+},{
+  "_id": {
+    "$oid": "62c6b738adefba9668689b3b"
+  },
+  "timelines": [
+    {
+      "timestamp": "07 Jul 2022 03:59 PM",
+      "event_type": "Payment",
+      "event_status": "Done",
+      "event_name": "MSc(Clinical Psychology)"
+    },
+    {
+      "application_id": {
+        "$oid": "62c412c5fd6c66e9fc50b110"
+      },
+      "timestamp": "20 Jul 2022 09:30 PM",
+      "event_type": "Application",
+      "event_status": "Uploaded documents",
+      "event_name": "BSc(Anesthesiology and Operation Technology)"
+    },
+    {
+      "application_id": {
+        "$oid": "62c57ad856fae5f9326cfc4f"
+      },
+      "timestamp": "21 Jul 2022 09:12 PM",
+      "event_type": "Application",
+      "event_status": "Updated Basic Details",
+      "event_name": "MSc(Clinical Psychology)"
+    },
+    {
+      "application_id": {
+        "$oid": "62c57c8456fae5f9326cfc54"
+      },
+      "timestamp": "22 Jul 2022 04:11 PM",
+      "event_type": "Application",
+      "event_status": "Updated Education Details",
+      "event_name": "MBA(General)"
+    },
+    {
+      "application_id": {
+        "$oid": "62c57c8456fae5f9326cfc54"
+      },
+      "timestamp": "22 Jul 2022 04:11 PM",
+      "event_type": "Payment",
+      "event_status": "Initiated",
+      "event_name": "MBA(General)"
+    },
+    {
+      "timestamp": "22 Jul 2022 04:11 PM",
+      "event_type": "Payment",
+      "event_status": "Done",
+      "event_name": "MBA(General)"
+    },
+    {
+      "application_id": {
+        "$oid": "62c412c5fd6c66e9fc50b110"
+      },
+      "timestamp": "22 Jul 2022 06:20 PM",
+      "event_type": "Application",
+      "event_status": "Uploaded documents",
+      "event_name": "BSc(Anesthesiology and Operation Technology)"
+    },
+    {
+      "application_id": {
+        "$oid": "62c57ad856fae5f9326cfc4f"
+      },
+      "timestamp": "22 Jul 2022 05:25 PM",
+      "event_type": "Application",
+      "event_status": "Updated Basic Details",
+      "event_name": "MSc(Clinical Psychology)"
+    },
+    {
+      "application_id": {
+        "$oid": "62c57ad856fae5f9326cfc4f"
+      },
+      "timestamp": "22 Jul 2022 05:25 PM",
+      "event_type": "Application",
+      "event_status": "Updated Parent Details",
+      "event_name": "MSc(Clinical Psychology)"
+    },
+    {
+      "application_id": {
+        "$oid": "62c57ad856fae5f9326cfc4f"
+      },
+      "timestamp": "22 Jul 2022 05:25 PM",
+      "event_type": "Application",
+      "event_status": "Updated Address Details",
+      "event_name": "MSc(Clinical Psychology)"
+    },
+    {
+      "application_id": {
+        "$oid": "62c57ad856fae5f9326cfc4f"
+      },
+      "timestamp": "22 Jul 2022 05:25 PM",
+      "event_type": "Application",
+      "event_status": "Updated Education Details",
+      "event_name": "MSc(Clinical Psychology)"
+    },
+    {
+      "timestamp": "22 Jul 2022 05:25 PM",
+      "event_type": "Query",
+      "event_status": "Raised",
+      "event_name": "Category Name: General Query and query_id: 62dad21460288a31a2b928d2."
+    },
+    {
+      "timestamp": "22 Jul 2022 09:45 PM",
+      "event_type": "Query",
+      "event_status": "Raised",
+      "event_name": "Category Name: General Query and query_id: 62dad27aa333ccb28ed525dd."
+    },
+    {
+      "timestamp": "22 Jul 2022 10:23 PM",
+      "event_type": "Query",
+      "event_status": "Raised",
+      "event_name": "Category Name: General Query and query_id: 62dad62541141fc4a5b6de62."
+    },
+    {
+      "timestamp": "27 Jul 2022 03:26 PM",
+      "event_type": "Query",
+      "event_status": "Raised",
+      "event_name": "Category Name: General Query and query_id: 62e115e544934442f5f1e001."
+    },
+    {
+      "application_id": {
+        "$oid": "62c412c5fd6c66e9fc50b110"
+      },
+      "timestamp": "27 Jul 2022 10:44 PM",
+      "event_type": "Application",
+      "event_status": "Uploaded documents",
+      "event_name": "BSc(Anesthesiology and Operation Technology)"
+    },
+    {
+      "user_id": {
+        "$oid": "6290c40ee87e304387308492"
+      },
+      "timestamp": "01 Aug 2022 02:49 PM",
+      "event_type": "Query",
+      "event_status": "Replied",
+      "event_name": "Category Name: General Query and query_id: 62dad62541141fc4a5b6de62."
+    },
+    {
+      "user_id": {
+        "$oid": "6290c40ee87e304387308492"
+      },
+      "timestamp": "01 Aug 2022 02:51 PM",
+      "event_type": "Query",
+      "event_status": "Replied",
+      "event_name": "Category Name: General Query and query_id: 62dad62541141fc4a5b6de62."
+    },
+    {
+      "timestamp": "02 Aug 2022 01:54 PM",
+      "event_type": "Query",
+      "event_status": "Replied",
+      "event_name": "Category Name: General Query and query_id: 62e115e544934442f5f1e001."
+    },
+    {
+      "timestamp": "02 Aug 2022 01:54 PM",
+      "event_type": "Query",
+      "event_status": "Replied",
+      "event_name": "Category Name: General Query and query_id: 62e115e544934442f5f1e001."
+    },
+    {
+      "timestamp": "02 Aug 2022 01:54 PM",
+      "event_type": "Query",
+      "event_status": "Replied",
+      "event_name": "Category Name: General Query and query_id: 62e115e544934442f5f1e001."
+    },
+    {
+      "timestamp": "02 Aug 2022 01:54 PM",
+      "event_type": "Query",
+      "event_status": "Raised",
+      "event_name": "Category Name: General Query and query_id: 62e8ee84c9b273df986027dd."
+    },
+    {
+      "timestamp": "02 Aug 2022 01:54 PM",
+      "event_type": "Query",
+      "event_status": "Replied",
+      "event_name": "Category Name: General Query and query_id: 62e8ee84c9b273df986027dd."
+    },
+    {
+      "timestamp": "02 Aug 2022 03:16 PM",
+      "event_type": "Query",
+      "event_status": "Replied",
+      "event_name": "Category Name: General Query and query_id: 62e8ee84c9b273df986027dd."
+    },
+    {
+      "user_id": {
+        "$oid": "6290c40ee87e304387308492"
+      },
+      "timestamp": "12 Aug 2022 10:26 AM",
+      "event_type": "Query",
+      "event_status": "Resolved",
+      "event_name": "Category Name: General Query with query_id: 62e8ee84c9b273df986027dd."
+    },
+    {
+      "user_id": {
+        "$oid": "6290c40ee87e304387308492"
+      },
+      "timestamp": "12 Aug 2022 10:26 AM",
+      "event_type": "Query",
+      "event_status": "Replied",
+      "event_name": "Category Name: General Query and query_id: 62e8ee84c9b273df986027dd."
+    },
+    {
+      "user_id": {
+        "$oid": "6290c40ee87e304387308492"
+      },
+      "timestamp": "12 Aug 2022 10:26 AM",
+      "event_type": "Query",
+      "event_status": "Replied",
+      "event_name": "Category Name: General Query and query_id: 62e8ee84c9b273df986027dd."
+    },
+    {
+      "timestamp": "15 Aug 2022 12:02 AM",
+      "event_type": "Query",
+      "event_status": "Raised",
+      "event_name": "Category Name: General Query and query_id: 62f93fbb3d252d944f6dbcaa."
+    },
+    {
+      "user_id": {
+        "$oid": "6290c40ee87e304387308492"
+      },
+      "timestamp": "17 Aug 2022 10:46 PM",
+      "event_type": "Query",
+      "event_status": "Replied",
+      "event_name": "Category Name: General Query and query_id: 62f93fbb3d252d944f6dbcaa."
+    },
+    {
+      "user_id": {
+        "$oid": "6290c40ee87e304387308492"
+      },
+      "timestamp": "17 Aug 2022 10:46 PM",
+      "event_type": "Query",
+      "event_status": "Replied",
+      "event_name": "Category Name: General Query and query_id: 62f93fbb3d252d944f6dbcaa."
+    },
+    {
+      "user_id": {
+        "$oid": "6290c40ee87e304387308492"
+      },
+      "timestamp": "17 Aug 2022 10:46 PM",
+      "event_type": "Query",
+      "event_status": "Replied",
+      "event_name": "Category Name: General Query and query_id: 62f93fbb3d252d944f6dbcaa."
+    },
+    {
+      "user_id": {
+        "$oid": "6290c40ee87e304387308492"
+      },
+      "timestamp": "17 Aug 2022 10:46 PM",
+      "event_type": "Query",
+      "event_status": "Replied",
+      "event_name": "Category Name: General Query and query_id: 62dad62541141fc4a5b6de62."
+    },
+    {
+      "user_id": {
+        "$oid": "6290c40ee87e304387308492"
+      },
+      "timestamp": "17 Aug 2022 10:46 PM",
+      "event_type": "Query",
+      "event_status": "Replied",
+      "event_name": "Category Name: General Query and query_id: 62e115e544934442f5f1e001."
+    },
+    {
+      "user_id": {
+        "$oid": "6290c40ee87e304387308492"
+      },
+      "timestamp": "17 Aug 2022 10:46 PM",
+      "event_type": "Query",
+      "event_status": "Replied",
+      "event_name": "Category Name: General Query and query_id: 62f93fbb3d252d944f6dbcaa."
+    },
+    {
+      "user_id": {
+        "$oid": "6290c40ee87e304387308492"
+      },
+      "timestamp": "17 Aug 2022 10:46 PM",
+      "event_type": "Query",
+      "event_status": "Replied",
+      "event_name": "Category Name: General Query and query_id: 62f93fbb3d252d944f6dbcaa."
+    },
+    {
+      "user_id": {
+        "$oid": "6290c40ee87e304387308492"
+      },
+      "timestamp": "17 Aug 2022 10:46 PM",
+      "event_type": "Query",
+      "event_status": "Replied",
+      "event_name": "Category Name: General Query and query_id: 62f93fbb3d252d944f6dbcaa."
+    },
+    {
+      "user_id": {
+        "$oid": "6290c40ee87e304387308492"
+      },
+      "timestamp": "17 Aug 2022 10:46 PM",
+      "event_type": "Query",
+      "event_status": "Replied",
+      "event_name": "Category Name: General Query and query_id: 62e8ee84c9b273df986027dd."
+    },
+    {
+      "user_id": {
+        "$oid": "6290c40ee87e304387308492"
+      },
+      "timestamp": "17 Aug 2022 10:46 PM",
+      "event_type": "Query",
+      "event_status": "Replied",
+      "event_name": "Category Name: General Query and query_id: 62e8ee84c9b273df986027dd."
+    },
+    {
+      "user_id": {
+        "$oid": "6290c40ee87e304387308492"
+      },
+      "timestamp": "17 Aug 2022 10:46 PM",
+      "event_type": "Query",
+      "event_status": "Replied",
+      "event_name": "Category Name: General Query and query_id: 62e8ee84c9b273df986027dd."
+    },
+    {
+      "user_id": {
+        "$oid": "6290c40ee87e304387308492"
+      },
+      "timestamp": "17 Aug 2022 10:46 PM",
+      "event_type": "Query",
+      "event_status": "Replied",
+      "event_name": "Category Name: General Query and query_id: 62dad62541141fc4a5b6de62."
+    },
+    {
+      "user_id": {
+        "$oid": "6290c40ee87e304387308492"
+      },
+      "timestamp": "17 Aug 2022 10:46 PM",
+      "event_type": "Query",
+      "event_status": "Replied",
+      "event_name": "Category Name: General Query and query_id: 62e115e544934442f5f1e001."
+    },
+    {
+      "user_id": {
+        "$oid": "6290c40ee87e304387308492"
+      },
+      "timestamp": "17 Aug 2022 10:46 PM",
+      "event_type": "Query",
+      "event_status": "Replied",
+      "event_name": "Category Name: General Query and query_id: 62dad62541141fc4a5b6de62."
+    },
+    {
+      "user_id": {
+        "$oid": "6290c40ee87e304387308492"
+      },
+      "timestamp": "17 Aug 2022 10:46 PM",
+      "event_type": "Query",
+      "event_status": "Replied",
+      "event_name": "Category Name: General Query and query_id: 62f93fbb3d252d944f6dbcaa."
+    },
+    {
+      "user_id": {
+        "$oid": "6290c40ee87e304387308492"
+      },
+      "timestamp": "22 Aug 2022 09:58 PM",
+      "event_type": "Query",
+      "event_status": "Resolved",
+      "event_name": "Category Name: General Query with query_id: 62f93fbb3d252d944f6dbcaa."
+    },
+    {
+      "user_id": {
+        "$oid": "6290c40ee87e304387308492"
+      },
+      "timestamp": "22 Aug 2022 09:58 PM",
+      "event_type": "Query",
+      "event_status": "Resolved",
+      "event_name": "Category Name: General Query with query_id: 62e8ee84c9b273df986027dd."
+    },
+    {
+      "application_id": {
+        "$oid": "62c57ad856fae5f9326cfc4f"
+      },
+      "timestamp": "23 Aug 2022 11:02 AM",
+      "event_type": "Application",
+      "event_status": "Updated Basic Details",
+      "event_name": "MSc(Clinical Psychology)"
+    },
+    {
+      "application_id": {
+        "$oid": "62c57ad856fae5f9326cfc4f"
+      },
+      "timestamp": "23 Aug 2022 11:02 AM",
+      "event_type": "Application",
+      "event_status": "Updated Parent Details",
+      "event_name": "MSc(Clinical Psychology)"
+    },
+    {
+      "user_id": {
+        "$oid": "6290c40ee87e304387308492"
+      },
+      "timestamp": "23 Aug 2022 03:49 PM",
+      "event_type": "Query",
+      "event_status": "Resolved",
+      "event_name": "Category Name: General Query with query_id: 62e8ee84c9b273df986027dd."
+    },
+    {
+      "user_id": {
+        "$oid": "6290c40ee87e304387308492"
+      },
+      "timestamp": "23 Aug 2022 03:49 PM",
+      "event_type": "Query",
+      "event_status": "Resolved",
+      "event_name": "Category Name: General Query with query_id: 62f93fbb3d252d944f6dbcaa."
+    },
+    {
+      "user_id": {
+        "$oid": "6290c40ee87e304387308492"
+      },
+      "timestamp": "23 Aug 2022 03:49 PM",
+      "event_type": "Query",
+      "event_status": "Replied",
+      "event_name": "Category Name: General Query and query_id: 62f93fbb3d252d944f6dbcaa."
+    },
+    {
+      "user_id": {
+        "$oid": "6290c40ee87e304387308492"
+      },
+      "timestamp": "23 Aug 2022 03:49 PM",
+      "event_type": "Query",
+      "event_status": "Replied",
+      "event_name": "Category Name: General Query and query_id: 62e8ee84c9b273df986027dd."
+    },
+    {
+      "user_id": {
+        "$oid": "6290c40ee87e304387308492"
+      },
+      "timestamp": "23 Aug 2022 03:49 PM",
+      "event_type": "Query",
+      "event_status": "Replied",
+      "event_name": "Category Name: General Query and query_id: 62f93fbb3d252d944f6dbcaa."
+    },
+    {
+      "user_id": {
+        "$oid": "6290c40ee87e304387308492"
+      },
+      "timestamp": "23 Aug 2022 03:49 PM",
+      "event_type": "Query",
+      "event_status": "Replied",
+      "event_name": "Category Name: General Query and query_id: 62f93fbb3d252d944f6dbcaa."
+    },
+    {
+      "user_id": {
+        "$oid": "6290c40ee87e304387308492"
+      },
+      "timestamp": "23 Aug 2022 03:49 PM",
+      "event_type": "Query",
+      "event_status": "Replied",
+      "event_name": "Category Name: General Query and query_id: 62e8ee84c9b273df986027dd."
+    },
+    {
+      "user_id": {
+        "$oid": "6290c40ee87e304387308492"
+      },
+      "timestamp": "23 Aug 2022 03:49 PM",
+      "event_type": "Query",
+      "event_status": "Replied",
+      "event_name": "Category Name: General Query and query_id: 62e8ee84c9b273df986027dd."
+    },
+    {
+      "user_id": {
+        "$oid": "6290c40ee87e304387308492"
+      },
+      "timestamp": "23 Aug 2022 03:49 PM",
+      "event_type": "Query",
+      "event_status": "Replied",
+      "event_name": "Category Name: General Query and query_id: 62dad62541141fc4a5b6de62."
+    },
+    {
+      "user_id": {
+        "$oid": "6290c40ee87e304387308492"
+      },
+      "timestamp": "23 Aug 2022 03:49 PM",
+      "event_type": "Query",
+      "event_status": "Replied",
+      "event_name": "Category Name: General Query and query_id: 62dad62541141fc4a5b6de62."
+    },
+    {
+      "user_id": {
+        "$oid": "6290c40ee87e304387308492"
+      },
+      "timestamp": "23 Aug 2022 03:49 PM",
+      "event_type": "Query",
+      "event_status": "Replied",
+      "event_name": "Category Name: General Query and query_id: 62e8ee84c9b273df986027dd."
+    },
+    {
+      "timestamp": "26 Aug 2022 01:51 PM",
+      "event_type": "Query",
+      "event_status": "Raised",
+      "event_name": "Category Name: General Query and query_id: 6308834013a551ee37effced."
+    },
+    {
+      "timestamp": "26 Aug 2022 02:17 PM",
+      "event_type": "Query",
+      "event_status": "Raised",
+      "event_name": "Category Name: General Query and query_id: 630888b9c4cbb76d178e00fb."
+    }
+  ],
+  "student_id": {
+    "$oid": "62c412c5fd6c66e9fc50b10f"
+  }
+},{
+  "_id": {
+    "$oid": "62c6d858fe03e541b3660789"
+  },
+  "timelines": [
+    {
+      "application_id": {
+        "$oid": "62c6d857fe03e541b3660788"
+      },
+      "timestamp": "07 Jul 2022 06:27 PM",
+      "event_type": "Application",
+      "event_status": "Started",
+      "event_name": "BSc(Anesthesiology and Operation Technology)"
+    }
+  ],
+  "student_id": {
+    "$oid": "62c6d857fe03e541b3660787"
+  }
+},{
+  "_id": {
+    "$oid": "62c6d89afe03e541b366078c"
+  },
+  "timelines": [
+    {
+      "application_id": {
+        "$oid": "62c6d899fe03e541b366078b"
+      },
+      "timestamp": "07 Jul 2022 06:27 PM",
+      "event_type": "Application",
+      "event_status": "Started",
+      "event_name": "BSc(Anesthesiology and Operation Technology)"
+    }
+  ],
+  "student_id": {
+    "$oid": "62c6d899fe03e541b366078a"
+  }
+},{
+  "_id": {
+    "$oid": "62cbdb05c2a645819d22336f"
+  },
+  "timelines": [
+    {
+      "application_id": {
+        "$oid": "62cbdb03c2a645819d22336e"
+      },
+      "timestamp": "11 Jul 2022 01:37 PM",
+      "event_type": "Application",
+      "event_status": "Started",
+      "event_name": "Bachelor(Social Work)"
+    }
+  ],
+  "student_id": {
+    "$oid": "62cbdb01c2a645819d22336d"
+  }
+},{
+  "_id": {
+    "$oid": "62cc0e94c9d4e93331bc8c26"
+  },
+  "timelines": [
+    {
+      "application_id": {
+        "$oid": "62cc0e93c9d4e93331bc8c25"
+      },
+      "timestamp": "11 Jul 2022 05:19 PM",
+      "event_type": "Application",
+      "event_status": "Started",
+      "event_name": "BSc(Medical Lab Technology)"
+    }
+  ],
+  "student_id": {
+    "$oid": "62cc0e91c9d4e93331bc8c23"
+  }
+},{
+  "_id": {
+    "$oid": "62cd01e5ee28c9d1a6170f7b"
+  },
+  "timelines": [
+    {
+      "application_id": {
+        "$oid": "62cd01e3ee28c9d1a6170f7a"
+      },
+      "timestamp": "12 Jul 2022 10:37 AM",
+      "event_type": "Application",
+      "event_status": "Started",
+      "event_name": "BSc(Medical Lab Technology)"
+    }
+  ],
+  "student_id": {
+    "$oid": "62cd01dfee28c9d1a6170f78"
+  }
+},{
+  "_id": {
+    "$oid": "62cd0736dbc878a0490e2089"
+  },
+  "timelines": [
+    {
+      "application_id": {
+        "$oid": "62c70403b1496bb46ecfd48d"
+      },
+      "timestamp": "11 Jul 2022 05:21 PM",
+      "event_type": "Application",
+      "event_status": "Updated Education Details",
+      "event_name": "MSc(Health Informatics and Analytics)"
+    },
+    {
+      "application_id": {
+        "$oid": "62c70403b1496bb46ecfd48d"
+      },
+      "timestamp": "11 Jul 2022 05:21 PM",
+      "event_type": "Payment",
+      "event_status": "Initiated",
+      "event_name": "MSc(Health Informatics and Analytics)"
+    },
+    {
+      "timestamp": "11 Jul 2022 05:21 PM",
+      "event_type": "Payment",
+      "event_status": "Done",
+      "event_name": "MSc(Health Informatics and Analytics)"
+    },
+    {
+      "application_id": {
+        "$oid": "62c559a456fae5f9326cfc2b"
+      },
+      "timestamp": "11 Jul 2022 05:21 PM",
+      "event_type": "Application",
+      "event_status": "Updated Education Details",
+      "event_name": "BTech(Computer Science and Engineering)"
+    },
+    {
+      "application_id": {
+        "$oid": "62c559a456fae5f9326cfc2b"
+      },
+      "timestamp": "11 Jul 2022 05:21 PM",
+      "event_type": "Payment",
+      "event_status": "Initiated",
+      "event_name": "BTech(Computer Science and Engineering)"
+    },
+    {
+      "timestamp": "11 Jul 2022 05:21 PM",
+      "event_type": "Payment",
+      "event_status": "Done",
+      "event_name": "BTech(Computer Science and Engineering)"
+    },
+    {
+      "application_id": {
+        "$oid": "62c707f2b1496bb46ecfd491"
+      },
+      "timestamp": "11 Jul 2022 05:21 PM",
+      "event_type": "Application",
+      "event_status": "Updated Education Details",
+      "event_name": "BBA()"
+    },
+    {
+      "application_id": {
+        "$oid": "62c707f2b1496bb46ecfd491"
+      },
+      "timestamp": "11 Jul 2022 05:21 PM",
+      "event_type": "Application",
+      "event_status": "Updated Education Details",
+      "event_name": "BBA()"
+    },
+    {
+      "application_id": {
+        "$oid": "62c707f2b1496bb46ecfd491"
+      },
+      "timestamp": "11 Jul 2022 05:21 PM",
+      "event_type": "Application",
+      "event_status": "Updated Education Details",
+      "event_name": "BBA()"
+    },
+    {
+      "application_id": {
+        "$oid": "62c6c9bf5039c88969620cd1"
+      },
+      "timestamp": "11 Jul 2022 05:21 PM",
+      "event_type": "Application",
+      "event_status": "Updated Education Details",
+      "event_name": "MPH(Master Of Public Helth )"
+    },
+    {
+      "application_id": {
+        "$oid": "62c707f2b1496bb46ecfd491"
+      },
+      "timestamp": "11 Jul 2022 05:21 PM",
+      "event_type": "Application",
+      "event_status": "Updated Education Details",
+      "event_name": "BBA()"
+    },
+    {
+      "application_id": {
+        "$oid": "62c707f2b1496bb46ecfd491"
+      },
+      "timestamp": "11 Jul 2022 05:21 PM",
+      "event_type": "Application",
+      "event_status": "Updated Basic Details",
+      "event_name": "BBA()"
+    },
+    {
+      "application_id": {
+        "$oid": "62c707f2b1496bb46ecfd491"
+      },
+      "timestamp": "11 Jul 2022 05:21 PM",
+      "event_type": "Application",
+      "event_status": "Updated Basic Details",
+      "event_name": "BBA()"
+    },
+    {
+      "application_id": {
+        "$oid": "62c6c9bf5039c88969620cd1"
+      },
+      "timestamp": "11 Jul 2022 05:21 PM",
+      "event_type": "Application",
+      "event_status": "Updated Basic Details",
+      "event_name": "MPH(Master Of Public Helth )"
+    },
+    {
+      "application_id": {
+        "$oid": "62c707f2b1496bb46ecfd491"
+      },
+      "timestamp": "11 Jul 2022 05:21 PM",
+      "event_type": "Application",
+      "event_status": "Updated Education Details",
+      "event_name": "BBA()"
+    },
+    {
+      "application_id": {
+        "$oid": "62c707f2b1496bb46ecfd491"
+      },
+      "timestamp": "11 Jul 2022 05:21 PM",
+      "event_type": "Application",
+      "event_status": "Updated Education Details",
+      "event_name": "BBA()"
+    },
+    {
+      "application_id": {
+        "$oid": "62c707f2b1496bb46ecfd491"
+      },
+      "timestamp": "11 Jul 2022 05:21 PM",
+      "event_type": "Application",
+      "event_status": "Updated Education Details",
+      "event_name": "BBA()"
+    },
+    {
+      "application_id": {
+        "$oid": "62c707f2b1496bb46ecfd491"
+      },
+      "timestamp": "11 Jul 2022 05:21 PM",
+      "event_type": "Application",
+      "event_status": "Updated Education Details",
+      "event_name": "BBA()"
+    },
+    {
+      "application_id": {
+        "$oid": "62cd2985dbc878a0490e20d0"
+      },
+      "timestamp": "11 Jul 2022 05:21 PM",
+      "event_type": "Application",
+      "event_status": "Updated Basic Details",
+      "event_name": "MBA(Hospital & Healthcare Management)"
+    },
+    {
+      "application_id": {
+        "$oid": "62cd2a18dbc878a0490e20d5"
+      },
+      "timestamp": "11 Jul 2022 05:21 PM",
+      "event_type": "Application",
+      "event_status": "Updated Basic Details",
+      "event_name": "Master(Social Work)"
+    },
+    {
+      "application_id": {
+        "$oid": "62cd2a8bdbc878a0490e20dc"
+      },
+      "timestamp": "11 Jul 2022 05:21 PM",
+      "event_type": "Application",
+      "event_status": "Updated Basic Details",
+      "event_name": "Bachelor(Social Work)"
+    },
+    {
+      "application_id": {
+        "$oid": "62cd2a8bdbc878a0490e20dc"
+      },
+      "timestamp": "11 Jul 2022 05:21 PM",
+      "event_type": "Application",
+      "event_status": "Updated Basic Details",
+      "event_name": "Bachelor(Social Work)"
+    }
+  ],
+  "student_id": {
+    "$oid": "62c559a456fae5f9326cfc2a"
+  }
+},{
+  "_id": {
+    "$oid": "62cd137adbc878a0490e20a7"
+  },
+  "timelines": [
+    {
+      "application_id": {
+        "$oid": "62cd1379dbc878a0490e20a6"
+      },
+      "timestamp": "11 Jul 2022 05:21 PM",
+      "event_type": "Application",
+      "event_status": "Started",
+      "event_name": "BSc(Physician Assistant)"
+    },
+    {
+      "application_id": {
+        "$oid": "62cd1379dbc878a0490e20a6"
+      },
+      "timestamp": "11 Jul 2022 05:21 PM",
+      "event_type": "Application",
+      "event_status": "Updated Basic Details",
+      "event_name": "BSc(Physician Assistant)"
+    },
+    {
+      "application_id": {
+        "$oid": "62cd1379dbc878a0490e20a6"
+      },
+      "timestamp": "11 Jul 2022 05:21 PM",
+      "event_type": "Application",
+      "event_status": "Updated Basic Details",
+      "event_name": "BSc(Physician Assistant)"
+    },
+    {
+      "application_id": {
+        "$oid": "62cd1379dbc878a0490e20a6"
+      },
+      "timestamp": "11 Jul 2022 05:21 PM",
+      "event_type": "Application",
+      "event_status": "Updated Basic Details",
+      "event_name": "BSc(Physician Assistant)"
+    },
+    {
+      "application_id": {
+        "$oid": "62cd1379dbc878a0490e20a6"
+      },
+      "timestamp": "11 Jul 2022 05:21 PM",
+      "event_type": "Application",
+      "event_status": "Updated Parent Details",
+      "event_name": "BSc(Physician Assistant)"
+    },
+    {
+      "application_id": {
+        "$oid": "62cd1379dbc878a0490e20a6"
+      },
+      "timestamp": "11 Jul 2022 05:21 PM",
+      "event_type": "Application",
+      "event_status": "Updated Basic Details",
+      "event_name": "BSc(Physician Assistant)"
+    },
+    {
+      "application_id": {
+        "$oid": "62cd1379dbc878a0490e20a6"
+      },
+      "timestamp": "11 Jul 2022 05:21 PM",
+      "event_type": "Application",
+      "event_status": "Updated Basic Details",
+      "event_name": "BSc(Physician Assistant)"
+    },
+    {
+      "application_id": {
+        "$oid": "62cd1379dbc878a0490e20a6"
+      },
+      "timestamp": "11 Jul 2022 05:21 PM",
+      "event_type": "Application",
+      "event_status": "Updated Basic Details",
+      "event_name": "BSc(Physician Assistant)"
+    },
+    {
+      "application_id": {
+        "$oid": "62cd1379dbc878a0490e20a6"
+      },
+      "timestamp": "11 Jul 2022 05:21 PM",
+      "event_type": "Application",
+      "event_status": "Updated Basic Details",
+      "event_name": "BSc(Anesthesiology and Operation Technology)"
+    },
+    {
+      "application_id": {
+        "$oid": "62cd1379dbc878a0490e20a6"
+      },
+      "timestamp": "11 Jul 2022 05:21 PM",
+      "event_type": "Application",
+      "event_status": "Updated Parent Details",
+      "event_name": "BSc(Anesthesiology and Operation Technology)"
+    },
+    {
+      "application_id": {
+        "$oid": "62cd1379dbc878a0490e20a6"
+      },
+      "timestamp": "11 Jul 2022 05:21 PM",
+      "event_type": "Application",
+      "event_status": "Updated Parent Details",
+      "event_name": "BSc(Anesthesiology and Operation Technology)"
+    },
+    {
+      "application_id": {
+        "$oid": "62cd1379dbc878a0490e20a6"
+      },
+      "timestamp": "11 Jul 2022 05:21 PM",
+      "event_type": "Application",
+      "event_status": "Updated Address Details",
+      "event_name": "BSc(Anesthesiology and Operation Technology)"
+    },
+    {
+      "application_id": {
+        "$oid": "62cd1379dbc878a0490e20a6"
+      },
+      "timestamp": "11 Jul 2022 05:21 PM",
+      "event_type": "Application",
+      "event_status": "Updated Address Details",
+      "event_name": "BSc(Anesthesiology and Operation Technology)"
+    },
+    {
+      "application_id": {
+        "$oid": "62cd1379dbc878a0490e20a6"
+      },
+      "timestamp": "11 Jul 2022 05:21 PM",
+      "event_type": "Application",
+      "event_status": "Updated Address Details",
+      "event_name": "BSc(Anesthesiology and Operation Technology)"
+    },
+    {
+      "application_id": {
+        "$oid": "62cd1379dbc878a0490e20a6"
+      },
+      "timestamp": "11 Jul 2022 05:21 PM",
+      "event_type": "Application",
+      "event_status": "Updated Address Details",
+      "event_name": "BSc(Anesthesiology and Operation Technology)"
+    },
+    {
+      "application_id": {
+        "$oid": "62cd1379dbc878a0490e20a6"
+      },
+      "timestamp": "11 Jul 2022 05:21 PM",
+      "event_type": "Application",
+      "event_status": "Updated Education Details",
+      "event_name": "BSc(Anesthesiology and Operation Technology)"
+    },
+    {
+      "application_id": {
+        "$oid": "62cd1379dbc878a0490e20a6"
+      },
+      "timestamp": "11 Jul 2022 05:21 PM",
+      "event_type": "Application",
+      "event_status": "Updated Education Details",
+      "event_name": "BSc(Anesthesiology and Operation Technology)"
+    },
+    {
+      "application_id": {
+        "$oid": "62cd16d2dbc878a0490e20c1"
+      },
+      "timestamp": "11 Jul 2022 05:21 PM",
+      "event_type": "Application",
+      "event_status": "Updated Education Details",
+      "event_name": "BBA()"
+    },
+    {
+      "application_id": {
+        "$oid": "62cd1379dbc878a0490e20a6"
+      },
+      "timestamp": "11 Jul 2022 05:21 PM",
+      "event_type": "Payment",
+      "event_status": "Initiated",
+      "event_name": "BSc(Anesthesiology and Operation Technology)"
+    },
+    {
+      "timestamp": "11 Jul 2022 05:21 PM",
+      "event_type": "Payment",
+      "event_status": "Done",
+      "event_name": "BSc(Anesthesiology and Operation Technology)"
+    },
+    {
+      "application_id": {
+        "$oid": "62cd1379dbc878a0490e20a6"
+      },
+      "timestamp": "11 Jul 2022 05:21 PM",
+      "event_type": "Application",
+      "event_status": "Uploaded documents",
+      "event_name": "BSc(Anesthesiology and Operation Technology)"
+    },
+    {
+      "application_id": {
+        "$oid": "62cd1379dbc878a0490e20a6"
+      },
+      "timestamp": "11 Jul 2022 05:21 PM",
+      "event_type": "Application",
+      "event_status": "Uploaded documents",
+      "event_name": "BSc(Anesthesiology and Operation Technology)"
+    },
+    {
+      "application_id": {
+        "$oid": "62cd16d2dbc878a0490e20c1"
+      },
+      "timestamp": "11 Jul 2022 05:21 PM",
+      "event_type": "Application",
+      "event_status": "Updated Education Details",
+      "event_name": "BBA()"
+    },
+    {
+      "application_id": {
+        "$oid": "62cd16d2dbc878a0490e20c1"
+      },
+      "timestamp": "11 Jul 2022 05:21 PM",
+      "event_type": "Application",
+      "event_status": "Updated Education Details",
+      "event_name": "BBA()"
+    },
+    {
+      "application_id": {
+        "$oid": "62cd16d2dbc878a0490e20c1"
+      },
+      "timestamp": "11 Jul 2022 05:21 PM",
+      "event_type": "Application",
+      "event_status": "Updated Education Details",
+      "event_name": "BBA()"
+    },
+    {
+      "application_id": {
+        "$oid": "62cd16d2dbc878a0490e20c1"
+      },
+      "timestamp": "11 Jul 2022 05:21 PM",
+      "event_type": "Application",
+      "event_status": "Updated Education Details",
+      "event_name": "BBA()"
+    },
+    {
+      "application_id": {
+        "$oid": "62cd476adbc878a0490e20ee"
+      },
+      "timestamp": "11 Jul 2022 05:21 PM",
+      "event_type": "Application",
+      "event_status": "Updated Basic Details",
+      "event_name": "MSc(Health Informatics and Analytics)"
+    },
+    {
+      "application_id": {
+        "$oid": "62cd16d2dbc878a0490e20c1"
+      },
+      "timestamp": "11 Jul 2022 05:21 PM",
+      "event_type": "Application",
+      "event_status": "Updated Education Details",
+      "event_name": "BBA()"
+    },
+    {
+      "application_id": {
+        "$oid": "62cd476adbc878a0490e20ee"
+      },
+      "timestamp": "11 Jul 2022 05:21 PM",
+      "event_type": "Application",
+      "event_status": "Updated Basic Details",
+      "event_name": "MSc(Health Informatics and Analytics)"
+    }
+  ],
+  "student_id": {
+    "$oid": "62cd1374dbc878a0490e20a5"
+  }
+},{
+  "_id": {
+    "$oid": "62cdad91a9b64d58b15e6978"
+  },
+  "timelines": [
+    {
+      "application_id": {
+        "$oid": "62cdad90a9b64d58b15e6977"
+      },
+      "timestamp": "12 Jul 2022 10:14 PM",
+      "event_type": "Application",
+      "event_status": "Started",
+      "event_name": "BSc(Medical Lab Technology)"
+    },
+    {
+      "application_id": {
+        "$oid": "62cdad90a9b64d58b15e6977"
+      },
+      "timestamp": "12 Jul 2022 10:53 PM",
+      "event_type": "Application",
+      "event_status": "Updated Basic Details",
+      "event_name": "BSc(Medical Lab Technology)"
+    },
+    {
+      "application_id": {
+        "$oid": "62cdad90a9b64d58b15e6977"
+      },
+      "timestamp": "12 Jul 2022 10:53 PM",
+      "event_type": "Application",
+      "event_status": "Updated Basic Details",
+      "event_name": "BSc(Medical Lab Technology)"
+    },
+    {
+      "application_id": {
+        "$oid": "62cdad90a9b64d58b15e6977"
+      },
+      "timestamp": "12 Jul 2022 10:53 PM",
+      "event_type": "Application",
+      "event_status": "Updated Basic Details",
+      "event_name": "BSc(Medical Lab Technology)"
+    },
+    {
+      "application_id": {
+        "$oid": "62cdad90a9b64d58b15e6977"
+      },
+      "timestamp": "12 Jul 2022 10:53 PM",
+      "event_type": "Application",
+      "event_status": "Updated Parent Details",
+      "event_name": "BSc(Medical Lab Technology)"
+    },
+    {
+      "application_id": {
+        "$oid": "62cdad90a9b64d58b15e6977"
+      },
+      "timestamp": "12 Jul 2022 10:53 PM",
+      "event_type": "Application",
+      "event_status": "Updated Parent Details",
+      "event_name": "BSc(Medical Lab Technology)"
+    },
+    {
+      "application_id": {
+        "$oid": "62cdad90a9b64d58b15e6977"
+      },
+      "timestamp": "12 Jul 2022 10:53 PM",
+      "event_type": "Application",
+      "event_status": "Updated Parent Details",
+      "event_name": "BSc(Medical Lab Technology)"
+    },
+    {
+      "application_id": {
+        "$oid": "62cdad90a9b64d58b15e6977"
+      },
+      "timestamp": "12 Jul 2022 10:53 PM",
+      "event_type": "Application",
+      "event_status": "Updated Basic Details",
+      "event_name": "BSc(Medical Lab Technology)"
+    },
+    {
+      "application_id": {
+        "$oid": "62cdad90a9b64d58b15e6977"
+      },
+      "timestamp": "12 Jul 2022 10:53 PM",
+      "event_type": "Application",
+      "event_status": "Updated Parent Details",
+      "event_name": "BSc(Medical Lab Technology)"
+    },
+    {
+      "application_id": {
+        "$oid": "62cdad90a9b64d58b15e6977"
+      },
+      "timestamp": "12 Jul 2022 10:53 PM",
+      "event_type": "Application",
+      "event_status": "Updated Basic Details",
+      "event_name": "BSc(Medical Lab Technology)"
+    },
+    {
+      "application_id": {
+        "$oid": "62cdad90a9b64d58b15e6977"
+      },
+      "timestamp": "12 Jul 2022 10:53 PM",
+      "event_type": "Application",
+      "event_status": "Updated Parent Details",
+      "event_name": "BSc(Medical Lab Technology)"
+    },
+    {
+      "application_id": {
+        "$oid": "62cdad90a9b64d58b15e6977"
+      },
+      "timestamp": "12 Jul 2022 10:53 PM",
+      "event_type": "Application",
+      "event_status": "Updated Parent Details",
+      "event_name": "BSc(Medical Lab Technology)"
+    },
+    {
+      "application_id": {
+        "$oid": "62cdad90a9b64d58b15e6977"
+      },
+      "timestamp": "12 Jul 2022 10:53 PM",
+      "event_type": "Application",
+      "event_status": "Updated Parent Details",
+      "event_name": "BSc(Medical Lab Technology)"
+    },
+    {
+      "application_id": {
+        "$oid": "62cdad90a9b64d58b15e6977"
+      },
+      "timestamp": "12 Jul 2022 10:53 PM",
+      "event_type": "Application",
+      "event_status": "Updated Address Details",
+      "event_name": "BSc(Medical Lab Technology)"
+    },
+    {
+      "application_id": {
+        "$oid": "62cdad90a9b64d58b15e6977"
+      },
+      "timestamp": "12 Jul 2022 10:53 PM",
+      "event_type": "Application",
+      "event_status": "Updated Address Details",
+      "event_name": "BSc(Medical Lab Technology)"
+    },
+    {
+      "application_id": {
+        "$oid": "62cdad90a9b64d58b15e6977"
+      },
+      "timestamp": "12 Jul 2022 10:53 PM",
+      "event_type": "Application",
+      "event_status": "Updated Education Details",
+      "event_name": "BSc(Medical Lab Technology)"
+    },
+    {
+      "application_id": {
+        "$oid": "62cdad90a9b64d58b15e6977"
+      },
+      "timestamp": "12 Jul 2022 10:53 PM",
+      "event_type": "Application",
+      "event_status": "Updated Education Details",
+      "event_name": "BSc(Medical Lab Technology)"
+    },
+    {
+      "application_id": {
+        "$oid": "62cdad90a9b64d58b15e6977"
+      },
+      "timestamp": "12 Jul 2022 10:53 PM",
+      "event_type": "Application",
+      "event_status": "Updated Education Details",
+      "event_name": "BSc(Medical Lab Technology)"
+    },
+    {
+      "application_id": {
+        "$oid": "62cdad90a9b64d58b15e6977"
+      },
+      "timestamp": "12 Jul 2022 10:53 PM",
+      "event_type": "Payment",
+      "event_status": "Initiated",
+      "event_name": "BSc(Medical Lab Technology)"
+    },
+    {
+      "timestamp": "12 Jul 2022 10:53 PM",
+      "event_type": "Payment",
+      "event_status": "Done",
+      "event_name": "BSc(Medical Lab Technology)"
+    },
+    {
+      "application_id": {
+        "$oid": "62cdad90a9b64d58b15e6977"
+      },
+      "timestamp": "12 Jul 2022 10:53 PM",
+      "event_type": "Application",
+      "event_status": "Uploaded documents",
+      "event_name": "BSc(Medical Lab Technology)"
+    },
+    {
+      "application_id": {
+        "$oid": "62cdad90a9b64d58b15e6977"
+      },
+      "timestamp": "12 Jul 2022 10:53 PM",
+      "event_type": "Application",
+      "event_status": "Uploaded documents",
+      "event_name": "BSc(Medical Lab Technology)"
+    },
+    {
+      "application_id": {
+        "$oid": "62cdad90a9b64d58b15e6977"
+      },
+      "timestamp": "12 Jul 2022 10:53 PM",
+      "event_type": "Application",
+      "event_status": "Uploaded documents",
+      "event_name": "BSc(Medical Lab Technology)"
+    },
+    {
+      "application_id": {
+        "$oid": "62cdad90a9b64d58b15e6977"
+      },
+      "timestamp": "12 Jul 2022 10:53 PM",
+      "event_type": "Application",
+      "event_status": "Uploaded documents",
+      "event_name": "BSc(Medical Lab Technology)"
+    },
+    {
+      "application_id": {
+        "$oid": "62cdad90a9b64d58b15e6977"
+      },
+      "timestamp": "12 Jul 2022 10:53 PM",
+      "event_type": "Application",
+      "event_status": "Uploaded documents",
+      "event_name": "BSc(Medical Lab Technology)"
+    },
+    {
+      "application_id": {
+        "$oid": "62cdad90a9b64d58b15e6977"
+      },
+      "timestamp": "12 Jul 2022 10:53 PM",
+      "event_type": "Application",
+      "event_status": "Updated Education Details",
+      "event_name": "BSc(Medical Lab Technology)"
+    },
+    {
+      "application_id": {
+        "$oid": "62cdc12000b820f5ea58cc60"
+      },
+      "timestamp": "12 Jul 2022 10:53 PM",
+      "event_type": "Application",
+      "event_status": "Updated Education Details",
+      "event_name": "BBA()"
+    },
+    {
+      "application_id": {
+        "$oid": "62cdc12000b820f5ea58cc60"
+      },
+      "timestamp": "12 Jul 2022 10:53 PM",
+      "event_type": "Application",
+      "event_status": "Updated Education Details",
+      "event_name": "BBA()"
+    },
+    {
+      "application_id": {
+        "$oid": "62cdc12000b820f5ea58cc60"
+      },
+      "timestamp": "12 Jul 2022 10:53 PM",
+      "event_type": "Application",
+      "event_status": "Updated Education Details",
+      "event_name": "BBA()"
+    },
+    {
+      "application_id": {
+        "$oid": "62cdc12000b820f5ea58cc60"
+      },
+      "timestamp": "12 Jul 2022 10:53 PM",
+      "event_type": "Application",
+      "event_status": "Updated Basic Details",
+      "event_name": "BBA()"
+    },
+    {
+      "application_id": {
+        "$oid": "62cdc12000b820f5ea58cc60"
+      },
+      "timestamp": "12 Jul 2022 10:53 PM",
+      "event_type": "Application",
+      "event_status": "Updated Education Details",
+      "event_name": "BBA()"
+    },
+    {
+      "application_id": {
+        "$oid": "62cdc12000b820f5ea58cc60"
+      },
+      "timestamp": "12 Jul 2022 10:53 PM",
+      "event_type": "Payment",
+      "event_status": "Initiated",
+      "event_name": "BBA()"
+    },
+    {
+      "application_id": {
+        "$oid": "62cdc12000b820f5ea58cc60"
+      },
+      "timestamp": "12 Jul 2022 10:53 PM",
+      "event_type": "Application",
+      "event_status": "Updated Education Details",
+      "event_name": "BBA()"
+    },
+    {
+      "application_id": {
+        "$oid": "62cdc12000b820f5ea58cc60"
+      },
+      "timestamp": "12 Jul 2022 10:53 PM",
+      "event_type": "Application",
+      "event_status": "Updated Basic Details",
+      "event_name": "BBA()"
+    },
+    {
+      "application_id": {
+        "$oid": "62cdc12000b820f5ea58cc60"
+      },
+      "timestamp": "12 Jul 2022 10:53 PM",
+      "event_type": "Application",
+      "event_status": "Updated Parent Details",
+      "event_name": "BBA()"
+    },
+    {
+      "application_id": {
+        "$oid": "62cdc12000b820f5ea58cc60"
+      },
+      "timestamp": "12 Jul 2022 10:53 PM",
+      "event_type": "Application",
+      "event_status": "Updated Address Details",
+      "event_name": "BBA()"
+    },
+    {
+      "application_id": {
+        "$oid": "62cdc12000b820f5ea58cc60"
+      },
+      "timestamp": "12 Jul 2022 10:53 PM",
+      "event_type": "Application",
+      "event_status": "Updated Education Details",
+      "event_name": "BBA()"
+    },
+    {
+      "application_id": {
+        "$oid": "62cdc12000b820f5ea58cc60"
+      },
+      "timestamp": "13 Jul 2022 08:52 AM",
+      "event_type": "Application",
+      "event_status": "Updated Education Details",
+      "event_name": "BBA()"
+    },
+    {
+      "application_id": {
+        "$oid": "62cdc12000b820f5ea58cc60"
+      },
+      "timestamp": "13 Jul 2022 08:52 AM",
+      "event_type": "Application",
+      "event_status": "Updated Basic Details",
+      "event_name": "BBA()"
+    }
+  ],
+  "student_id": {
+    "$oid": "62cdad90a9b64d58b15e6976"
+  }
+},{
+  "_id": {
+    "$oid": "62ce3bc702b81fa74ac241a6"
+  },
+  "timelines": [
+    {
+      "application_id": {
+        "$oid": "62ce3bc602b81fa74ac241a5"
+      },
+      "timestamp": "13 Jul 2022 08:52 AM",
+      "event_type": "Application",
+      "event_status": "Started",
+      "event_name": "BSc(Imaging Technology)"
+    },
+    {
+      "application_id": {
+        "$oid": "62ce3bc602b81fa74ac241a5"
+      },
+      "timestamp": "13 Jul 2022 08:52 AM",
+      "event_type": "Application",
+      "event_status": "Updated Basic Details",
+      "event_name": "BSc(Imaging Technology)"
+    },
+    {
+      "application_id": {
+        "$oid": "62ce3bc602b81fa74ac241a5"
+      },
+      "timestamp": "13 Jul 2022 08:52 AM",
+      "event_type": "Application",
+      "event_status": "Updated Basic Details",
+      "event_name": "BSc(Imaging Technology)"
+    },
+    {
+      "application_id": {
+        "$oid": "62ce3bc602b81fa74ac241a5"
+      },
+      "timestamp": "13 Jul 2022 08:52 AM",
+      "event_type": "Application",
+      "event_status": "Updated Parent Details",
+      "event_name": "BSc(Imaging Technology)"
+    },
+    {
+      "application_id": {
+        "$oid": "62ce3bc602b81fa74ac241a5"
+      },
+      "timestamp": "13 Jul 2022 08:52 AM",
+      "event_type": "Application",
+      "event_status": "Updated Address Details",
+      "event_name": "BSc(Imaging Technology)"
+    },
+    {
+      "application_id": {
+        "$oid": "62ce3bc602b81fa74ac241a5"
+      },
+      "timestamp": "13 Jul 2022 08:52 AM",
+      "event_type": "Application",
+      "event_status": "Updated Education Details",
+      "event_name": "BSc(Imaging Technology)"
+    },
+    {
+      "application_id": {
+        "$oid": "62ce3d1102b81fa74ac241af"
+      },
+      "timestamp": "13 Jul 2022 08:52 AM",
+      "event_type": "Application",
+      "event_status": "Updated Basic Details",
+      "event_name": "BBA()"
+    },
+    {
+      "application_id": {
+        "$oid": "62ce3d1102b81fa74ac241af"
+      },
+      "timestamp": "13 Jul 2022 08:52 AM",
+      "event_type": "Application",
+      "event_status": "Updated Education Details",
+      "event_name": "BBA()"
+    },
+    {
+      "application_id": {
+        "$oid": "62ce3bc602b81fa74ac241a5"
+      },
+      "timestamp": "14 Jul 2022 10:15 AM",
+      "event_type": "Application",
+      "event_status": "Updated Education Details",
+      "event_name": "BSc(Imaging Technology)"
+    },
+    {
+      "application_id": {
+        "$oid": "62ce3bc602b81fa74ac241a5"
+      },
+      "timestamp": "14 Jul 2022 10:15 AM",
+      "event_type": "Payment",
+      "event_status": "Initiated",
+      "event_name": "BSc(Imaging Technology)"
+    },
+    {
+      "timestamp": "14 Jul 2022 10:15 AM",
+      "event_type": "Payment",
+      "event_status": "Done",
+      "event_name": "BSc(Imaging Technology)"
+    },
+    {
+      "application_id": {
+        "$oid": "62ce3bc602b81fa74ac241a5"
+      },
+      "timestamp": "14 Jul 2022 10:15 AM",
+      "event_type": "Application",
+      "event_status": "Uploaded documents",
+      "event_name": "BSc(Imaging Technology)"
+    },
+    {
+      "application_id": {
+        "$oid": "62ce3bc602b81fa74ac241a5"
+      },
+      "timestamp": "14 Jul 2022 10:15 AM",
+      "event_type": "Application",
+      "event_status": "Uploaded documents",
+      "event_name": "BSc(Imaging Technology)"
+    },
+    {
+      "application_id": {
+        "$oid": "62ce3bc602b81fa74ac241a5"
+      },
+      "timestamp": "14 Jul 2022 10:15 AM",
+      "event_type": "Application",
+      "event_status": "Updated Education Details",
+      "event_name": "BSc(Imaging Technology)"
+    },
+    {
+      "application_id": {
+        "$oid": "62ce3bc602b81fa74ac241a5"
+      },
+      "timestamp": "14 Jul 2022 10:15 AM",
+      "event_type": "Application",
+      "event_status": "Uploaded documents",
+      "event_name": "BSc(Imaging Technology)"
+    },
+    {
+      "application_id": {
+        "$oid": "62ce3bc602b81fa74ac241a5"
+      },
+      "timestamp": "14 Jul 2022 10:15 AM",
+      "event_type": "Application",
+      "event_status": "Updated Education Details",
+      "event_name": "BSc(Imaging Technology)"
+    },
+    {
+      "application_id": {
+        "$oid": "62ce3bc602b81fa74ac241a5"
+      },
+      "timestamp": "14 Jul 2022 10:15 AM",
+      "event_type": "Application",
+      "event_status": "Uploaded documents",
+      "event_name": "BSc(Imaging Technology)"
+    },
+    {
+      "application_id": {
+        "$oid": "62ce3bc602b81fa74ac241a5"
+      },
+      "timestamp": "14 Jul 2022 10:15 AM",
+      "event_type": "Application",
+      "event_status": "Updated Education Details",
+      "event_name": "BSc(Imaging Technology)"
+    },
+    {
+      "application_id": {
+        "$oid": "62ce3bc602b81fa74ac241a5"
+      },
+      "timestamp": "14 Jul 2022 10:15 AM",
+      "event_type": "Application",
+      "event_status": "Uploaded documents",
+      "event_name": "BSc(Imaging Technology)"
+    },
+    {
+      "application_id": {
+        "$oid": "62ce3bc602b81fa74ac241a5"
+      },
+      "timestamp": "14 Jul 2022 10:15 AM",
+      "event_type": "Application",
+      "event_status": "Updated Education Details",
+      "event_name": "BSc(Imaging Technology)"
+    },
+    {
+      "application_id": {
+        "$oid": "62ce3bc602b81fa74ac241a5"
+      },
+      "timestamp": "14 Jul 2022 10:15 AM",
+      "event_type": "Application",
+      "event_status": "Uploaded documents",
+      "event_name": "BSc(Imaging Technology)"
+    },
+    {
+      "application_id": {
+        "$oid": "62ce3d1102b81fa74ac241af"
+      },
+      "timestamp": "14 Jul 2022 10:15 AM",
+      "event_type": "Payment",
+      "event_status": "Initiated",
+      "event_name": "BBA()"
+    },
+    {
+      "timestamp": "14 Jul 2022 10:15 AM",
+      "event_type": "Payment",
+      "event_status": "Done",
+      "event_name": "BBA()"
+    },
+    {
+      "application_id": {
+        "$oid": "62cfa545239a7a4d36aa4bd2"
+      },
+      "timestamp": "14 Jul 2022 10:15 AM",
+      "event_type": "Application",
+      "event_status": "Updated Basic Details",
+      "event_name": "MPH(Master Of Public Helth )"
+    },
+    {
+      "application_id": {
+        "$oid": "62cfa545239a7a4d36aa4bd2"
+      },
+      "timestamp": "14 Jul 2022 10:15 AM",
+      "event_type": "Application",
+      "event_status": "Updated Education Details",
+      "event_name": "MPH(Master Of Public Helth )"
+    },
+    {
+      "application_id": {
+        "$oid": "62cfa545239a7a4d36aa4bd2"
+      },
+      "timestamp": "14 Jul 2022 10:15 AM",
+      "event_type": "Payment",
+      "event_status": "Initiated",
+      "event_name": "MPH(Master Of Public Helth )"
+    },
+    {
+      "timestamp": "14 Jul 2022 10:15 AM",
+      "event_type": "Payment",
+      "event_status": "Done",
+      "event_name": "MPH(Master Of Public Helth )"
+    },
+    {
+      "application_id": {
+        "$oid": "62cfa545239a7a4d36aa4bd2"
+      },
+      "timestamp": "14 Jul 2022 10:15 AM",
+      "event_type": "Application",
+      "event_status": "Updated Education Details",
+      "event_name": "MPH(Master Of Public Helth )"
+    },
+    {
+      "application_id": {
+        "$oid": "62cfa545239a7a4d36aa4bd2"
+      },
+      "timestamp": "14 Jul 2022 10:15 AM",
+      "event_type": "Application",
+      "event_status": "Uploaded documents",
+      "event_name": "MPH(Master Of Public Helth )"
+    },
+    {
+      "application_id": {
+        "$oid": "62cfa545239a7a4d36aa4bd2"
+      },
+      "timestamp": "14 Jul 2022 10:15 AM",
+      "event_type": "Application",
+      "event_status": "Updated Education Details",
+      "event_name": "MPH(Master Of Public Helth )"
+    },
+    {
+      "application_id": {
+        "$oid": "62cfa545239a7a4d36aa4bd2"
+      },
+      "timestamp": "14 Jul 2022 10:15 AM",
+      "event_type": "Application",
+      "event_status": "Uploaded documents",
+      "event_name": "MPH(Master Of Public Helth )"
+    },
+    {
+      "application_id": {
+        "$oid": "62cfa545239a7a4d36aa4bd2"
+      },
+      "timestamp": "14 Jul 2022 10:15 AM",
+      "event_type": "Application",
+      "event_status": "Updated Education Details",
+      "event_name": "MPH(Master Of Public Helth )"
+    },
+    {
+      "application_id": {
+        "$oid": "62cfa545239a7a4d36aa4bd2"
+      },
+      "timestamp": "14 Jul 2022 10:15 AM",
+      "event_type": "Application",
+      "event_status": "Uploaded documents",
+      "event_name": "MPH(Master Of Public Helth )"
+    },
+    {
+      "application_id": {
+        "$oid": "62cfa545239a7a4d36aa4bd2"
+      },
+      "timestamp": "14 Jul 2022 10:15 AM",
+      "event_type": "Application",
+      "event_status": "Updated Education Details",
+      "event_name": "MPH(Master Of Public Helth )"
+    },
+    {
+      "application_id": {
+        "$oid": "62cfa545239a7a4d36aa4bd2"
+      },
+      "timestamp": "14 Jul 2022 10:15 AM",
+      "event_type": "Application",
+      "event_status": "Uploaded documents",
+      "event_name": "MPH(Master Of Public Helth )"
+    }
+  ],
+  "student_id": {
+    "$oid": "62ce3bc602b81fa74ac241a4"
+  }
+},{
+  "_id": {
+    "$oid": "62ce3e8902b81fa74ac241b2"
+  },
+  "timelines": [
+    {
+      "application_id": {
+        "$oid": "62ce3e8802b81fa74ac241b1"
+      },
+      "timestamp": "13 Jul 2022 08:52 AM",
+      "event_type": "Application",
+      "event_status": "Started",
+      "event_name": "BSc(Respiratory Technology)"
+    },
+    {
+      "application_id": {
+        "$oid": "62ce3e8802b81fa74ac241b1"
+      },
+      "timestamp": "13 Jul 2022 08:52 AM",
+      "event_type": "Application",
+      "event_status": "Updated Basic Details",
+      "event_name": "BSc(Respiratory Technology)"
+    },
+    {
+      "application_id": {
+        "$oid": "62ce3e8802b81fa74ac241b1"
+      },
+      "timestamp": "13 Jul 2022 08:52 AM",
+      "event_type": "Application",
+      "event_status": "Updated Parent Details",
+      "event_name": "BSc(Respiratory Technology)"
+    },
+    {
+      "application_id": {
+        "$oid": "62ce3e8802b81fa74ac241b1"
+      },
+      "timestamp": "13 Jul 2022 08:52 AM",
+      "event_type": "Application",
+      "event_status": "Updated Address Details",
+      "event_name": "BSc(Respiratory Technology)"
+    },
+    {
+      "application_id": {
+        "$oid": "62ce3e8802b81fa74ac241b1"
+      },
+      "timestamp": "13 Jul 2022 08:52 AM",
+      "event_type": "Application",
+      "event_status": "Updated Education Details",
+      "event_name": "BSc(Respiratory Technology)"
+    },
+    {
+      "application_id": {
+        "$oid": "62ce3e8802b81fa74ac241b1"
+      },
+      "timestamp": "13 Jul 2022 08:52 AM",
+      "event_type": "Application",
+      "event_status": "Updated Education Details",
+      "event_name": "BSc(Respiratory Technology)"
+    },
+    {
+      "application_id": {
+        "$oid": "62ce3e8802b81fa74ac241b1"
+      },
+      "timestamp": "13 Jul 2022 08:52 AM",
+      "event_type": "Payment",
+      "event_status": "Initiated",
+      "event_name": "BSc(Respiratory Technology)"
+    },
+    {
+      "timestamp": "13 Jul 2022 08:52 AM",
+      "event_type": "Payment",
+      "event_status": "Done",
+      "event_name": "BSc(Respiratory Technology)"
+    },
+    {
+      "application_id": {
+        "$oid": "62ce426602b81fa74ac241b9"
+      },
+      "timestamp": "13 Jul 2022 08:52 AM",
+      "event_type": "Application",
+      "event_status": "Updated Education Details",
+      "event_name": "BBA()"
+    },
+    {
+      "application_id": {
+        "$oid": "62ce3e8802b81fa74ac241b1"
+      },
+      "timestamp": "13 Jul 2022 05:34 PM",
+      "event_type": "Application",
+      "event_status": "Uploaded documents",
+      "event_name": "BSc(Respiratory Technology)"
+    },
+    {
+      "application_id": {
+        "$oid": "62ce3e8802b81fa74ac241b1"
+      },
+      "timestamp": "13 Jul 2022 05:34 PM",
+      "event_type": "Application",
+      "event_status": "Updated Education Details",
+      "event_name": "BSc(Respiratory Technology)"
+    },
+    {
+      "application_id": {
+        "$oid": "62ce3e8802b81fa74ac241b1"
+      },
+      "timestamp": "13 Jul 2022 05:34 PM",
+      "event_type": "Application",
+      "event_status": "Updated Education Details",
+      "event_name": "BSc(Respiratory Technology)"
+    },
+    {
+      "application_id": {
+        "$oid": "62ce3e8802b81fa74ac241b1"
+      },
+      "timestamp": "13 Jul 2022 05:34 PM",
+      "event_type": "Application",
+      "event_status": "Uploaded documents",
+      "event_name": "BSc(Respiratory Technology)"
+    },
+    {
+      "application_id": {
+        "$oid": "62cf9cfaf64432659f57676d"
+      },
+      "timestamp": "13 Jul 2022 05:34 PM",
+      "event_type": "Application",
+      "event_status": "Updated Basic Details",
+      "event_name": "Master(Social Work)"
+    },
+    {
+      "application_id": {
+        "$oid": "62ce426602b81fa74ac241b9"
+      },
+      "timestamp": "13 Jul 2022 05:34 PM",
+      "event_type": "Application",
+      "event_status": "Updated Education Details",
+      "event_name": "BBA()"
+    },
+    {
+      "application_id": {
+        "$oid": "62ce426602b81fa74ac241b9"
+      },
+      "timestamp": "13 Jul 2022 05:34 PM",
+      "event_type": "Payment",
+      "event_status": "Initiated",
+      "event_name": "BBA()"
+    },
+    {
+      "timestamp": "13 Jul 2022 05:34 PM",
+      "event_type": "Payment",
+      "event_status": "Done",
+      "event_name": "BBA()"
+    },
+    {
+      "application_id": {
+        "$oid": "62ce3e8802b81fa74ac241b1"
+      },
+      "timestamp": "13 Jul 2022 05:34 PM",
+      "event_type": "Application",
+      "event_status": "Updated Education Details",
+      "event_name": "BSc(Respiratory Technology)"
+    },
+    {
+      "application_id": {
+        "$oid": "62ce3e8802b81fa74ac241b1"
+      },
+      "timestamp": "13 Jul 2022 05:34 PM",
+      "event_type": "Application",
+      "event_status": "Uploaded documents",
+      "event_name": "BSc(Respiratory Technology)"
+    },
+    {
+      "application_id": {
+        "$oid": "62cf9cfaf64432659f57676d"
+      },
+      "timestamp": "13 Jul 2022 05:34 PM",
+      "event_type": "Application",
+      "event_status": "Updated Education Details",
+      "event_name": "Master(Social Work)"
+    },
+    {
+      "application_id": {
+        "$oid": "62cf9cfaf64432659f57676d"
+      },
+      "timestamp": "13 Jul 2022 05:34 PM",
+      "event_type": "Payment",
+      "event_status": "Initiated",
+      "event_name": "Master(Social Work)"
+    },
+    {
+      "timestamp": "13 Jul 2022 05:34 PM",
+      "event_type": "Payment",
+      "event_status": "Done",
+      "event_name": "Master(Social Work)"
+    },
+    {
+      "application_id": {
+        "$oid": "62cf9cfaf64432659f57676d"
+      },
+      "timestamp": "14 Jul 2022 10:10 AM",
+      "event_type": "Application",
+      "event_status": "Updated Education Details",
+      "event_name": "Master(Social Work)"
+    },
+    {
+      "application_id": {
+        "$oid": "62cf9cfaf64432659f57676d"
+      },
+      "timestamp": "14 Jul 2022 10:10 AM",
+      "event_type": "Application",
+      "event_status": "Uploaded documents",
+      "event_name": "Master(Social Work)"
+    },
+    {
+      "application_id": {
+        "$oid": "62cf9cfaf64432659f57676d"
+      },
+      "timestamp": "14 Jul 2022 10:15 AM",
+      "event_type": "Application",
+      "event_status": "Updated Education Details",
+      "event_name": "Master(Social Work)"
+    },
+    {
+      "application_id": {
+        "$oid": "62cf9cfaf64432659f57676d"
+      },
+      "timestamp": "14 Jul 2022 10:15 AM",
+      "event_type": "Application",
+      "event_status": "Uploaded documents",
+      "event_name": "Master(Social Work)"
+    },
+    {
+      "application_id": {
+        "$oid": "62cfa00c239a7a4d36aa4bc6"
+      },
+      "timestamp": "14 Jul 2022 10:15 AM",
+      "event_type": "Application",
+      "event_status": "Updated Basic Details",
+      "event_name": "Bachelor(Social Work)"
+    },
+    {
+      "application_id": {
+        "$oid": "62cfa00c239a7a4d36aa4bc6"
+      },
+      "timestamp": "14 Jul 2022 10:15 AM",
+      "event_type": "Application",
+      "event_status": "Updated Education Details",
+      "event_name": "Bachelor(Social Work)"
+    },
+    {
+      "application_id": {
+        "$oid": "62cfa029239a7a4d36aa4bc9"
+      },
+      "timestamp": "14 Jul 2022 10:15 AM",
+      "event_type": "Application",
+      "event_status": "Updated Basic Details",
+      "event_name": "MSc(Health Informatics and Analytics)"
+    },
+    {
+      "application_id": {
+        "$oid": "62cfa029239a7a4d36aa4bc9"
+      },
+      "timestamp": "14 Jul 2022 10:15 AM",
+      "event_type": "Application",
+      "event_status": "Updated Education Details",
+      "event_name": "MSc(Health Informatics and Analytics)"
+    },
+    {
+      "application_id": {
+        "$oid": "62cfa029239a7a4d36aa4bc9"
+      },
+      "timestamp": "14 Jul 2022 10:15 AM",
+      "event_type": "Payment",
+      "event_status": "Initiated",
+      "event_name": "MSc(Health Informatics and Analytics)"
+    },
+    {
+      "timestamp": "14 Jul 2022 10:15 AM",
+      "event_type": "Payment",
+      "event_status": "Done",
+      "event_name": "MSc(Health Informatics and Analytics)"
+    }
+  ],
+  "student_id": {
+    "$oid": "62ce3e8802b81fa74ac241b0"
+  }
+},{
+  "_id": {
+    "$oid": "62ce499202b81fa74ac241c8"
+  },
+  "timelines": [
+    {
+      "application_id": {
+        "$oid": "62ce499102b81fa74ac241c7"
+      },
+      "timestamp": "13 Jul 2022 08:52 AM",
+      "event_type": "Application",
+      "event_status": "Started",
+      "event_name": "BSc(Medical Lab Technology)"
+    }
+  ],
+  "student_id": {
+    "$oid": "62ce499102b81fa74ac241c5"
+  }
+},{
+  "_id": {
+    "$oid": "62ce4beb02b81fa74ac241cf"
+  },
+  "timelines": [
+    {
+      "application_id": {
+        "$oid": "62ce4bea02b81fa74ac241ce"
+      },
+      "timestamp": "13 Jul 2022 08:52 AM",
+      "event_type": "Application",
+      "event_status": "Started",
+      "event_name": "BSc(Imaging Technology)"
+    },
+    {
+      "application_id": {
+        "$oid": "62ce4bea02b81fa74ac241ce"
+      },
+      "timestamp": "13 Jul 2022 08:52 AM",
+      "event_type": "Application",
+      "event_status": "Updated Basic Details",
+      "event_name": "BSc(Imaging Technology)"
+    },
+    {
+      "application_id": {
+        "$oid": "62ce4bea02b81fa74ac241ce"
+      },
+      "timestamp": "13 Jul 2022 08:52 AM",
+      "event_type": "Application",
+      "event_status": "Updated Parent Details",
+      "event_name": "BSc(Imaging Technology)"
+    },
+    {
+      "application_id": {
+        "$oid": "62ce4bea02b81fa74ac241ce"
+      },
+      "timestamp": "13 Jul 2022 08:52 AM",
+      "event_type": "Application",
+      "event_status": "Updated Address Details",
+      "event_name": "BSc(Imaging Technology)"
+    },
+    {
+      "application_id": {
+        "$oid": "62ce4bea02b81fa74ac241ce"
+      },
+      "timestamp": "13 Jul 2022 08:52 AM",
+      "event_type": "Application",
+      "event_status": "Updated Education Details",
+      "event_name": "BSc(Imaging Technology)"
+    },
+    {
+      "application_id": {
+        "$oid": "62ce4bea02b81fa74ac241ce"
+      },
+      "timestamp": "13 Jul 2022 08:52 AM",
+      "event_type": "Application",
+      "event_status": "Updated Education Details",
+      "event_name": "BSc(Imaging Technology)"
+    },
+    {
+      "application_id": {
+        "$oid": "62ce4bea02b81fa74ac241ce"
+      },
+      "timestamp": "13 Jul 2022 08:52 AM",
+      "event_type": "Payment",
+      "event_status": "Initiated",
+      "event_name": "BSc(Imaging Technology)"
+    },
+    {
+      "timestamp": "13 Jul 2022 08:52 AM",
+      "event_type": "Payment",
+      "event_status": "Done",
+      "event_name": "BSc(Imaging Technology)"
+    },
+    {
+      "application_id": {
+        "$oid": "62ce4bea02b81fa74ac241ce"
+      },
+      "timestamp": "13 Jul 2022 08:52 AM",
+      "event_type": "Application",
+      "event_status": "Uploaded documents",
+      "event_name": "BSc(Imaging Technology)"
+    },
+    {
+      "application_id": {
+        "$oid": "62ce4cc302b81fa74ac241d3"
+      },
+      "timestamp": "13 Jul 2022 08:52 AM",
+      "event_type": "Application",
+      "event_status": "Updated Education Details",
+      "event_name": "BBA()"
+    },
+    {
+      "application_id": {
+        "$oid": "62ceb7aaf64432659f5766fb"
+      },
+      "timestamp": "13 Jul 2022 05:34 PM",
+      "event_type": "Application",
+      "event_status": "Updated Basic Details",
+      "event_name": "Master(Social Work)"
+    },
+    {
+      "application_id": {
+        "$oid": "62ceb97df64432659f576704"
+      },
+      "timestamp": "13 Jul 2022 05:34 PM",
+      "event_type": "Application",
+      "event_status": "Updated Basic Details",
+      "event_name": "Bachelor(Social Work)"
+    },
+    {
+      "application_id": {
+        "$oid": "62ceb7aaf64432659f5766fb"
+      },
+      "timestamp": "13 Jul 2022 05:34 PM",
+      "event_type": "Application",
+      "event_status": "Updated Parent Details",
+      "event_name": "Master(Social Work)"
+    },
+    {
+      "application_id": {
+        "$oid": "62ceb7aaf64432659f5766fb"
+      },
+      "timestamp": "13 Jul 2022 05:34 PM",
+      "event_type": "Application",
+      "event_status": "Updated Parent Details",
+      "event_name": "Master(Social Work)"
+    },
+    {
+      "application_id": {
+        "$oid": "62ceb7aaf64432659f5766fb"
+      },
+      "timestamp": "13 Jul 2022 05:34 PM",
+      "event_type": "Application",
+      "event_status": "Updated Parent Details",
+      "event_name": "Master(Social Work)"
+    },
+    {
+      "application_id": {
+        "$oid": "62ceb7aaf64432659f5766fb"
+      },
+      "timestamp": "13 Jul 2022 05:34 PM",
+      "event_type": "Application",
+      "event_status": "Updated Basic Details",
+      "event_name": "Master(Social Work)"
+    },
+    {
+      "application_id": {
+        "$oid": "62ce4bea02b81fa74ac241ce"
+      },
+      "timestamp": "13 Jul 2022 05:34 PM",
+      "event_type": "Application",
+      "event_status": "Updated Parent Details",
+      "event_name": "BSc(Imaging Technology)"
+    },
+    {
+      "application_id": {
+        "$oid": "62ce4bea02b81fa74ac241ce"
+      },
+      "timestamp": "13 Jul 2022 05:34 PM",
+      "event_type": "Application",
+      "event_status": "Updated Education Details",
+      "event_name": "BSc(Imaging Technology)"
+    },
+    {
+      "application_id": {
+        "$oid": "62ce4bea02b81fa74ac241ce"
+      },
+      "timestamp": "13 Jul 2022 05:34 PM",
+      "event_type": "Application",
+      "event_status": "Updated Education Details",
+      "event_name": "BSc(Imaging Technology)"
+    },
+    {
+      "application_id": {
+        "$oid": "62ce4bea02b81fa74ac241ce"
+      },
+      "timestamp": "13 Jul 2022 05:34 PM",
+      "event_type": "Application",
+      "event_status": "Updated Education Details",
+      "event_name": "BSc(Imaging Technology)"
+    },
+    {
+      "application_id": {
+        "$oid": "62ce4bea02b81fa74ac241ce"
+      },
+      "timestamp": "13 Jul 2022 05:34 PM",
+      "event_type": "Application",
+      "event_status": "Updated Education Details",
+      "event_name": "BSc(Imaging Technology)"
+    },
+    {
+      "application_id": {
+        "$oid": "62ce4bea02b81fa74ac241ce"
+      },
+      "timestamp": "13 Jul 2022 05:34 PM",
+      "event_type": "Application",
+      "event_status": "Updated Education Details",
+      "event_name": "BSc(Imaging Technology)"
+    },
+    {
+      "application_id": {
+        "$oid": "62ce4bea02b81fa74ac241ce"
+      },
+      "timestamp": "13 Jul 2022 05:34 PM",
+      "event_type": "Application",
+      "event_status": "Updated Education Details",
+      "event_name": "BSc(Imaging Technology)"
+    },
+    {
+      "application_id": {
+        "$oid": "62ce4bea02b81fa74ac241ce"
+      },
+      "timestamp": "13 Jul 2022 05:34 PM",
+      "event_type": "Application",
+      "event_status": "Updated Education Details",
+      "event_name": "BSc(Imaging Technology)"
+    },
+    {
+      "application_id": {
+        "$oid": "62ce4bea02b81fa74ac241ce"
+      },
+      "timestamp": "13 Jul 2022 05:34 PM",
+      "event_type": "Application",
+      "event_status": "Updated Education Details",
+      "event_name": "BSc(Imaging Technology)"
+    },
+    {
+      "application_id": {
+        "$oid": "62ce4bea02b81fa74ac241ce"
+      },
+      "timestamp": "13 Jul 2022 05:34 PM",
+      "event_type": "Application",
+      "event_status": "Uploaded documents",
+      "event_name": "BSc(Imaging Technology)"
+    },
+    {
+      "application_id": {
+        "$oid": "62ceb7aaf64432659f5766fb"
+      },
+      "timestamp": "13 Jul 2022 05:34 PM",
+      "event_type": "Application",
+      "event_status": "Updated Education Details",
+      "event_name": "Master(Social Work)"
+    },
+    {
+      "application_id": {
+        "$oid": "62ceb7aaf64432659f5766fb"
+      },
+      "timestamp": "13 Jul 2022 05:34 PM",
+      "event_type": "Payment",
+      "event_status": "Initiated",
+      "event_name": "Master(Social Work)"
+    },
+    {
+      "timestamp": "13 Jul 2022 05:34 PM",
+      "event_type": "Payment",
+      "event_status": "Done",
+      "event_name": "Master(Social Work)"
+    },
+    {
+      "application_id": {
+        "$oid": "62ceb7aaf64432659f5766fb"
+      },
+      "timestamp": "13 Jul 2022 05:34 PM",
+      "event_type": "Application",
+      "event_status": "Uploaded documents",
+      "event_name": "Master(Social Work)"
+    },
+    {
+      "application_id": {
+        "$oid": "62d138df0bec92cb85a99fe7"
+      },
+      "timestamp": "15 Jul 2022 02:26 PM",
+      "event_type": "Application",
+      "event_status": "Updated Basic Details",
+      "event_name": "MSc(Health Informatics and Analytics)"
+    },
+    {
+      "application_id": {
+        "$oid": "62d138df0bec92cb85a99fe7"
+      },
+      "timestamp": "15 Jul 2022 02:26 PM",
+      "event_type": "Application",
+      "event_status": "Updated Parent Details",
+      "event_name": "MSc(Health Informatics and Analytics)"
+    },
+    {
+      "application_id": {
+        "$oid": "62d138df0bec92cb85a99fe7"
+      },
+      "timestamp": "15 Jul 2022 02:26 PM",
+      "event_type": "Application",
+      "event_status": "Updated Address Details",
+      "event_name": "MSc(Health Informatics and Analytics)"
+    },
+    {
+      "application_id": {
+        "$oid": "62d138df0bec92cb85a99fe7"
+      },
+      "timestamp": "15 Jul 2022 02:26 PM",
+      "event_type": "Application",
+      "event_status": "Updated Education Details",
+      "event_name": "MSc(Health Informatics and Analytics)"
+    },
+    {
+      "application_id": {
+        "$oid": "62d138df0bec92cb85a99fe7"
+      },
+      "timestamp": "15 Jul 2022 02:26 PM",
+      "event_type": "Payment",
+      "event_status": "Initiated",
+      "event_name": "MSc(Health Informatics and Analytics)"
+    },
+    {
+      "timestamp": "15 Jul 2022 02:26 PM",
+      "event_type": "Payment",
+      "event_status": "Done",
+      "event_name": "MSc(Health Informatics and Analytics)"
+    }
+  ],
+  "student_id": {
+    "$oid": "62ce4bea02b81fa74ac241cd"
+  }
+},{
+  "_id": {
+    "$oid": "62ce4d4e02b81fa74ac241d7"
+  },
+  "timelines": [
+    {
+      "application_id": {
+        "$oid": "62ce4d4d02b81fa74ac241d6"
+      },
+      "timestamp": "13 Jul 2022 08:52 AM",
+      "event_type": "Application",
+      "event_status": "Started",
+      "event_name": "BBA"
+    },
+    {
+      "application_id": {
+        "$oid": "62ce4d4d02b81fa74ac241d6"
+      },
+      "timestamp": "13 Jul 2022 08:52 AM",
+      "event_type": "Application",
+      "event_status": "Updated Basic Details",
+      "event_name": "BBA()"
+    },
+    {
+      "application_id": {
+        "$oid": "62ce4d4d02b81fa74ac241d6"
+      },
+      "timestamp": "13 Jul 2022 08:52 AM",
+      "event_type": "Application",
+      "event_status": "Updated Parent Details",
+      "event_name": "BBA()"
+    },
+    {
+      "application_id": {
+        "$oid": "62ce4d4d02b81fa74ac241d6"
+      },
+      "timestamp": "13 Jul 2022 08:52 AM",
+      "event_type": "Application",
+      "event_status": "Updated Address Details",
+      "event_name": "BBA()"
+    },
+    {
+      "application_id": {
+        "$oid": "62ce4d4d02b81fa74ac241d6"
+      },
+      "timestamp": "13 Jul 2022 08:52 AM",
+      "event_type": "Application",
+      "event_status": "Updated Education Details",
+      "event_name": "BBA()"
+    },
+    {
+      "application_id": {
+        "$oid": "62ce76a78fa02c4daa0d42c0"
+      },
+      "timestamp": "13 Jul 2022 10:25 AM",
+      "event_type": "Application",
+      "event_status": "Updated Basic Details",
+      "event_name": "BSc(Physician Assistant)"
+    },
+    {
+      "application_id": {
+        "$oid": "62ce76a78fa02c4daa0d42c0"
+      },
+      "timestamp": "13 Jul 2022 10:25 AM",
+      "event_type": "Application",
+      "event_status": "Updated Basic Details",
+      "event_name": "BSc(Physician Assistant)"
+    },
+    {
+      "application_id": {
+        "$oid": "62cf9a71f64432659f576764"
+      },
+      "timestamp": "13 Jul 2022 05:34 PM",
+      "event_type": "Application",
+      "event_status": "Updated Basic Details",
+      "event_name": "Master(Social Work)"
+    },
+    {
+      "application_id": {
+        "$oid": "62ce76a78fa02c4daa0d42c0"
+      },
+      "timestamp": "13 Jul 2022 05:34 PM",
+      "event_type": "Application",
+      "event_status": "Updated Basic Details",
+      "event_name": "BSc(Physician Assistant)"
+    },
+    {
+      "application_id": {
+        "$oid": "62cf9a71f64432659f576764"
+      },
+      "timestamp": "13 Jul 2022 05:34 PM",
+      "event_type": "Application",
+      "event_status": "Updated Basic Details",
+      "event_name": "Master(Social Work)"
+    },
+    {
+      "application_id": {
+        "$oid": "62ce76a78fa02c4daa0d42c0"
+      },
+      "timestamp": "15 Jul 2022 02:26 PM",
+      "event_type": "Application",
+      "event_status": "Updated Education Details",
+      "event_name": "BSc(Physician Assistant)"
+    },
+    {
+      "application_id": {
+        "$oid": "62d138940bec92cb85a99fe4"
+      },
+      "timestamp": "15 Jul 2022 02:26 PM",
+      "event_type": "Application",
+      "event_status": "Updated Basic Details",
+      "event_name": "MPH(Master Of Public Helth )"
+    }
+  ],
+  "student_id": {
+    "$oid": "62ce4d4d02b81fa74ac241d5"
+  }
+},{
+  "_id": {
+    "$oid": "62ce529f8fa02c4daa0d42ac"
+  },
+  "timelines": [
+    {
+      "application_id": {
+        "$oid": "62ce529f8fa02c4daa0d42ab"
+      },
+      "timestamp": "13 Jul 2022 10:25 AM",
+      "event_type": "Application",
+      "event_status": "Started",
+      "event_name": "BSc(Respiratory Technology)"
+    },
+    {
+      "application_id": {
+        "$oid": "62ce529f8fa02c4daa0d42ab"
+      },
+      "timestamp": "13 Jul 2022 10:25 AM",
+      "event_type": "Application",
+      "event_status": "Updated Basic Details",
+      "event_name": "BSc(Respiratory Technology)"
+    },
+    {
+      "application_id": {
+        "$oid": "62ce529f8fa02c4daa0d42ab"
+      },
+      "timestamp": "13 Jul 2022 10:25 AM",
+      "event_type": "Application",
+      "event_status": "Updated Basic Details",
+      "event_name": "BSc(Respiratory Technology)"
+    },
+    {
+      "application_id": {
+        "$oid": "62ce529f8fa02c4daa0d42ab"
+      },
+      "timestamp": "13 Jul 2022 10:25 AM",
+      "event_type": "Application",
+      "event_status": "Updated Basic Details",
+      "event_name": "BSc(Respiratory Technology)"
+    },
+    {
+      "application_id": {
+        "$oid": "62ce529f8fa02c4daa0d42ab"
+      },
+      "timestamp": "13 Jul 2022 10:25 AM",
+      "event_type": "Application",
+      "event_status": "Updated Parent Details",
+      "event_name": "BSc(Respiratory Technology)"
+    },
+    {
+      "application_id": {
+        "$oid": "62ce529f8fa02c4daa0d42ab"
+      },
+      "timestamp": "13 Jul 2022 10:25 AM",
+      "event_type": "Application",
+      "event_status": "Updated Address Details",
+      "event_name": "BSc(Respiratory Technology)"
+    },
+    {
+      "application_id": {
+        "$oid": "62ce529f8fa02c4daa0d42ab"
+      },
+      "timestamp": "13 Jul 2022 10:25 AM",
+      "event_type": "Application",
+      "event_status": "Updated Education Details",
+      "event_name": "BSc(Respiratory Technology)"
+    },
+    {
+      "application_id": {
+        "$oid": "62ce529f8fa02c4daa0d42ab"
+      },
+      "timestamp": "13 Jul 2022 10:25 AM",
+      "event_type": "Application",
+      "event_status": "Updated Education Details",
+      "event_name": "BSc(Respiratory Technology)"
+    },
+    {
+      "application_id": {
+        "$oid": "62ce529f8fa02c4daa0d42ab"
+      },
+      "timestamp": "13 Jul 2022 10:25 AM",
+      "event_type": "Payment",
+      "event_status": "Initiated",
+      "event_name": "BSc(Respiratory Technology)"
+    },
+    {
+      "timestamp": "13 Jul 2022 10:25 AM",
+      "event_type": "Payment",
+      "event_status": "Done",
+      "event_name": "BSc(Respiratory Technology)"
+    },
+    {
+      "application_id": {
+        "$oid": "62ce529f8fa02c4daa0d42ab"
+      },
+      "timestamp": "13 Jul 2022 10:25 AM",
+      "event_type": "Application",
+      "event_status": "Uploaded documents",
+      "event_name": "BSc(Respiratory Technology)"
+    },
+    {
+      "application_id": {
+        "$oid": "62ce529f8fa02c4daa0d42ab"
+      },
+      "timestamp": "26 Aug 2022 12:03 AM",
+      "event_type": "Application",
+      "event_status": "Updated Education Details",
+      "event_name": "BSc(Respiratory Technology)"
+    },
+    {
+      "timestamp": "26 Aug 2022 12:03 AM",
+      "event_type": "Query",
+      "event_status": "Raised",
+      "event_name": "Category Name: General Query and query_id: 6307c809fef4d0458915337f."
+    },
+    {
+      "timestamp": "26 Aug 2022 12:03 AM",
+      "event_type": "Query",
+      "event_status": "Replied",
+      "event_name": "Category Name: General Query and query_id: 6307c809fef4d0458915337f."
+    },
+    {
+      "timestamp": "26 Aug 2022 12:03 AM",
+      "event_type": "Query",
+      "event_status": "Replied",
+      "event_name": "Category Name: General Query and query_id: 6307c809fef4d0458915337f."
+    },
+    {
+      "application_id": {
+        "$oid": "6307c9aafef4d04589153382"
+      },
+      "timestamp": "26 Aug 2022 12:03 AM",
+      "event_type": "Application",
+      "event_status": "Updated Basic Details",
+      "event_name": "MPH(Master Of Public Helth )"
+    },
+    {
+      "application_id": {
+        "$oid": "6307c9aafef4d04589153382"
+      },
+      "timestamp": "26 Aug 2022 12:03 AM",
+      "event_type": "Application",
+      "event_status": "Updated Parent Details",
+      "event_name": "MPH(Master Of Public Helth )"
+    },
+    {
+      "application_id": {
+        "$oid": "6307c9aafef4d04589153382"
+      },
+      "timestamp": "26 Aug 2022 12:03 AM",
+      "event_type": "Application",
+      "event_status": "Updated Address Details",
+      "event_name": "MPH(Master Of Public Helth )"
+    }
+  ],
+  "student_id": {
+    "$oid": "62ce529f8fa02c4daa0d42aa"
+  }
+},{
+  "_id": {
+    "$oid": "62ce99b78fa02c4daa0d42c6"
+  },
+  "timelines": [
+    {
+      "application_id": {
+        "$oid": "62ce99b68fa02c4daa0d42c5"
+      },
+      "timestamp": "13 Jul 2022 10:25 AM",
+      "event_type": "Application",
+      "event_status": "Started",
+      "event_name": "BSc(Physician Assistant)"
+    },
+    {
+      "application_id": {
+        "$oid": "62ce99b68fa02c4daa0d42c5"
+      },
+      "timestamp": "13 Jul 2022 10:25 AM",
+      "event_type": "Application",
+      "event_status": "Updated Basic Details",
+      "event_name": "BSc(Physician Assistant)"
+    },
+    {
+      "application_id": {
+        "$oid": "62ce99b68fa02c4daa0d42c5"
+      },
+      "timestamp": "13 Jul 2022 10:25 AM",
+      "event_type": "Application",
+      "event_status": "Updated Parent Details",
+      "event_name": "BSc(Physician Assistant)"
+    },
+    {
+      "application_id": {
+        "$oid": "62ce99b68fa02c4daa0d42c5"
+      },
+      "timestamp": "13 Jul 2022 10:25 AM",
+      "event_type": "Application",
+      "event_status": "Updated Basic Details",
+      "event_name": "BSc(Physician Assistant)"
+    },
+    {
+      "application_id": {
+        "$oid": "62ce99b68fa02c4daa0d42c5"
+      },
+      "timestamp": "13 Jul 2022 10:25 AM",
+      "event_type": "Application",
+      "event_status": "Updated Parent Details",
+      "event_name": "BSc(Physician Assistant)"
+    },
+    {
+      "application_id": {
+        "$oid": "62ce99b68fa02c4daa0d42c5"
+      },
+      "timestamp": "13 Jul 2022 10:25 AM",
+      "event_type": "Application",
+      "event_status": "Updated Basic Details",
+      "event_name": "BSc(Physician Assistant)"
+    },
+    {
+      "application_id": {
+        "$oid": "62ce99b68fa02c4daa0d42c5"
+      },
+      "timestamp": "13 Jul 2022 10:25 AM",
+      "event_type": "Application",
+      "event_status": "Updated Basic Details",
+      "event_name": "BSc(Physician Assistant)"
+    },
+    {
+      "application_id": {
+        "$oid": "62ce99b68fa02c4daa0d42c5"
+      },
+      "timestamp": "13 Jul 2022 10:25 AM",
+      "event_type": "Application",
+      "event_status": "Updated Parent Details",
+      "event_name": "BSc(Physician Assistant)"
+    },
+    {
+      "application_id": {
+        "$oid": "62ce99b68fa02c4daa0d42c5"
+      },
+      "timestamp": "13 Jul 2022 10:25 AM",
+      "event_type": "Application",
+      "event_status": "Updated Parent Details",
+      "event_name": "BSc(Physician Assistant)"
+    },
+    {
+      "application_id": {
+        "$oid": "62ce99b68fa02c4daa0d42c5"
+      },
+      "timestamp": "13 Jul 2022 10:25 AM",
+      "event_type": "Application",
+      "event_status": "Updated Parent Details",
+      "event_name": "BSc(Physician Assistant)"
+    },
+    {
+      "application_id": {
+        "$oid": "62ce99b68fa02c4daa0d42c5"
+      },
+      "timestamp": "13 Jul 2022 10:25 AM",
+      "event_type": "Application",
+      "event_status": "Updated Parent Details",
+      "event_name": "BSc(Physician Assistant)"
+    },
+    {
+      "application_id": {
+        "$oid": "62ce99b68fa02c4daa0d42c5"
+      },
+      "timestamp": "13 Jul 2022 10:25 AM",
+      "event_type": "Application",
+      "event_status": "Updated Parent Details",
+      "event_name": "BSc(Physician Assistant)"
+    },
+    {
+      "application_id": {
+        "$oid": "62ce99b68fa02c4daa0d42c5"
+      },
+      "timestamp": "13 Jul 2022 10:25 AM",
+      "event_type": "Application",
+      "event_status": "Updated Parent Details",
+      "event_name": "BSc(Physician Assistant)"
+    },
+    {
+      "application_id": {
+        "$oid": "62ce99b68fa02c4daa0d42c5"
+      },
+      "timestamp": "13 Jul 2022 10:25 AM",
+      "event_type": "Application",
+      "event_status": "Updated Address Details",
+      "event_name": "BSc(Physician Assistant)"
+    },
+    {
+      "application_id": {
+        "$oid": "62ce99b68fa02c4daa0d42c5"
+      },
+      "timestamp": "13 Jul 2022 10:25 AM",
+      "event_type": "Application",
+      "event_status": "Updated Address Details",
+      "event_name": "BSc(Physician Assistant)"
+    },
+    {
+      "application_id": {
+        "$oid": "62ce99b68fa02c4daa0d42c5"
+      },
+      "timestamp": "13 Jul 2022 10:25 AM",
+      "event_type": "Application",
+      "event_status": "Updated Address Details",
+      "event_name": "BSc(Physician Assistant)"
+    },
+    {
+      "application_id": {
+        "$oid": "62ce99b68fa02c4daa0d42c5"
+      },
+      "timestamp": "13 Jul 2022 10:25 AM",
+      "event_type": "Application",
+      "event_status": "Updated Address Details",
+      "event_name": "BSc(Physician Assistant)"
+    },
+    {
+      "application_id": {
+        "$oid": "62ce99b68fa02c4daa0d42c5"
+      },
+      "timestamp": "13 Jul 2022 10:25 AM",
+      "event_type": "Application",
+      "event_status": "Updated Address Details",
+      "event_name": "BSc(Physician Assistant)"
+    }
+  ],
+  "student_id": {
+    "$oid": "62ce99b28fa02c4daa0d42c4"
+  }
+},{
+  "_id": {
+    "$oid": "62cea6fe8fa02c4daa0d42df"
+  },
+  "timelines": [
+    {
+      "application_id": {
+        "$oid": "62cea6fd8fa02c4daa0d42de"
+      },
+      "timestamp": "13 Jul 2022 10:25 AM",
+      "event_type": "Application",
+      "event_status": "Started",
+      "event_name": "BSc(Emergency Medical Technology)"
+    },
+    {
+      "application_id": {
+        "$oid": "62cea6fd8fa02c4daa0d42de"
+      },
+      "timestamp": "13 Jul 2022 10:25 AM",
+      "event_type": "Application",
+      "event_status": "Updated Basic Details",
+      "event_name": "BSc(Emergency Medical Technology)"
+    },
+    {
+      "application_id": {
+        "$oid": "62cea6fd8fa02c4daa0d42de"
+      },
+      "timestamp": "13 Jul 2022 10:25 AM",
+      "event_type": "Application",
+      "event_status": "Updated Parent Details",
+      "event_name": "BSc(Emergency Medical Technology)"
+    },
+    {
+      "application_id": {
+        "$oid": "62cea6fd8fa02c4daa0d42de"
+      },
+      "timestamp": "13 Jul 2022 10:25 AM",
+      "event_type": "Application",
+      "event_status": "Updated Address Details",
+      "event_name": "BSc(Emergency Medical Technology)"
+    },
+    {
+      "application_id": {
+        "$oid": "62cea6fd8fa02c4daa0d42de"
+      },
+      "timestamp": "13 Jul 2022 10:25 AM",
+      "event_type": "Application",
+      "event_status": "Updated Parent Details",
+      "event_name": "BSc(Emergency Medical Technology)"
+    }
+  ],
+  "student_id": {
+    "$oid": "62cea6fd8fa02c4daa0d42dd"
+  }
+},{
+  "_id": {
+    "$oid": "62ceb0008fa02c4daa0d42e5"
+  },
+  "timelines": [
+    {
+      "application_id": {
+        "$oid": "62ceb0008fa02c4daa0d42e4"
+      },
+      "timestamp": "13 Jul 2022 10:25 AM",
+      "event_type": "Application",
+      "event_status": "Started",
+      "event_name": "BSc(Renal Dialysis Technology)"
+    },
+    {
+      "application_id": {
+        "$oid": "62ceb0008fa02c4daa0d42e4"
+      },
+      "timestamp": "13 Jul 2022 10:25 AM",
+      "event_type": "Application",
+      "event_status": "Updated Basic Details",
+      "event_name": "BSc(Renal Dialysis Technology)"
+    },
+    {
+      "application_id": {
+        "$oid": "62ceb0008fa02c4daa0d42e4"
+      },
+      "timestamp": "13 Jul 2022 10:25 AM",
+      "event_type": "Application",
+      "event_status": "Updated Parent Details",
+      "event_name": "BSc(Renal Dialysis Technology)"
+    },
+    {
+      "application_id": {
+        "$oid": "62ceb0008fa02c4daa0d42e4"
+      },
+      "timestamp": "13 Jul 2022 10:25 AM",
+      "event_type": "Application",
+      "event_status": "Updated Address Details",
+      "event_name": "BSc(Renal Dialysis Technology)"
+    },
+    {
+      "application_id": {
+        "$oid": "62ceb0008fa02c4daa0d42e4"
+      },
+      "timestamp": "13 Jul 2022 10:25 AM",
+      "event_type": "Application",
+      "event_status": "Updated Address Details",
+      "event_name": "BSc(Renal Dialysis Technology)"
+    },
+    {
+      "application_id": {
+        "$oid": "62ceb0008fa02c4daa0d42e4"
+      },
+      "timestamp": "13 Jul 2022 10:25 AM",
+      "event_type": "Application",
+      "event_status": "Updated Parent Details",
+      "event_name": "BSc(Renal Dialysis Technology)"
+    },
+    {
+      "application_id": {
+        "$oid": "62ceb0008fa02c4daa0d42e4"
+      },
+      "timestamp": "13 Jul 2022 10:25 AM",
+      "event_type": "Application",
+      "event_status": "Updated Parent Details",
+      "event_name": "BSc(Renal Dialysis Technology)"
+    }
+  ],
+  "student_id": {
+    "$oid": "62ceafff8fa02c4daa0d42e3"
+  }
+},{
+  "_id": {
+    "$oid": "62ceb773f64432659f5766f8"
+  },
+  "timelines": [
+    {
+      "application_id": {
+        "$oid": "62ceb772f64432659f5766f7"
+      },
+      "timestamp": "13 Jul 2022 05:34 PM",
+      "event_type": "Application",
+      "event_status": "Started",
+      "event_name": "BSc(Optometry Technology)"
+    },
+    {
+      "application_id": {
+        "$oid": "62ceb772f64432659f5766f7"
+      },
+      "timestamp": "13 Jul 2022 05:34 PM",
+      "event_type": "Application",
+      "event_status": "Updated Basic Details",
+      "event_name": "BSc(Optometry Technology)"
+    },
+    {
+      "application_id": {
+        "$oid": "62ceb772f64432659f5766f7"
+      },
+      "timestamp": "13 Jul 2022 05:34 PM",
+      "event_type": "Application",
+      "event_status": "Updated Parent Details",
+      "event_name": "BSc(Optometry Technology)"
+    },
+    {
+      "application_id": {
+        "$oid": "62ceb772f64432659f5766f7"
+      },
+      "timestamp": "13 Jul 2022 05:34 PM",
+      "event_type": "Application",
+      "event_status": "Updated Address Details",
+      "event_name": "BSc(Optometry Technology)"
+    },
+    {
+      "application_id": {
+        "$oid": "62ceb772f64432659f5766f7"
+      },
+      "timestamp": "13 Jul 2022 05:34 PM",
+      "event_type": "Application",
+      "event_status": "Updated Address Details",
+      "event_name": "BSc(Optometry Technology)"
+    },
+    {
+      "application_id": {
+        "$oid": "62ceb772f64432659f5766f7"
+      },
+      "timestamp": "13 Jul 2022 05:34 PM",
+      "event_type": "Application",
+      "event_status": "Updated Address Details",
+      "event_name": "BSc(Optometry Technology)"
+    },
+    {
+      "application_id": {
+        "$oid": "62ceb772f64432659f5766f7"
+      },
+      "timestamp": "13 Jul 2022 05:34 PM",
+      "event_type": "Application",
+      "event_status": "Updated Address Details",
+      "event_name": "BSc(Optometry Technology)"
+    },
+    {
+      "application_id": {
+        "$oid": "62ceb772f64432659f5766f7"
+      },
+      "timestamp": "13 Jul 2022 05:34 PM",
+      "event_type": "Application",
+      "event_status": "Updated Address Details",
+      "event_name": "BSc(Optometry Technology)"
+    }
+  ],
+  "student_id": {
+    "$oid": "62ceb772f64432659f5766f6"
+  }
+},{
+  "_id": {
+    "$oid": "62cec6b2f64432659f576745"
+  },
+  "timelines": [
+    {
+      "application_id": {
+        "$oid": "62cec6b2f64432659f576744"
+      },
+      "timestamp": "13 Jul 2022 05:34 PM",
+      "event_type": "Application",
+      "event_status": "Started",
+      "event_name": "BSc(Emergency Medical Technology)"
+    },
+    {
+      "application_id": {
+        "$oid": "62cec6b2f64432659f576744"
+      },
+      "timestamp": "13 Jul 2022 05:34 PM",
+      "event_type": "Application",
+      "event_status": "Updated Basic Details",
+      "event_name": "BSc(Emergency Medical Technology)"
+    },
+    {
+      "application_id": {
+        "$oid": "62cec6b2f64432659f576744"
+      },
+      "timestamp": "13 Jul 2022 05:34 PM",
+      "event_type": "Application",
+      "event_status": "Updated Basic Details",
+      "event_name": "BSc(Emergency Medical Technology)"
+    },
+    {
+      "application_id": {
+        "$oid": "62cec6b2f64432659f576744"
+      },
+      "timestamp": "13 Jul 2022 05:34 PM",
+      "event_type": "Application",
+      "event_status": "Updated Parent Details",
+      "event_name": "BSc(Emergency Medical Technology)"
+    },
+    {
+      "application_id": {
+        "$oid": "62cec6b2f64432659f576744"
+      },
+      "timestamp": "13 Jul 2022 05:34 PM",
+      "event_type": "Application",
+      "event_status": "Updated Parent Details",
+      "event_name": "BSc(Emergency Medical Technology)"
+    },
+    {
+      "application_id": {
+        "$oid": "62cec6b2f64432659f576744"
+      },
+      "timestamp": "13 Jul 2022 05:34 PM",
+      "event_type": "Application",
+      "event_status": "Updated Address Details",
+      "event_name": "BSc(Emergency Medical Technology)"
+    },
+    {
+      "application_id": {
+        "$oid": "62cec6b2f64432659f576744"
+      },
+      "timestamp": "13 Jul 2022 05:34 PM",
+      "event_type": "Application",
+      "event_status": "Updated Address Details",
+      "event_name": "BSc(Emergency Medical Technology)"
+    },
+    {
+      "application_id": {
+        "$oid": "62cec6b2f64432659f576744"
+      },
+      "timestamp": "13 Jul 2022 05:34 PM",
+      "event_type": "Application",
+      "event_status": "Updated Address Details",
+      "event_name": "BSc(Emergency Medical Technology)"
+    },
+    {
+      "application_id": {
+        "$oid": "62cec6b2f64432659f576744"
+      },
+      "timestamp": "13 Jul 2022 05:34 PM",
+      "event_type": "Application",
+      "event_status": "Updated Address Details",
+      "event_name": "BSc(Emergency Medical Technology)"
+    },
+    {
+      "application_id": {
+        "$oid": "62cec6b2f64432659f576744"
+      },
+      "timestamp": "13 Jul 2022 05:34 PM",
+      "event_type": "Application",
+      "event_status": "Updated Address Details",
+      "event_name": "BSc(Emergency Medical Technology)"
+    },
+    {
+      "application_id": {
+        "$oid": "62cec6b2f64432659f576744"
+      },
+      "timestamp": "13 Jul 2022 05:34 PM",
+      "event_type": "Application",
+      "event_status": "Updated Address Details",
+      "event_name": "BSc(Emergency Medical Technology)"
+    }
+  ],
+  "student_id": {
+    "$oid": "62cec6b2f64432659f576743"
+  }
+},{
+  "_id": {
+    "$oid": "62cf8192f64432659f57675f"
+  },
+  "timelines": [
+    {
+      "application_id": {
+        "$oid": "62cf8192f64432659f57675e"
+      },
+      "timestamp": "13 Jul 2022 05:34 PM",
+      "event_type": "Application",
+      "event_status": "Started",
+      "event_name": "BSc(Renal Dialysis Technology)"
+    }
+  ],
+  "student_id": {
+    "$oid": "62cf8191f64432659f57675d"
+  }
+},{
+  "_id": {
+    "$oid": "62cfaa76239a7a4d36aa4bd6"
+  },
+  "timelines": [
+    {
+      "application_id": {
+        "$oid": "62cfaa76239a7a4d36aa4bd5"
+      },
+      "timestamp": "14 Jul 2022 10:15 AM",
+      "event_type": "Application",
+      "event_status": "Started",
+      "event_name": "BSc(Respiratory Technology)"
+    }
+  ],
+  "student_id": {
+    "$oid": "62cfaa76239a7a4d36aa4bd4"
+  }
+},{
+  "_id": {
+    "$oid": "62d11e8bdf56064a19c6c99b"
+  },
+  "timelines": [
+    {
+      "application_id": {
+        "$oid": "62d11e8adf56064a19c6c99a"
+      },
+      "timestamp": "15 Jul 2022 01:27 PM",
+      "event_type": "Application",
+      "event_status": "Started",
+      "event_name": "Bachelor(Social Work)"
+    }
+  ],
+  "student_id": {
+    "$oid": "62d11e86df56064a19c6c999"
+  }
+},{
+  "_id": {
+    "$oid": "62d11ea2df56064a19c6c99e"
+  },
+  "timelines": [
+    {
+      "application_id": {
+        "$oid": "62d11ea1df56064a19c6c99d"
+      },
+      "timestamp": "15 Jul 2022 01:27 PM",
+      "event_type": "Application",
+      "event_status": "Started",
+      "event_name": "Bachelor(Social Work)"
+    }
+  ],
+  "student_id": {
+    "$oid": "62d11e9edf56064a19c6c99c"
+  }
+},{
+  "_id": {
+    "$oid": "62d12d7f0bec92cb85a99fdf"
+  },
+  "timelines": [
+    {
+      "application_id": {
+        "$oid": "62d12d7e0bec92cb85a99fde"
+      },
+      "timestamp": "15 Jul 2022 02:26 PM",
+      "event_type": "Application",
+      "event_status": "Started",
+      "event_name": "Bachelor(Social Work)"
+    }
+  ],
+  "student_id": {
+    "$oid": "62d12d7c0bec92cb85a99fdc"
+  }
+},{
+  "_id": {
+    "$oid": "62d1396bb0cb5ab727088bfb"
+  },
+  "timelines": [
+    {
+      "application_id": {
+        "$oid": "62d1396ab0cb5ab727088bfa"
+      },
+      "timestamp": "15 Jul 2022 03:24 PM",
+      "event_type": "Application",
+      "event_status": "Started",
+      "event_name": "Bachelor(Social Work)"
+    }
+  ],
+  "student_id": {
+    "$oid": "62d13967b0cb5ab727088bf8"
+  }
+},{
+  "_id": {
+    "$oid": "62d13ab70bec92cb85a99feb"
+  },
+  "timelines": [
+    {
+      "application_id": {
+        "$oid": "62d13ab70bec92cb85a99fea"
+      },
+      "timestamp": "15 Jul 2022 02:26 PM",
+      "event_type": "Application",
+      "event_status": "Started",
+      "event_name": "BSc(Emergency Medical Technology)"
+    },
+    {
+      "application_id": {
+        "$oid": "62d13b3c0bec92cb85a99fee"
+      },
+      "timestamp": "15 Jul 2022 02:26 PM",
+      "event_type": "Application",
+      "event_status": "Updated Basic Details",
+      "event_name": "MSc(Health Informatics and Analytics)"
+    },
+    {
+      "application_id": {
+        "$oid": "62d13b3c0bec92cb85a99fee"
+      },
+      "timestamp": "15 Jul 2022 02:26 PM",
+      "event_type": "Application",
+      "event_status": "Updated Basic Details",
+      "event_name": "MSc(Health Informatics and Analytics)"
+    },
+    {
+      "application_id": {
+        "$oid": "62d13b3c0bec92cb85a99fee"
+      },
+      "timestamp": "15 Jul 2022 02:26 PM",
+      "event_type": "Application",
+      "event_status": "Updated Basic Details",
+      "event_name": "MSc(Health Informatics and Analytics)"
+    },
+    {
+      "application_id": {
+        "$oid": "62d13ab70bec92cb85a99fea"
+      },
+      "timestamp": "15 Jul 2022 02:26 PM",
+      "event_type": "Application",
+      "event_status": "Updated Basic Details",
+      "event_name": "BSc(Emergency Medical Technology)"
+    },
+    {
+      "application_id": {
+        "$oid": "62d13ab70bec92cb85a99fea"
+      },
+      "timestamp": "15 Jul 2022 02:26 PM",
+      "event_type": "Application",
+      "event_status": "Updated Parent Details",
+      "event_name": "BSc(Emergency Medical Technology)"
+    },
+    {
+      "application_id": {
+        "$oid": "62d13ab70bec92cb85a99fea"
+      },
+      "timestamp": "15 Jul 2022 02:26 PM",
+      "event_type": "Application",
+      "event_status": "Updated Address Details",
+      "event_name": "BSc(Emergency Medical Technology)"
+    },
+    {
+      "application_id": {
+        "$oid": "62d13ab70bec92cb85a99fea"
+      },
+      "timestamp": "15 Jul 2022 02:26 PM",
+      "event_type": "Application",
+      "event_status": "Updated Education Details",
+      "event_name": "BSc(Emergency Medical Technology)"
+    },
+    {
+      "application_id": {
+        "$oid": "62d13ab70bec92cb85a99fea"
+      },
+      "timestamp": "15 Jul 2022 02:26 PM",
+      "event_type": "Payment",
+      "event_status": "Initiated",
+      "event_name": "BSc(Emergency Medical Technology)"
+    },
+    {
+      "timestamp": "15 Jul 2022 02:26 PM",
+      "event_type": "Payment",
+      "event_status": "Done",
+      "event_name": "BSc(Emergency Medical Technology)"
+    },
+    {
+      "application_id": {
+        "$oid": "62d13ab70bec92cb85a99fea"
+      },
+      "timestamp": "15 Jul 2022 02:26 PM",
+      "event_type": "Application",
+      "event_status": "Uploaded documents",
+      "event_name": "BSc(Emergency Medical Technology)"
+    },
+    {
+      "application_id": {
+        "$oid": "62d13eda0bec92cb85a99ff7"
+      },
+      "timestamp": "15 Jul 2022 02:26 PM",
+      "event_type": "Application",
+      "event_status": "Updated Basic Details",
+      "event_name": "MBA(Hospital & Healthcare Management)"
+    }
+  ],
+  "student_id": {
+    "$oid": "62d13ab60bec92cb85a99fe9"
+  }
+},{
+  "_id": {
+    "$oid": "62d13c69e4f83a3c969a1f8e"
+  },
+  "timelines": [
+    {
+      "application_id": {
+        "$oid": "62d13c68e4f83a3c969a1f8d"
+      },
+      "timestamp": "15 Jul 2022 03:37 PM",
+      "event_type": "Application",
+      "event_status": "Started",
+      "event_name": "Bachelor(Social Work)"
+    }
+  ],
+  "student_id": {
+    "$oid": "62d13c64e4f83a3c969a1f8b"
+  }
+},{
+  "_id": {
+    "$oid": "62d13eb5d244c7b25316b759"
+  },
+  "timelines": [
+    {
+      "application_id": {
+        "$oid": "62d13eb4d244c7b25316b758"
+      },
+      "timestamp": "15 Jul 2022 03:47 PM",
+      "event_type": "Application",
+      "event_status": "Started",
+      "event_name": "Bachelor(Social Work)"
+    }
+  ],
+  "student_id": {
+    "$oid": "62d13eb1d244c7b25316b757"
+  }
+},{
+  "_id": {
+    "$oid": "62d140d133c2582df5f573b0"
+  },
+  "timelines": [
+    {
+      "application_id": {
+        "$oid": "62d140d033c2582df5f573af"
+      },
+      "timestamp": "15 Jul 2022 03:56 PM",
+      "event_type": "Application",
+      "event_status": "Started",
+      "event_name": "Bachelor(Social Work)"
+    }
+  ],
+  "student_id": {
+    "$oid": "62d140cd33c2582df5f573ae"
+  }
+},{
+  "_id": {
+    "$oid": "62d1412433c2582df5f573b3"
+  },
+  "timelines": [
+    {
+      "application_id": {
+        "$oid": "62d1412333c2582df5f573b2"
+      },
+      "timestamp": "15 Jul 2022 03:56 PM",
+      "event_type": "Application",
+      "event_status": "Started",
+      "event_name": "Bachelor(Social Work)"
+    }
+  ],
+  "student_id": {
+    "$oid": "62d1412033c2582df5f573b1"
+  }
+},{
+  "_id": {
+    "$oid": "62d1418433c2582df5f573b7"
+  },
+  "timelines": [
+    {
+      "application_id": {
+        "$oid": "62d1418333c2582df5f573b6"
+      },
+      "timestamp": "15 Jul 2022 03:56 PM",
+      "event_type": "Application",
+      "event_status": "Started",
+      "event_name": "Bachelor(Social Work)"
+    }
+  ],
+  "student_id": {
+    "$oid": "62d1418033c2582df5f573b4"
+  }
+},{
+  "_id": {
+    "$oid": "62d14ac670b417e6f6df9712"
+  },
+  "timelines": [
+    {
+      "application_id": {
+        "$oid": "62d14ac470b417e6f6df9711"
+      },
+      "timestamp": "15 Jul 2022 04:37 PM",
+      "event_type": "Application",
+      "event_status": "Started",
+      "event_name": "Bachelor(Social Work)"
+    }
+  ],
+  "student_id": {
+    "$oid": "62d14ac170b417e6f6df970f"
+  }
+},{
+  "_id": {
+    "$oid": "62d28733fb89ea1e52d4c4b6"
+  },
+  "timelines": [
+    {
+      "application_id": {
+        "$oid": "62d28732fb89ea1e52d4c4b5"
+      },
+      "timestamp": "15 Jul 2022 11:25 PM",
+      "event_type": "Application",
+      "event_status": "Started",
+      "event_name": "BSc(Physician Assistant)"
+    }
+  ],
+  "student_id": {
+    "$oid": "62d2872efb89ea1e52d4c4b4"
+  }
+},{
+  "_id": {
+    "$oid": "62d28907fb89ea1e52d4c4b9"
+  },
+  "timelines": [
+    {
+      "application_id": {
+        "$oid": "62d28906fb89ea1e52d4c4b8"
+      },
+      "timestamp": "15 Jul 2022 11:25 PM",
+      "event_type": "Application",
+      "event_status": "Started",
+      "event_name": "BSc(Physician Assistant)"
+    }
+  ],
+  "student_id": {
+    "$oid": "62d28902fb89ea1e52d4c4b7"
+  }
+},{
+  "_id": {
+    "$oid": "62d28a45fb89ea1e52d4c4bc"
+  },
+  "timelines": [
+    {
+      "application_id": {
+        "$oid": "62d28a44fb89ea1e52d4c4bb"
+      },
+      "timestamp": "15 Jul 2022 11:25 PM",
+      "event_type": "Application",
+      "event_status": "Started",
+      "event_name": "BSc(Physician Assistant)"
+    }
+  ],
+  "student_id": {
+    "$oid": "62d28a3ffb89ea1e52d4c4ba"
+  }
+},{
+  "_id": {
+    "$oid": "62d28b45fb89ea1e52d4c4bf"
+  },
+  "timelines": [
+    {
+      "application_id": {
+        "$oid": "62d28b45fb89ea1e52d4c4be"
+      },
+      "timestamp": "15 Jul 2022 11:25 PM",
+      "event_type": "Application",
+      "event_status": "Started",
+      "event_name": "BSc(Physician Assistant)"
+    }
+  ],
+  "student_id": {
+    "$oid": "62d28b40fb89ea1e52d4c4bd"
+  }
+},{
+  "_id": {
+    "$oid": "62d4f8aefb89ea1e52d4c4c3"
+  },
+  "timelines": [
+    {
+      "application_id": {
+        "$oid": "62d4f8aefb89ea1e52d4c4c2"
+      },
+      "timestamp": "15 Jul 2022 11:25 PM",
+      "event_type": "Application",
+      "event_status": "Started",
+      "event_name": "BSc(Emergency Medical Technology)"
+    }
+  ],
+  "student_id": {
+    "$oid": "62d4f8adfb89ea1e52d4c4c1"
+  }
+},{
+  "_id": {
+    "$oid": "62d4f9b7fb89ea1e52d4c4c7"
+  },
+  "timelines": [
+    {
+      "application_id": {
+        "$oid": "62d4f9b6fb89ea1e52d4c4c6"
+      },
+      "timestamp": "15 Jul 2022 11:25 PM",
+      "event_type": "Application",
+      "event_status": "Started",
+      "event_name": "BSc(Renal Dialysis Technology)"
+    }
+  ],
+  "student_id": {
+    "$oid": "62d4f9b6fb89ea1e52d4c4c4"
+  }
+},{
+  "_id": {
+    "$oid": "62d5889c103c53def1b73438"
+  },
+  "timelines": [
+    {
+      "application_id": {
+        "$oid": "62d5889b103c53def1b73437"
+      },
+      "timestamp": "18 Jul 2022 09:50 PM",
+      "event_type": "Application",
+      "event_status": "Started",
+      "event_name": "BSc(Medical Lab Technology)"
+    }
+  ],
+  "student_id": {
+    "$oid": "62d5889b103c53def1b73435"
+  }
+},{
+  "_id": {
+    "$oid": "62d58a1350a6ae1ab59de94a"
+  },
+  "timelines": [
+    {
+      "application_id": {
+        "$oid": "62d58a1350a6ae1ab59de949"
+      },
+      "timestamp": "18 Jul 2022 09:57 PM",
+      "event_type": "Application",
+      "event_status": "Started",
+      "event_name": "BSc(Medical Lab Technology)"
+    }
+  ],
+  "student_id": {
+    "$oid": "62d58a1250a6ae1ab59de947"
+  }
+},{
+  "_id": {
+    "$oid": "62d58b4450a6ae1ab59de94e"
+  },
+  "timelines": [
+    {
+      "application_id": {
+        "$oid": "62d58b4450a6ae1ab59de94d"
+      },
+      "timestamp": "18 Jul 2022 09:57 PM",
+      "event_type": "Application",
+      "event_status": "Started",
+      "event_name": "BSc(Medical Lab Technology)"
+    }
+  ],
+  "student_id": {
+    "$oid": "62d58b4350a6ae1ab59de94b"
+  }
+},{
+  "_id": {
+    "$oid": "62d58ba45bbce12805190c7a"
+  },
+  "timelines": [
+    {
+      "application_id": {
+        "$oid": "62d58ba45bbce12805190c79"
+      },
+      "timestamp": "18 Jul 2022 10:04 PM",
+      "event_type": "Application",
+      "event_status": "Started",
+      "event_name": "BSc(Medical Lab Technology)"
+    }
+  ],
+  "student_id": {
+    "$oid": "62d58ba35bbce12805190c77"
+  }
+},{
+  "_id": {
+    "$oid": "62d58ee3ed486b7273a52900"
+  },
+  "timelines": [
+    {
+      "application_id": {
+        "$oid": "62d58ee3ed486b7273a528ff"
+      },
+      "timestamp": "18 Jul 2022 10:15 PM",
+      "event_type": "Application",
+      "event_status": "Started",
+      "event_name": "BSc(Medical Lab Technology)"
+    }
+  ],
+  "student_id": {
+    "$oid": "62d58ee2ed486b7273a528fd"
+  }
+},{
+  "_id": {
+    "$oid": "62d663f6888df24efa1f4ec7"
+  },
+  "timelines": [
+    {
+      "application_id": {
+        "$oid": "62d663f6888df24efa1f4ec6"
+      },
+      "timestamp": "19 Jul 2022 01:19 PM",
+      "event_type": "Application",
+      "event_status": "Started",
+      "event_name": "BSc(Anesthesiology and Operation Technology)"
+    }
+  ],
+  "student_id": {
+    "$oid": "62d663f5888df24efa1f4ec5"
+  }
+},{
+  "_id": {
+    "$oid": "62d78e2deb9ad12eccf7cb6f"
+  },
+  "timelines": [
+    {
+      "application_id": {
+        "$oid": "62d78e2deb9ad12eccf7cb6e"
+      },
+      "timestamp": "20 Jul 2022 10:37 AM",
+      "event_type": "Application",
+      "event_status": "Started",
+      "event_name": "BSc(Emergency Medical Technology)"
+    }
+  ],
+  "student_id": {
+    "$oid": "62d78e2ceb9ad12eccf7cb6d"
+  }
+},{
+  "_id": {
+    "$oid": "62d80f73f333c89f8b3fe952"
+  },
+  "timelines": [
+    {
+      "application_id": {
+        "$oid": "62d80f73f333c89f8b3fe951"
+      },
+      "timestamp": "20 Jul 2022 07:42 PM",
+      "event_type": "Application",
+      "event_status": "Started",
+      "event_name": "BSc(Medical Lab Technology)"
+    }
+  ],
+  "student_id": {
+    "$oid": "62d80f72f333c89f8b3fe94f"
+  }
+},{
+  "_id": {
+    "$oid": "62d8103cf333c89f8b3fe956"
+  },
+  "timelines": [
+    {
+      "application_id": {
+        "$oid": "62d8103cf333c89f8b3fe955"
+      },
+      "timestamp": "20 Jul 2022 07:42 PM",
+      "event_type": "Application",
+      "event_status": "Started",
+      "event_name": "BSc(Medical Lab Technology)"
+    }
+  ],
+  "student_id": {
+    "$oid": "62d8103bf333c89f8b3fe953"
+  }
+},{
+  "_id": {
+    "$oid": "62d8c14af5de2702972c9763"
+  },
+  "timelines": [
+    {
+      "application_id": {
+        "$oid": "62d8c14af5de2702972c9762"
+      },
+      "timestamp": "21 Jul 2022 12:14 AM",
+      "event_type": "Application",
+      "event_status": "Started",
+      "event_name": "BSc(Respiratory Technology)"
+    }
+  ],
+  "student_id": {
+    "$oid": "62d8c149f5de2702972c9761"
+  }
+},{
+  "_id": {
+    "$oid": "62da987c60288a31a2b928b6"
+  },
+  "timelines": [
+    {
+      "application_id": {
+        "$oid": "62da987b60288a31a2b928b5"
+      },
+      "timestamp": "22 Jul 2022 05:25 PM",
+      "event_type": "Application",
+      "event_status": "Started",
+      "event_name": "BSc(Respiratory Technology)"
+    },
+    {
+      "application_id": {
+        "$oid": "62da987b60288a31a2b928b5"
+      },
+      "timestamp": "22 Jul 2022 05:25 PM",
+      "event_type": "Application",
+      "event_status": "Updated Basic Details",
+      "event_name": "BSc(Respiratory Technology)"
+    },
+    {
+      "application_id": {
+        "$oid": "62da987b60288a31a2b928b5"
+      },
+      "timestamp": "22 Jul 2022 05:25 PM",
+      "event_type": "Application",
+      "event_status": "Updated Basic Details",
+      "event_name": "BSc(Respiratory Technology)"
+    },
+    {
+      "application_id": {
+        "$oid": "62da987b60288a31a2b928b5"
+      },
+      "timestamp": "22 Jul 2022 05:25 PM",
+      "event_type": "Application",
+      "event_status": "Updated Basic Details",
+      "event_name": "BSc(Respiratory Technology)"
+    },
+    {
+      "application_id": {
+        "$oid": "62da987b60288a31a2b928b5"
+      },
+      "timestamp": "22 Jul 2022 05:25 PM",
+      "event_type": "Application",
+      "event_status": "Updated Parent Details",
+      "event_name": "BSc(Respiratory Technology)"
+    },
+    {
+      "application_id": {
+        "$oid": "62da987b60288a31a2b928b5"
+      },
+      "timestamp": "22 Jul 2022 05:25 PM",
+      "event_type": "Application",
+      "event_status": "Updated Address Details",
+      "event_name": "BSc(Respiratory Technology)"
+    },
+    {
+      "application_id": {
+        "$oid": "62da987b60288a31a2b928b5"
+      },
+      "timestamp": "22 Jul 2022 05:25 PM",
+      "event_type": "Application",
+      "event_status": "Updated Education Details",
+      "event_name": "BSc(Respiratory Technology)"
+    },
+    {
+      "application_id": {
+        "$oid": "62da987b60288a31a2b928b5"
+      },
+      "timestamp": "22 Jul 2022 05:25 PM",
+      "event_type": "Payment",
+      "event_status": "Initiated",
+      "event_name": "BSc(Respiratory Technology)"
+    },
+    {
+      "timestamp": "22 Jul 2022 05:25 PM",
+      "event_type": "Payment",
+      "event_status": "Done",
+      "event_name": "BSc(Respiratory Technology)"
+    },
+    {
+      "application_id": {
+        "$oid": "62da987b60288a31a2b928b5"
+      },
+      "timestamp": "22 Jul 2022 05:25 PM",
+      "event_type": "Application",
+      "event_status": "Updated Basic Details",
+      "event_name": "BSc(Respiratory Technology)"
+    },
+    {
+      "application_id": {
+        "$oid": "62da987b60288a31a2b928b5"
+      },
+      "timestamp": "22 Jul 2022 05:25 PM",
+      "event_type": "Application",
+      "event_status": "Updated Parent Details",
+      "event_name": "BSc(Respiratory Technology)"
+    },
+    {
+      "application_id": {
+        "$oid": "62da987b60288a31a2b928b5"
+      },
+      "timestamp": "22 Jul 2022 05:25 PM",
+      "event_type": "Application",
+      "event_status": "Updated Address Details",
+      "event_name": "BSc(Respiratory Technology)"
+    },
+    {
+      "application_id": {
+        "$oid": "62da987b60288a31a2b928b5"
+      },
+      "timestamp": "22 Jul 2022 05:25 PM",
+      "event_type": "Application",
+      "event_status": "Updated Education Details",
+      "event_name": "BSc(Respiratory Technology)"
+    },
+    {
+      "application_id": {
+        "$oid": "62da987b60288a31a2b928b5"
+      },
+      "timestamp": "22 Jul 2022 05:25 PM",
+      "event_type": "Application",
+      "event_status": "Updated Address Details",
+      "event_name": "BSc(Respiratory Technology)"
+    },
+    {
+      "application_id": {
+        "$oid": "62dae02260288a31a2b928d7"
+      },
+      "timestamp": "22 Jul 2022 05:25 PM",
+      "event_type": "Application",
+      "event_status": "Updated Basic Details",
+      "event_name": "MSc(Clinical Psychology)"
+    }
+  ],
+  "student_id": {
+    "$oid": "62da987b60288a31a2b928b4"
+  }
+},{
+  "_id": {
+    "$oid": "62de5f4bb6033e3757ed20ee"
+  },
+  "timelines": [
+    {
+      "application_id": {
+        "$oid": "62de5f4ab6033e3757ed20ed"
+      },
+      "timestamp": "25 Jul 2022 02:36 PM",
+      "event_type": "Application",
+      "event_status": "Started",
+      "event_name": "BSc(Physician Assistant)"
+    }
+  ],
+  "student_id": {
+    "$oid": "62de5f44b6033e3757ed20eb"
+  }
+},{
+  "_id": {
+    "$oid": "62df98aecbc1af01d6b0aea6"
+  },
+  "timelines": [
+    {
+      "application_id": {
+        "$oid": "62df98adcbc1af01d6b0aea5"
+      },
+      "timestamp": "26 Jul 2022 11:17 AM",
+      "event_type": "Application",
+      "event_status": "Started",
+      "event_name": "BSc(Physician Assistant)"
+    }
+  ],
+  "student_id": {
+    "$oid": "62df98aacbc1af01d6b0aea3"
+  }
+},{
+  "_id": {
+    "$oid": "62dfe733cdce2d5d371af30f"
+  },
+  "timelines": [
+    {
+      "application_id": {
+        "$oid": "62dfe732cdce2d5d371af30e"
+      },
+      "timestamp": "26 Jul 2022 06:35 PM",
+      "event_type": "Application",
+      "event_status": "Started",
+      "event_name": "BSc(Medical Lab Technology)"
+    }
+  ],
+  "student_id": {
+    "$oid": "62dfe730cdce2d5d371af30c"
+  }
+},{
+  "_id": {
+    "$oid": "62dfec31363a0e0c2a276c89"
+  },
+  "timelines": [
+    {
+      "application_id": {
+        "$oid": "62dfec30363a0e0c2a276c88"
+      },
+      "timestamp": "26 Jul 2022 06:58 PM",
+      "event_type": "Application",
+      "event_status": "Started",
+      "event_name": "BSc(Medical Lab Technology)"
+    }
+  ],
+  "student_id": {
+    "$oid": "62dfec2e363a0e0c2a276c86"
+  }
+},{
+  "_id": {
+    "$oid": "62dfedde2e6ef33a6efc597c"
+  },
+  "timelines": [
+    {
+      "application_id": {
+        "$oid": "62dfeddc2e6ef33a6efc597b"
+      },
+      "timestamp": "26 Jul 2022 07:05 PM",
+      "event_type": "Application",
+      "event_status": "Started",
+      "event_name": "BSc(Medical Lab Technology)"
+    }
+  ],
+  "student_id": {
+    "$oid": "62dfedd92e6ef33a6efc5979"
+  }
+},{
+  "_id": {
+    "$oid": "62dfee837145d1172c09e4bf"
+  },
+  "timelines": [
+    {
+      "application_id": {
+        "$oid": "62dfee827145d1172c09e4be"
+      },
+      "timestamp": "26 Jul 2022 07:08 PM",
+      "event_type": "Application",
+      "event_status": "Started",
+      "event_name": "BSc(Medical Lab Technology)"
+    }
+  ],
+  "student_id": {
+    "$oid": "62dfee817145d1172c09e4bc"
+  }
+},{
+  "_id": {
+    "$oid": "62e0b7ab0d4498ca1f87a4eb"
+  },
+  "timelines": [
+    {
+      "application_id": {
+        "$oid": "62e0b7aa0d4498ca1f87a4ea"
+      },
+      "timestamp": "27 Jul 2022 12:37 AM",
+      "event_type": "Application",
+      "event_status": "Started",
+      "event_name": "BSc(Physician Assistant)"
+    },
+    {
+      "application_id": {
+        "$oid": "62e0b7aa0d4498ca1f87a4ea"
+      },
+      "timestamp": "27 Jul 2022 12:37 AM",
+      "event_type": "Application",
+      "event_status": "Updated Basic Details",
+      "event_name": "BSc(Physician Assistant)"
+    },
+    {
+      "application_id": {
+        "$oid": "62e0b7aa0d4498ca1f87a4ea"
+      },
+      "timestamp": "27 Jul 2022 12:37 AM",
+      "event_type": "Application",
+      "event_status": "Updated Parent Details",
+      "event_name": "BSc(Physician Assistant)"
+    },
+    {
+      "application_id": {
+        "$oid": "62e0b7aa0d4498ca1f87a4ea"
+      },
+      "timestamp": "27 Jul 2022 12:37 AM",
+      "event_type": "Application",
+      "event_status": "Updated Address Details",
+      "event_name": "BSc(Physician Assistant)"
+    },
+    {
+      "application_id": {
+        "$oid": "62e0b7aa0d4498ca1f87a4ea"
+      },
+      "timestamp": "27 Jul 2022 12:37 AM",
+      "event_type": "Application",
+      "event_status": "Updated Education Details",
+      "event_name": "BSc(Physician Assistant)"
+    },
+    {
+      "application_id": {
+        "$oid": "62e0b7aa0d4498ca1f87a4ea"
+      },
+      "timestamp": "27 Jul 2022 12:37 AM",
+      "event_type": "Payment",
+      "event_status": "Initiated",
+      "event_name": "BSc(Physician Assistant)"
+    },
+    {
+      "timestamp": "27 Jul 2022 12:37 AM",
+      "event_type": "Payment",
+      "event_status": "Done",
+      "event_name": "BSc(Physician Assistant)"
+    },
+    {
+      "application_id": {
+        "$oid": "62e0b7aa0d4498ca1f87a4ea"
+      },
+      "timestamp": "27 Jul 2022 12:37 AM",
+      "event_type": "Application",
+      "event_status": "Uploaded documents",
+      "event_name": "BSc(Physician Assistant)"
+    }
+  ],
+  "student_id": {
+    "$oid": "62e0b7a60d4498ca1f87a4e9"
+  }
+},{
+  "_id": {
+    "$oid": "62e12837163029d76030c16f"
+  },
+  "timelines": [
+    {
+      "application_id": {
+        "$oid": "62e12835163029d76030c16e"
+      },
+      "timestamp": "27 Jul 2022 04:57 PM",
+      "event_type": "Application",
+      "event_status": "Started",
+      "event_name": "BSc(Physician Assistant)"
+    }
+  ],
+  "student_id": {
+    "$oid": "62e1282f163029d76030c16c"
+  }
+},{
+  "_id": {
+    "$oid": "62e2502226c6cbfe6c4e5d07"
+  },
+  "timelines": [
+    {
+      "application_id": {
+        "$oid": "62e2502226c6cbfe6c4e5d06"
+      },
+      "timestamp": "27 Jul 2022 10:44 PM",
+      "event_type": "Application",
+      "event_status": "Started",
+      "event_name": "BSc(Medical Lab Technology)"
+    }
+  ],
+  "student_id": {
+    "$oid": "62e2502126c6cbfe6c4e5d04"
+  }
+},{
+  "_id": {
+    "$oid": "62e76a2fb21bb6d6d326028f"
+  },
+  "timelines": [
+    {
+      "application_id": {
+        "$oid": "62e76a2eb21bb6d6d326028e"
+      },
+      "timestamp": "01 Aug 2022 11:18 AM",
+      "event_type": "Application",
+      "event_status": "Started",
+      "event_name": "BSc(Medical Lab Technology)"
+    }
+  ],
+  "student_id": {
+    "$oid": "62e76a2db21bb6d6d326028c"
+  }
+},{
+  "_id": {
+    "$oid": "62e772ba4c1ca177203e8e92"
+  },
+  "timelines": [
+    {
+      "application_id": {
+        "$oid": "62e772b84c1ca177203e8e91"
+      },
+      "timestamp": "01 Aug 2022 11:58 AM",
+      "event_type": "Application",
+      "event_status": "Started",
+      "event_name": "BSc(Physician Assistant)"
+    }
+  ],
+  "student_id": {
+    "$oid": "62e772af4c1ca177203e8e8f"
+  }
+},{
+  "_id": {
+    "$oid": "62e783944c1ca177203e8e96"
+  },
+  "timelines": [
+    {
+      "application_id": {
+        "$oid": "62e783914c1ca177203e8e95"
+      },
+      "timestamp": "01 Aug 2022 11:58 AM",
+      "event_type": "Application",
+      "event_status": "Started",
+      "event_name": "BSc(Physician Assistant)"
+    },
+    {
+      "application_id": {
+        "$oid": "62e783914c1ca177203e8e95"
+      },
+      "timestamp": "30 Jul 2022 02:03 PM",
+      "event_type": "Application",
+      "event_status": "Updated Basic Details",
+      "event_name": "BSc(Physician Assistant)"
+    },
+    {
+      "application_id": {
+        "$oid": "62e783914c1ca177203e8e95"
+      },
+      "timestamp": "30 Jul 2022 02:03 PM",
+      "event_type": "Application",
+      "event_status": "Updated Parent Details",
+      "event_name": "BSc(Physician Assistant)"
+    },
+    {
+      "application_id": {
+        "$oid": "62e783914c1ca177203e8e95"
+      },
+      "timestamp": "30 Jul 2022 02:03 PM",
+      "event_type": "Application",
+      "event_status": "Updated Address Details",
+      "event_name": "BSc(Physician Assistant)"
+    }
+  ],
+  "student_id": {
+    "$oid": "62e783874c1ca177203e8e93"
+  }
+},{
+  "_id": {
+    "$oid": "62e7a1b60fdb1881448356fc"
+  },
+  "timelines": [
+    {
+      "application_id": {
+        "$oid": "62e7a1b50fdb1881448356fb"
+      },
+      "timestamp": "01 Aug 2022 01:58 PM",
+      "event_type": "Application",
+      "event_status": "Started",
+      "event_name": "BSc(Emergency Medical Technology)"
+    }
+  ],
+  "student_id": {
+    "$oid": "62e7a1b50fdb1881448356fa"
+  }
+},{
+  "_id": {
+    "$oid": "62e7a1da0fdb1881448356ff"
+  },
+  "timelines": [
+    {
+      "application_id": {
+        "$oid": "62e7a1d90fdb1881448356fe"
+      },
+      "timestamp": "01 Aug 2022 01:58 PM",
+      "event_type": "Application",
+      "event_status": "Started",
+      "event_name": "BSc(Respiratory Technology)"
+    }
+  ],
+  "student_id": {
+    "$oid": "62e7a1d80fdb1881448356fd"
+  }
+},{
+  "_id": {
+    "$oid": "62e7c34cfb4e625138499724"
+  },
+  "timelines": [
+    {
+      "application_id": {
+        "$oid": "62e7c34cfb4e625138499723"
+      },
+      "timestamp": "01 Aug 2022 03:29 PM",
+      "event_type": "Application",
+      "event_status": "Started",
+      "event_name": "BSc(Respiratory Technology)"
+    }
+  ],
+  "student_id": {
+    "$oid": "62e7c34bfb4e625138499722"
+  }
+},{
+  "_id": {
+    "$oid": "62e7c4e8fb4e625138499727"
+  },
+  "timelines": [
+    {
+      "application_id": {
+        "$oid": "62e7c4e8fb4e625138499726"
+      },
+      "timestamp": "01 Aug 2022 03:29 PM",
+      "event_type": "Application",
+      "event_status": "Started",
+      "event_name": "BSc(Medical Lab Technology)"
+    }
+  ],
+  "student_id": {
+    "$oid": "62e7c4e6fb4e625138499725"
+  }
+},{
+  "_id": {
+    "$oid": "62e7f76cfb4e62513849972b"
+  },
+  "timelines": [
+    {
+      "application_id": {
+        "$oid": "62e7f76bfb4e62513849972a"
+      },
+      "timestamp": "01 Aug 2022 03:29 PM",
+      "event_type": "Application",
+      "event_status": "Started",
+      "event_name": "BSc(Emergency Medical Technology)"
+    }
+  ],
+  "student_id": {
+    "$oid": "62e7f76afb4e625138499728"
+  }
+},{
+  "_id": {
+    "$oid": "62e7f885fb4e62513849972e"
+  },
+  "timelines": [
+    {
+      "application_id": {
+        "$oid": "62e7f884fb4e62513849972d"
+      },
+      "timestamp": "01 Aug 2022 03:29 PM",
+      "event_type": "Application",
+      "event_status": "Started",
+      "event_name": "BSc(Respiratory Technology)"
+    }
+  ],
+  "student_id": {
+    "$oid": "62e7f883fb4e62513849972c"
+  }
+},{
+  "_id": {
+    "$oid": "62e897b4b9a1900753c05994"
+  },
+  "timelines": [
+    {
+      "application_id": {
+        "$oid": "62e897b3b9a1900753c05993"
+      },
+      "timestamp": "01 Aug 2022 10:06 PM",
+      "event_type": "Application",
+      "event_status": "Started",
+      "event_name": "BSc(Emergency Medical Technology)"
+    },
+    {
+      "application_id": {
+        "$oid": "62e8980eb9a1900753c05997"
+      },
+      "timestamp": "01 Aug 2022 10:06 PM",
+      "event_type": "Application",
+      "event_status": "Updated Basic Details",
+      "event_name": "MPH(Master Of Public Helth )"
+    },
+    {
+      "application_id": {
+        "$oid": "62e89823b9a1900753c0599a"
+      },
+      "timestamp": "01 Aug 2022 10:06 PM",
+      "event_type": "Application",
+      "event_status": "Updated Basic Details",
+      "event_name": "MSc(Health Informatics and Analytics)"
+    }
+  ],
+  "student_id": {
+    "$oid": "62e897b2b9a1900753c05992"
+  }
+},{
+  "_id": {
+    "$oid": "62e8a1f2b9a1900753c0599d"
+  },
+  "timelines": [
+    {
+      "application_id": {
+        "$oid": "62e8a1f1b9a1900753c0599c"
+      },
+      "timestamp": "01 Aug 2022 10:06 PM",
+      "event_type": "Application",
+      "event_status": "Started",
+      "event_name": "BSc(Respiratory Technology)"
+    }
+  ],
+  "student_id": {
+    "$oid": "62e8a1f0b9a1900753c0599b"
+  }
+},{
+  "_id": {
+    "$oid": "62e8cc32409c4f74fc2d8a1a"
+  },
+  "timelines": [
+    {
+      "application_id": {
+        "$oid": "62e8cc31409c4f74fc2d8a19"
+      },
+      "timestamp": "02 Aug 2022 10:11 AM",
+      "event_type": "Application",
+      "event_status": "Started",
+      "event_name": "BSc(Respiratory Technology)"
+    }
+  ],
+  "student_id": {
+    "$oid": "62e8cc30409c4f74fc2d8a18"
+  }
+},{
+  "_id": {
+    "$oid": "62e8cd17409c4f74fc2d8a1f"
+  },
+  "timelines": [
+    {
+      "application_id": {
+        "$oid": "62e8cd16409c4f74fc2d8a1e"
+      },
+      "timestamp": "02 Aug 2022 10:11 AM",
+      "event_type": "Application",
+      "event_status": "Started",
+      "event_name": "BSc(Respiratory Technology)"
+    }
+  ],
+  "student_id": {
+    "$oid": "62e8cd15409c4f74fc2d8a1c"
+  }
+},{
+  "_id": {
+    "$oid": "62e8cd68409c4f74fc2d8a22"
+  },
+  "timelines": [
+    {
+      "application_id": {
+        "$oid": "62e8cd67409c4f74fc2d8a21"
+      },
+      "timestamp": "02 Aug 2022 10:11 AM",
+      "event_type": "Application",
+      "event_status": "Started",
+      "event_name": "BSc(Renal Dialysis Technology)"
+    }
+  ],
+  "student_id": {
+    "$oid": "62e8cd66409c4f74fc2d8a20"
+  }
+},{
+  "_id": {
+    "$oid": "62e8daf7bfffbe71d72b038c"
+  },
+  "timelines": [
+    {
+      "application_id": {
+        "$oid": "62e8daf6bfffbe71d72b038b"
+      },
+      "timestamp": "02 Aug 2022 01:11 PM",
+      "event_type": "Application",
+      "event_status": "Started",
+      "event_name": "BSc(Respiratory Technology)"
+    }
+  ],
+  "student_id": {
+    "$oid": "62e8daf5bfffbe71d72b038a"
+  }
+},{
+  "_id": {
+    "$oid": "62e8e75cc9b273df986027d2"
+  },
+  "timelines": [
+    {
+      "application_id": {
+        "$oid": "62e8e75bc9b273df986027d1"
+      },
+      "timestamp": "02 Aug 2022 01:54 PM",
+      "event_type": "Application",
+      "event_status": "Started",
+      "event_name": "BSc(Anesthesiology and Operation Technology)"
+    }
+  ],
+  "student_id": {
+    "$oid": "62e8e75ac9b273df986027cf"
+  }
+},{
+  "_id": {
+    "$oid": "62e8e79dc9b273df986027d5"
+  },
+  "timelines": [
+    {
+      "application_id": {
+        "$oid": "62e8e79dc9b273df986027d4"
+      },
+      "timestamp": "02 Aug 2022 01:54 PM",
+      "event_type": "Application",
+      "event_status": "Started",
+      "event_name": "BSc(Anesthesiology and Operation Technology)"
+    }
+  ],
+  "student_id": {
+    "$oid": "62e8e79bc9b273df986027d3"
+  }
+},{
+  "_id": {
+    "$oid": "62e8e7dec9b273df986027d8"
+  },
+  "timelines": [
+    {
+      "application_id": {
+        "$oid": "62e8e7ddc9b273df986027d7"
+      },
+      "timestamp": "02 Aug 2022 01:54 PM",
+      "event_type": "Application",
+      "event_status": "Started",
+      "event_name": "BSc(Physician Assistant)"
+    },
+    {
+      "timestamp": "26 Aug 2022 12:03 AM",
+      "event_type": "Query",
+      "event_status": "Raised",
+      "event_name": "Category Name: Payment Related Query and query_id: 630855f7fef4d04589153398."
+    }
+  ],
+  "student_id": {
+    "$oid": "62e8e7d6c9b273df986027d6"
+  }
+},{
+  "_id": {
+    "$oid": "62eea0aa663a12a39bdd4c2f"
+  },
+  "timelines": [
+    {
+      "application_id": {
+        "$oid": "62eea0aa663a12a39bdd4c2e"
+      },
+      "timestamp": "06 Aug 2022 04:53 AM",
+      "event_type": "Application",
+      "event_status": "Started",
+      "event_name": "BSc(Renal Dialysis Technology)"
+    }
+  ],
+  "student_id": {
+    "$oid": "62eea0a9663a12a39bdd4c2d"
+  }
+},{
+  "_id": {
+    "$oid": "62eea182663a12a39bdd4c32"
+  },
+  "timelines": [
+    {
+      "application_id": {
+        "$oid": "62eea181663a12a39bdd4c31"
+      },
+      "timestamp": "06 Aug 2022 04:53 AM",
+      "event_type": "Application",
+      "event_status": "Started",
+      "event_name": "BSc(Renal Dialysis Technology)"
+    }
+  ],
+  "student_id": {
+    "$oid": "62eea181663a12a39bdd4c30"
+  }
+},{
+  "_id": {
+    "$oid": "62f0aca81909b19fb77c3623"
+  },
+  "timelines": [
+    {
+      "application_id": {
+        "$oid": "62f0aca71909b19fb77c3622"
+      },
+      "timestamp": "08 Aug 2022 11:54 AM",
+      "event_type": "Application",
+      "event_status": "Started",
+      "event_name": "BSc(Respiratory Technology)"
+    }
+  ],
+  "student_id": {
+    "$oid": "62f0aca71909b19fb77c3621"
+  }
+},{
+  "_id": {
+    "$oid": "62f0ae20663a12a39bdd4c36"
+  },
+  "timelines": [
+    {
+      "application_id": {
+        "$oid": "62f0ae1f663a12a39bdd4c35"
+      },
+      "timestamp": "06 Aug 2022 04:53 AM",
+      "event_type": "Application",
+      "event_status": "Started",
+      "event_name": "BSc(Emergency Medical Technology)"
+    }
+  ],
+  "student_id": {
+    "$oid": "62f0ae1f663a12a39bdd4c34"
+  }
+},{
+  "_id": {
+    "$oid": "62f28e950bacb6a2a6918536"
+  },
+  "timelines": [
+    {
+      "application_id": {
+        "$oid": "62f28e950bacb6a2a6918535"
+      },
+      "timestamp": "09 Aug 2022 12:46 PM",
+      "event_type": "Application",
+      "event_status": "Started",
+      "event_name": "BSc(Medical Lab Technology)"
+    }
+  ],
+  "student_id": {
+    "$oid": "62f28e940bacb6a2a6918533"
+  }
+},{
+  "_id": {
+    "$oid": "62f28fefea0e6c6b4ff0a7fc"
+  },
+  "timelines": [
+    {
+      "application_id": {
+        "$oid": "62f28fedea0e6c6b4ff0a7fb"
+      },
+      "timestamp": "09 Aug 2022 10:15 PM",
+      "event_type": "Application",
+      "event_status": "Started",
+      "event_name": "BSc(Medical Lab Technology)"
+    }
+  ],
+  "student_id": {
+    "$oid": "62f28fe9ea0e6c6b4ff0a7f9"
+  }
+},{
+  "_id": {
+    "$oid": "62f2907522a8cca9a654c085"
+  },
+  "timelines": [
+    {
+      "application_id": {
+        "$oid": "62f2907322a8cca9a654c084"
+      },
+      "timestamp": "09 Aug 2022 10:20 PM",
+      "event_type": "Application",
+      "event_status": "Started",
+      "event_name": "BSc(Medical Lab Technology)"
+    }
+  ],
+  "student_id": {
+    "$oid": "62f2906f22a8cca9a654c082"
+  }
+},{
+  "_id": {
+    "$oid": "62f292d94690480d9d1b871d"
+  },
+  "timelines": [
+    {
+      "application_id": {
+        "$oid": "62f292d74690480d9d1b871c"
+      },
+      "timestamp": "09 Aug 2022 10:30 PM",
+      "event_type": "Application",
+      "event_status": "Started",
+      "event_name": "BSc(Medical Lab Technology)"
+    }
+  ],
+  "student_id": {
+    "$oid": "62f292d24690480d9d1b871a"
+  }
+},{
+  "_id": {
+    "$oid": "62f2934dd88965248bb1a292"
+  },
+  "timelines": [
+    {
+      "application_id": {
+        "$oid": "62f2934ad88965248bb1a291"
+      },
+      "timestamp": "09 Aug 2022 10:32 PM",
+      "event_type": "Application",
+      "event_status": "Started",
+      "event_name": "BSc(Medical Lab Technology)"
+    }
+  ],
+  "student_id": {
+    "$oid": "62f29344d88965248bb1a28f"
+  }
+},{
+  "_id": {
+    "$oid": "62f64a3d9b7b2b704bd1518b"
+  },
+  "timelines": [
+    {
+      "application_id": {
+        "$oid": "62f64a3a9b7b2b704bd1518a"
+      },
+      "timestamp": "12 Aug 2022 05:55 PM",
+      "event_type": "Application",
+      "event_status": "Started",
+      "event_name": "BSc(Physician Assistant)"
+    }
+  ],
+  "student_id": {
+    "$oid": "62f64a349b7b2b704bd15189"
+  }
+},{
+  "_id": {
+    "$oid": "62f64b869ae6f2b9cf0904c2"
+  },
+  "timelines": [
+    {
+      "application_id": {
+        "$oid": "62f64b859ae6f2b9cf0904c1"
+      },
+      "timestamp": "12 Aug 2022 06:15 PM",
+      "event_type": "Application",
+      "event_status": "Started",
+      "event_name": "BSc(Physician Assistant)"
+    }
+  ],
+  "student_id": {
+    "$oid": "62f64b7f9ae6f2b9cf0904c0"
+  }
+},{
+  "_id": {
+    "$oid": "62fb5b68751be8c7d73a9b74"
+  },
+  "timelines": [
+    {
+      "application_id": {
+        "$oid": "62fb5b67751be8c7d73a9b73"
+      },
+      "timestamp": "08 Aug 2022 02:28 PM",
+      "event_type": "Application",
+      "event_status": "Started",
+      "event_name": "BSc(Imaging Technology)"
+    }
+  ],
+  "student_id": {
+    "$oid": "62fb5b67751be8c7d73a9b72"
+  }
+},{
+  "_id": {
+    "$oid": "62fb6849abe89003c8f5e7c1"
+  },
+  "timelines": [
+    {
+      "application_id": {
+        "$oid": "62fb6848abe89003c8f5e7c0"
+      },
+      "timestamp": "16 Aug 2022 03:18 PM",
+      "event_type": "Application",
+      "event_status": "Started",
+      "event_name": "BSc(Physician Assistant)"
+    }
+  ],
+  "student_id": {
+    "$oid": "62fb6841abe89003c8f5e7be"
+  }
+},{
+  "_id": {
+    "$oid": "62fb68f1abe89003c8f5e7c5"
+  },
+  "timelines": [
+    {
+      "application_id": {
+        "$oid": "62fb68f0abe89003c8f5e7c4"
+      },
+      "timestamp": "16 Aug 2022 03:18 PM",
+      "event_type": "Application",
+      "event_status": "Started",
+      "event_name": "BSc(Physician Assistant)"
+    }
+  ],
+  "student_id": {
+    "$oid": "62fb68e9abe89003c8f5e7c2"
+  }
+},{
+  "_id": {
+    "$oid": "62fb6949abe89003c8f5e7c9"
+  },
+  "timelines": [
+    {
+      "application_id": {
+        "$oid": "62fb6948abe89003c8f5e7c8"
+      },
+      "timestamp": "16 Aug 2022 03:18 PM",
+      "event_type": "Application",
+      "event_status": "Started",
+      "event_name": "BSc(Physician Assistant)"
+    }
+  ],
+  "student_id": {
+    "$oid": "62fb6941abe89003c8f5e7c6"
+  }
+},{
+  "_id": {
+    "$oid": "62fb6ed7751be8c7d73a9b77"
+  },
+  "timelines": [
+    {
+      "application_id": {
+        "$oid": "62fb6ed7751be8c7d73a9b76"
+      },
+      "timestamp": "08 Aug 2022 02:28 PM",
+      "event_type": "Application",
+      "event_status": "Started",
+      "event_name": "BSc(Respiratory Technology)"
+    }
+  ],
+  "student_id": {
+    "$oid": "62fb6ed7751be8c7d73a9b75"
+  }
+},{
+  "_id": {
+    "$oid": "62fb6f66751be8c7d73a9b7a"
+  },
+  "timelines": [
+    {
+      "application_id": {
+        "$oid": "62fb6f66751be8c7d73a9b79"
+      },
+      "timestamp": "08 Aug 2022 02:28 PM",
+      "event_type": "Application",
+      "event_status": "Started",
+      "event_name": "BSc(Respiratory Technology)"
+    }
+  ],
+  "student_id": {
+    "$oid": "62fb6f66751be8c7d73a9b78"
+  }
+},{
+  "_id": {
+    "$oid": "62fb70454956da97a8bce5fe"
+  },
+  "timelines": [
+    {
+      "application_id": {
+        "$oid": "62fb70444956da97a8bce5fd"
+      },
+      "timestamp": "16 Aug 2022 03:53 PM",
+      "event_type": "Application",
+      "event_status": "Started",
+      "event_name": "BSc(Physician Assistant)"
+    }
+  ],
+  "student_id": {
+    "$oid": "62fb703d4956da97a8bce5fb"
+  }
+},{
+  "_id": {
+    "$oid": "62fb7193f2cfaf826b20cd0d"
+  },
+  "timelines": [
+    {
+      "application_id": {
+        "$oid": "62fb7192f2cfaf826b20cd0c"
+      },
+      "timestamp": "16 Aug 2022 03:59 PM",
+      "event_type": "Application",
+      "event_status": "Started",
+      "event_name": "BSc(Physician Assistant)"
+    }
+  ],
+  "student_id": {
+    "$oid": "62fb718cf2cfaf826b20cd0a"
+  }
+},{
+  "_id": {
+    "$oid": "62fb74a7289fb189facb6224"
+  },
+  "timelines": [
+    {
+      "application_id": {
+        "$oid": "62fb74a5289fb189facb6223"
+      },
+      "timestamp": "16 Aug 2022 04:12 PM",
+      "event_type": "Application",
+      "event_status": "Started",
+      "event_name": "BSc(Physician Assistant)"
+    }
+  ],
+  "student_id": {
+    "$oid": "62fb749e289fb189facb6221"
+  }
+},{
+  "_id": {
+    "$oid": "62fb8a6709a290b92343a180"
+  },
+  "timelines": [
+    {
+      "application_id": {
+        "$oid": "62fb8a6609a290b92343a17f"
+      },
+      "timestamp": "16 Aug 2022 04:47 PM",
+      "event_type": "Application",
+      "event_status": "Started",
+      "event_name": "BSc(Medical Lab Technology)"
+    }
+  ],
+  "student_id": {
+    "$oid": "62fb8a6509a290b92343a17d"
+  }
+},{
+  "_id": {
+    "$oid": "62fcb491d4b668391b6d995a"
+  },
+  "timelines": [
+    {
+      "application_id": {
+        "$oid": "62fcb490d4b668391b6d9958"
+      },
+      "timestamp": "17 Aug 2022 02:56 PM",
+      "event_type": "Application",
+      "event_status": "Started",
+      "event_name": "Bachelor(Social Work)"
+    }
+  ],
+  "student_id": {
+    "$oid": "62fcb48cd4b668391b6d9957"
+  }
+},{
+  "_id": {
+    "$oid": "62fded77f2d604e0d90f7fad"
+  },
+  "timelines": [
+    {
+      "application_id": {
+        "$oid": "62fded76f2d604e0d90f7fab"
+      },
+      "timestamp": "18 Aug 2022 12:35 PM",
+      "event_type": "Application",
+      "event_status": "Started",
+      "event_name": "BSc(Medical Lab Technology)"
+    }
+  ],
+  "student_id": {
+    "$oid": "62fded75f2d604e0d90f7faa"
+  }
+},{
+  "_id": {
+    "$oid": "62fdfd49f2d604e0d90f7fbc"
+  },
+  "timelines": [
+    {
+      "application_id": {
+        "$oid": "62fdfd48f2d604e0d90f7fbb"
+      },
+      "timestamp": "18 Aug 2022 12:35 PM",
+      "event_type": "Application",
+      "event_status": "Started",
+      "event_name": "BSc(Medical Lab Technology)"
+    }
+  ],
+  "student_id": {
+    "$oid": "62fdfd47f2d604e0d90f7fb9"
+  }
+},{
+  "_id": {
+    "$oid": "62fe59c61f4a9b09a7815d46"
+  },
+  "timelines": [
+    {
+      "application_id": {
+        "$oid": "62fe59bd1f4a9b09a7815d44"
+      },
+      "timestamp": "18 Aug 2022 08:47 PM",
+      "event_type": "Application",
+      "event_status": "Started",
+      "event_name": "BSc(Medical Lab Technology)"
+    }
+  ],
+  "student_id": {
+    "$oid": "62fe59b41f4a9b09a7815d41"
+  }
+},{
+  "_id": {
+    "$oid": "630071be4c1535f00fe5619c"
+  },
+  "timelines": [
+    {
+      "application_id": {
+        "$oid": "630071b84c1535f00fe5619a"
+      },
+      "timestamp": "20 Aug 2022 10:58 AM",
+      "event_type": "Application",
+      "event_status": "Updated Parent Details",
+      "event_name": "B.Sc.()"
+    },
+    {
+      "application_id": {
+        "$oid": "630071b84c1535f00fe5619a"
+      },
+      "timestamp": "20 Aug 2022 10:58 AM",
+      "event_type": "Application",
+      "event_status": "Updated Address Details",
+      "event_name": "B.Sc.()"
+    }
+  ],
+  "student_id": {
+    "$oid": "62e960dd47508b29d9d5ef0e"
+  }
+},{
+  "_id": {
+    "$oid": "6300cfc187eb0704a480d2e5"
+  },
+  "timelines": [
+    {
+      "application_id": {
+        "$oid": "6300cfba87eb0704a480d2e2"
+      },
+      "timestamp": "20 Aug 2022 05:39 PM",
+      "event_type": "Application",
+      "event_status": "Started",
+      "event_name": "BSc(Medical Lab Technology)"
+    }
+  ],
+  "student_id": {
+    "$oid": "6300cfb287eb0704a480d2e0"
+  }
+},{
+  "_id": {
+    "$oid": "6300d1ad76e42c10fc31d7a3"
+  },
+  "timelines": [
+    {
+      "application_id": {
+        "$oid": "6300d1a876e42c10fc31d7a0"
+      },
+      "timestamp": "20 Aug 2022 05:50 PM",
+      "event_type": "Application",
+      "event_status": "Started",
+      "event_name": "BSc(Medical Lab Technology)"
+    }
+  ],
+  "student_id": {
+    "$oid": "6300d19f76e42c10fc31d79e"
+  }
+},{
+  "_id": {
+    "$oid": "6300d2491a51d2b234bfde9c"
+  },
+  "timelines": [
+    {
+      "application_id": {
+        "$oid": "6300d2451a51d2b234bfde99"
+      },
+      "timestamp": "20 Aug 2022 05:53 PM",
+      "event_type": "Application",
+      "event_status": "Started",
+      "event_name": "BSc(Medical Lab Technology)"
+    }
+  ],
+  "student_id": {
+    "$oid": "6300d23e1a51d2b234bfde97"
+  }
+},{
+  "_id": {
+    "$oid": "63023779d365bb62699c3505"
+  },
+  "timelines": [
+    {
+      "application_id": {
+        "$oid": "63023775d365bb62699c3502"
+      },
+      "timestamp": "21 Aug 2022 07:15 PM",
+      "event_type": "Application",
+      "event_status": "Started",
+      "event_name": "BSc(Medical Lab Technology)"
+    }
+  ],
+  "student_id": {
+    "$oid": "6302376ed365bb62699c3500"
+  }
+},{
+  "_id": {
+    "$oid": "63024779871f93de4bcc5a96"
+  },
+  "timelines": [
+    {
+      "application_id": {
+        "$oid": "63024775871f93de4bcc5a93"
+      },
+      "timestamp": "21 Aug 2022 08:23 PM",
+      "event_type": "Application",
+      "event_status": "Started",
+      "event_name": "BSc(Medical Lab Technology)"
+    }
+  ],
+  "student_id": {
+    "$oid": "6302476e871f93de4bcc5a91"
+  }
+},{
+  "_id": {
+    "$oid": "630325908eef18ad65ce0458"
+  },
+  "timelines": [
+    {
+      "application_id": {
+        "$oid": "6303258f8eef18ad65ce0455"
+      },
+      "timestamp": "22 Aug 2022 10:50 AM",
+      "event_type": "Application",
+      "event_status": "Started",
+      "event_name": "BSc(Physician Assistant)"
+    }
+  ],
+  "student_id": {
+    "$oid": "6303258b8eef18ad65ce0454"
+  }
+},{
+  "_id": {
+    "$oid": "63070e79916feeb15b621226"
+  },
+  "timelines": [
+    {
+      "application_id": {
+        "$oid": "63070e78916feeb15b621223"
+      },
+      "timestamp": "24 Aug 2022 10:50 AM",
+      "event_type": "Application",
+      "event_status": "Started",
+      "event_name": "BSc(Respiratory Technology)"
+    }
+  ],
+  "student_id": {
+    "$oid": "63070e77916feeb15b621222"
+  }
+},{
+  "_id": {
+    "$oid": "63070f51916feeb15b62122b"
+  },
+  "timelines": [
+    {
+      "application_id": {
+        "$oid": "63070f51916feeb15b621228"
+      },
+      "timestamp": "24 Aug 2022 10:50 AM",
+      "event_type": "Application",
+      "event_status": "Started",
+      "event_name": "BSc(Renal Dialysis Technology)"
+    }
+  ],
+  "student_id": {
+    "$oid": "63070f50916feeb15b621227"
+  }
+},{
+  "_id": {
+    "$oid": "630713ae916feeb15b621254"
+  },
+  "timelines": [
+    {
+      "application_id": {
+        "$oid": "630713ad916feeb15b621251"
+      },
+      "timestamp": "24 Aug 2022 10:50 AM",
+      "event_type": "Application",
+      "event_status": "Started",
+      "event_name": "BSc(Emergency Medical Technology)"
+    }
+  ],
+  "student_id": {
+    "$oid": "630713ad916feeb15b621250"
+  }
+},{
+  "_id": {
+    "$oid": "6307141d916feeb15b62125c"
+  },
+  "timelines": [
+    {
+      "application_id": {
+        "$oid": "6307141d916feeb15b621259"
+      },
+      "timestamp": "24 Aug 2022 10:50 AM",
+      "event_type": "Application",
+      "event_status": "Started",
+      "event_name": "BSc(Medical Lab Technology)"
+    }
+  ],
+  "student_id": {
+    "$oid": "6307141b916feeb15b621258"
+  }
+},{
+  "_id": {
+    "$oid": "6307150e916feeb15b621263"
+  },
+  "timelines": [
+    {
+      "application_id": {
+        "$oid": "6307150d916feeb15b621260"
+      },
+      "timestamp": "24 Aug 2022 10:50 AM",
+      "event_type": "Application",
+      "event_status": "Started",
+      "event_name": "BSc(Emergency Medical Technology)"
+    },
+    {
+      "timestamp": "24 Aug 2022 10:50 AM",
+      "event_type": "Query",
+      "event_status": "Raised",
+      "event_name": "Category Name: General Query and query_id: 63071593916feeb15b62126f."
+    },
+    {
+      "timestamp": "24 Aug 2022 10:50 AM",
+      "event_type": "Query",
+      "event_status": "Replied",
+      "event_name": "Category Name: General Query and query_id: 63071593916feeb15b62126f."
+    }
+  ],
+  "student_id": {
+    "$oid": "6307150d916feeb15b62125f"
+  }
+},{
+  "_id": {
+    "$oid": "63071577916feeb15b62126c"
+  },
+  "timelines": [
+    {
+      "application_id": {
+        "$oid": "63071576916feeb15b621269"
+      },
+      "timestamp": "24 Aug 2022 10:50 AM",
+      "event_type": "Application",
+      "event_status": "Started",
+      "event_name": "BSc(Emergency Medical Technology)"
+    }
+  ],
+  "student_id": {
+    "$oid": "63071576916feeb15b621268"
+  }
+},{
+  "_id": {
+    "$oid": "630847d9fef4d0458915338d"
+  },
+  "timelines": [
+    {
+      "application_id": {
+        "$oid": "62c4500cdca5372e487dc8af"
+      },
+      "timestamp": "26 Aug 2022 12:03 AM",
+      "event_type": "Application",
+      "event_status": "Updated Basic Details",
+      "event_name": "BSc(Medical Lab Technology)"
+    },
+    {
+      "application_id": {
+        "$oid": "62c4500cdca5372e487dc8af"
+      },
+      "timestamp": "26 Aug 2022 12:03 AM",
+      "event_type": "Application",
+      "event_status": "Updated Parent Details",
+      "event_name": "BSc(Medical Lab Technology)"
+    },
+    {
+      "application_id": {
+        "$oid": "62c4500cdca5372e487dc8af"
+      },
+      "timestamp": "26 Aug 2022 12:03 AM",
+      "event_type": "Application",
+      "event_status": "Updated Address Details",
+      "event_name": "BSc(Medical Lab Technology)"
+    },
+    {
+      "application_id": {
+        "$oid": "62c4500cdca5372e487dc8af"
+      },
+      "timestamp": "26 Aug 2022 12:03 AM",
+      "event_type": "Application",
+      "event_status": "Updated Education Details",
+      "event_name": "BSc(Medical Lab Technology)"
+    },
+    {
+      "application_id": {
+        "$oid": "62c4500cdca5372e487dc8af"
+      },
+      "timestamp": "26 Aug 2022 12:03 AM",
+      "event_type": "Application",
+      "event_status": "Updated Basic Details",
+      "event_name": "BSc(Medical Lab Technology)"
+    }
+  ],
+  "student_id": {
+    "$oid": "62c4500cdca5372e487dc8ae"
+  }
+}]

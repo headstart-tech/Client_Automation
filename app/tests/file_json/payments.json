@@ -1,0 +1,4057 @@
+[{
+  "_id": {
+    "$oid": "62a9a1314035e93c7ff24659"
+  },
+  "payment_id": "pay_Jo95qqQGonlLlP",
+  "merchant": "RazorPay",
+  "user_id": {
+    "$oid": "62a99d514035e93c7ff2464c"
+  },
+  "details": {
+    "purpose": "StudentApplication",
+    "application_id": {
+      "$oid": "62a99d514035e93c7ff2464d"
+    }
+  },
+  "status": "captured",
+  "error": {
+    "error_code": "BAD_REQUEST_ERROR",
+    "description": "Your payment has been cancelled. Try again or complete the payment later."
+  }
+},{
+  "_id": {
+    "$oid": "62b336614035e93c7ff24a33"
+  },
+  "payment_id": "pay_Jo95qqQGonlLlP",
+  "merchant": "RazorPay",
+  "user_id": {
+    "$oid": "62b2d24b4035e93c7ff249d5"
+  },
+  "details": {
+    "purpose": "StudentApplication",
+    "application_id": {
+      "$oid": "62b2d24b4035e93c7ff249d7"
+    }
+  },
+  "status": "captured",
+  "error": {
+    "error_code": "BAD_REQUEST_ERROR",
+    "description": "You may have cancelled the payment or there was a delay in response from the UPI app."
+  }
+},{
+  "_id": {
+    "$oid": "62b4496a4035e93c7ff24b96"
+  },
+  "payment_id": "pay_Jo95qqQGonlLlP",
+  "merchant": "RazorPay",
+  "user_id": {
+    "$oid": "62b424b34035e93c7ff24b59"
+  },
+  "details": {
+    "purpose": "StudentApplication",
+    "application_id": {
+      "$oid": "62b424b34035e93c7ff24b5b"
+    }
+  },
+  "status": "captured",
+  "error": {
+    "error_code": "BAD_REQUEST_ERROR",
+    "description": "Your payment has been cancelled. Try again or complete the payment later."
+  }
+},{
+  "_id": {
+    "$oid": "62b3364d4035e93c7ff24a32"
+  },
+  "payment_id": "pay_Jo95qqQGonlLlP",
+  "merchant": "RazorPay",
+  "user_id": {
+    "$oid": "62b2d24b4035e93c7ff249d5"
+  },
+  "details": {
+    "purpose": "StudentApplication",
+    "application_id": {
+      "$oid": "62b2d24b4035e93c7ff249d7"
+    }
+  },
+  "status": "captured",
+  "error": {
+    "error_code": "BAD_REQUEST_ERROR",
+    "description": "You may have cancelled the payment or there was a delay in response from the UPI app."
+  }
+},{
+  "_id": {
+    "$oid": "62ab3df64035e93c7ff246e6"
+  },
+  "payment_id": "pay_Jo95qqQGonlLlP",
+  "merchant": "RazorPay",
+  "user_id": {
+    "$oid": "62a9b8774035e93c7ff2466e"
+  },
+  "details": {
+    "purpose": "StudentApplication",
+    "application_id": {
+      "$oid": "62a9b8774035e93c7ff2466f"
+    }
+  },
+  "status": "captured",
+  "error": {
+    "error_code": "BAD_REQUEST_ERROR",
+    "description": "You may have cancelled the payment or there was a delay in response from the UPI app."
+  }
+},{
+  "_id": {
+    "$oid": "62b16e5d4035e93c7ff248f8"
+  },
+  "payment_id": "pay_Jo95qqQGonlLlP",
+  "merchant": "RazorPay",
+  "user_id": {
+    "$oid": "62adca434035e93c7ff24770"
+  },
+  "details": {
+    "purpose": "StudentApplication",
+    "application_id": {
+      "$oid": "62adca434035e93c7ff24771"
+    }
+  },
+  "status": "captured",
+  "error": {
+    "error_code": "GATEWAY_ERROR",
+    "description": "Payment processing failed due to error at bank or wallet gateway"
+  }
+},{
+  "_id": {
+    "$oid": "62b1713c4035e93c7ff248fa"
+  },
+  "payment_id": "pay_Jo95qqQGonlLlP",
+  "merchant": "RazorPay",
+  "user_id": {
+    "$oid": "62adca434035e93c7ff24770"
+  },
+  "details": {
+    "purpose": "StudentApplication",
+    "application_id": {
+      "$oid": "62adca434035e93c7ff24771"
+    }
+  },
+  "status": "captured",
+  "error": {
+    "error_code": "BAD_REQUEST_ERROR",
+    "description": "You may have cancelled the payment or there was a delay in response from the UPI app."
+  }
+},{
+  "_id": {
+    "$oid": "62a9f5b14035e93c7ff2468c"
+  },
+  "payment_id": "pay_Jo95qqQGonlLlP",
+  "merchant": "RazorPay",
+  "user_id": {
+    "$oid": "62a9b8774035e93c7ff2466e"
+  },
+  "details": {
+    "purpose": "StudentApplication",
+    "application_id": {
+      "$oid": "62a9b8774035e93c7ff2466f"
+    }
+  },
+  "status": "captured",
+  "error": {
+    "error_code": "BAD_REQUEST_ERROR",
+    "description": "Payment processing cancelled by user"
+  }
+},{
+  "_id": {
+    "$oid": "62b48b494035e93c7ff24c2a"
+  },
+  "payment_id": "pay_Jo95qqQGonlLlP",
+  "merchant": "RazorPay",
+  "user_id": {
+    "$oid": "62b04de94035e93c7ff24809"
+  },
+  "details": {
+    "purpose": "StudentApplication",
+    "application_id": {
+      "$oid": "62b04de94035e93c7ff2480b"
+    }
+  },
+  "status": "captured",
+  "error": {
+    "error_code": "BAD_REQUEST_ERROR",
+    "description": "You may have cancelled the payment or there was a delay in response from the UPI app."
+  }
+},{
+  "_id": {
+    "$oid": "62b97c304035e93c7ff251cb"
+  },
+  "payment_id": "pay_Jo95qqQGonlLlP",
+  "merchant": "RazorPay",
+  "user_id": {
+    "$oid": "62b953894035e93c7ff2514d"
+  },
+  "details": {
+    "purpose": "StudentApplication",
+    "application_id": {
+      "$oid": "62b953894035e93c7ff2514f"
+    }
+  },
+  "status": "captured",
+  "error": {
+    "error_code": "BAD_REQUEST_ERROR",
+    "description": "Your payment has been cancelled. Try again or complete the payment later."
+  }
+},{
+  "_id": {
+    "$oid": "62bec7b141874cdcbf43d85a"
+  },
+  "payment_id": "pay_Jo95qqQGonlLlP",
+  "order_id": "order_Jo3tdvWVgUABwy",
+  "merchant": "RazorPay",
+  "user_id": {
+    "$oid": "62be691441874cdcbf43d6a4"
+  },
+  "details": {
+    "purpose": "StudentApplication",
+    "application_id": {
+      "$oid": "62be691441874cdcbf43d6a6"
+    }
+  },
+  "status": "captured",
+  "error": {
+    "error_code": "GATEWAY_ERROR",
+    "description": "Payment processing failed due to error at bank or wallet gateway",
+    "created_at": {
+      "$date": "2022-07-01T10:08:49.262Z"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62bec94941874cdcbf43d86f"
+  },
+  "payment_id": "pay_Jo95qqQGonlLlP",
+  "order_id": "order_Jo42drozJzpUhV",
+  "merchant": "RazorPay",
+  "user_id": {
+    "$oid": "62be691441874cdcbf43d6a4"
+  },
+  "details": {
+    "purpose": "StudentApplication",
+    "application_id": {
+      "$oid": "62be691441874cdcbf43d6a6"
+    }
+  },
+  "status": "captured",
+  "error": {
+    "error_code": "BAD_REQUEST_ERROR",
+    "description": "Payment processing cancelled by user",
+    "created_at": {
+      "$date": "2022-07-01T10:15:37.343Z"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62beca7041874cdcbf43d875"
+  },
+  "payment_id": "pay_Jo95qqQGonlLlP",
+  "order_id": "order_Jo4AFz4plHUNUM",
+  "merchant": "RazorPay",
+  "user_id": {
+    "$oid": "62be691441874cdcbf43d6a4"
+  },
+  "details": {
+    "purpose": "StudentApplication",
+    "application_id": {
+      "$oid": "62be691441874cdcbf43d6a6"
+    }
+  },
+  "status": "captured",
+  "error": {
+    "error_code": "GATEWAY_ERROR",
+    "description": "Payment processing failed due to error at bank or wallet gateway",
+    "created_at": {
+      "$date": "2022-07-01T10:20:32.909Z"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62b16f0f4035e93c7ff248f9"
+  },
+  "payment_id": "pay_Jo95qqQGonlLlP",
+  "merchant": "RazorPay",
+  "user_id": {
+    "$oid": "62adca434035e93c7ff24770"
+  },
+  "details": {
+    "purpose": "StudentApplication",
+    "application_id": {
+      "$oid": "62adca434035e93c7ff24771"
+    }
+  },
+  "status": "captured",
+  "error": {
+    "error_code": "BAD_REQUEST_ERROR",
+    "description": "Payment was unsuccessful due to a temporary issue. If amount got deducted, it will be refunded within 5-7 working days."
+  }
+},{
+  "_id": {
+    "$oid": "62b4481e4035e93c7ff24b91"
+  },
+  "payment_id": "pay_Jo95qqQGonlLlP",
+  "merchant": "RazorPay",
+  "user_id": {
+    "$oid": "62b424b34035e93c7ff24b59"
+  },
+  "details": {
+    "purpose": "StudentApplication",
+    "application_id": {
+      "$oid": "62b424b34035e93c7ff24b5b"
+    }
+  },
+  "status": "captured",
+  "error": {
+    "error_code": "GATEWAY_ERROR",
+    "description": "Payment processing failed due to error at bank or wallet gateway"
+  }
+},{
+  "_id": {
+    "$oid": "62b984884035e93c7ff251dc"
+  },
+  "payment_id": "pay_Jo95qqQGonlLlP",
+  "merchant": "RazorPay",
+  "user_id": {
+    "$oid": "62b953894035e93c7ff2514d"
+  },
+  "details": {
+    "purpose": "StudentApplication",
+    "application_id": {
+      "$oid": "62b953894035e93c7ff2514f"
+    }
+  },
+  "status": "captured",
+  "error": {
+    "error_code": "BAD_REQUEST_ERROR",
+    "description": "You may have cancelled the payment or there was a delay in response from the UPI app."
+  }
+},{
+  "_id": {
+    "$oid": "62b5bd1a4035e93c7ff24da5"
+  },
+  "payment_id": "pay_Jo95qqQGonlLlP",
+  "merchant": "RazorPay",
+  "user_id": {
+    "$oid": "62b5ad684035e93c7ff24d8e"
+  },
+  "details": {
+    "purpose": "StudentApplication",
+    "application_id": {
+      "$oid": "62b5ad684035e93c7ff24d8f"
+    }
+  },
+  "status": "captured",
+  "error": {
+    "error_code": "BAD_REQUEST_ERROR",
+    "description": "No UPI App on this device. Select other UPI option to proceed."
+  }
+},{
+  "_id": {
+    "$oid": "62b9a14e4035e93c7ff25233"
+  },
+  "payment_id": "pay_Jo95qqQGonlLlP",
+  "merchant": "RazorPay",
+  "user_id": {
+    "$oid": "62b9491e4035e93c7ff25127"
+  },
+  "details": {
+    "purpose": "StudentApplication",
+    "application_id": {
+      "$oid": "62b9491e4035e93c7ff25128"
+    }
+  },
+  "status": "captured",
+  "error": {
+    "error_code": "BAD_REQUEST_ERROR",
+    "description": "Payment processing cancelled by user"
+  }
+},{
+  "_id": {
+    "$oid": "62beb8fa41874cdcbf43d7d2"
+  },
+  "payment_id": "pay_Jo95qqQGonlLlP",
+  "order_id": "order_Jo2uxW0Li4Bgze",
+  "merchant": "RazorPay",
+  "user_id": {
+    "$oid": "62be798741874cdcbf43d6f2"
+  },
+  "details": {
+    "purpose": "StudentApplication",
+    "application_id": {
+      "$oid": "62be798741874cdcbf43d6f4"
+    }
+  },
+  "status": "captured",
+  "error": {
+    "error_code": "GATEWAY_ERROR",
+    "description": "Payment failed because cardholder couldn't be authenticated",
+    "created_at": {
+      "$date": "2022-07-01T09:06:02.692Z"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62bec83b41874cdcbf43d85e"
+  },
+  "payment_id": "pay_Jo95qqQGonlLlP",
+  "order_id": "order_Jo3tdvWVgUABwy",
+  "merchant": "RazorPay",
+  "user_id": {
+    "$oid": "62be691441874cdcbf43d6a4"
+  },
+  "details": {
+    "purpose": "StudentApplication",
+    "application_id": {
+      "$oid": "62be691441874cdcbf43d6a6"
+    }
+  },
+  "status": "captured",
+  "error": {
+    "error_code": "BAD_REQUEST_ERROR",
+    "description": "No UPI App on this device. Select other UPI option to proceed.",
+    "created_at": {
+      "$date": "2022-07-01T10:11:07.962Z"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62becad741874cdcbf43d876"
+  },
+  "payment_id": "pay_Jo95qqQGonlLlP",
+  "order_id": "order_Jo4AFz4plHUNUM",
+  "merchant": "RazorPay",
+  "user_id": {
+    "$oid": "62be691441874cdcbf43d6a4"
+  },
+  "details": {
+    "purpose": "StudentApplication",
+    "application_id": {
+      "$oid": "62be691441874cdcbf43d6a6"
+    }
+  },
+  "status": "captured",
+  "error": {
+    "error_code": "GATEWAY_ERROR",
+    "description": "Payment processing failed due to error at bank or wallet gateway",
+    "created_at": {
+      "$date": "2022-07-01T10:22:15.203Z"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62bed29341874cdcbf43d8a8"
+  },
+  "payment_id": "pay_Jo95qqQGonlLlP",
+  "order_id": "order_Jo4TpDJaaDccF3",
+  "merchant": "RazorPay",
+  "user_id": {
+    "$oid": "62be691441874cdcbf43d6a4"
+  },
+  "details": {
+    "purpose": "StudentApplication",
+    "application_id": {
+      "$oid": "62be691441874cdcbf43d6a6"
+    }
+  },
+  "status": "captured",
+  "error": {
+    "error_code": "BAD_REQUEST_ERROR",
+    "description": "Payment processing cancelled by user",
+    "created_at": {
+      "$date": "2022-07-01T10:55:15.698Z"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62b5ee284035e93c7ff24dca"
+  },
+  "payment_id": "pay_Jo95qqQGonlLlP",
+  "merchant": "RazorPay",
+  "user_id": {
+    "$oid": "62b373d94035e93c7ff24a71"
+  },
+  "details": {
+    "purpose": "StudentApplication",
+    "application_id": {
+      "$oid": "62b373d94035e93c7ff24a73"
+    }
+  },
+  "status": "captured",
+  "error": {
+    "error_code": "BAD_REQUEST_ERROR",
+    "description": "You may have cancelled the payment or there was a delay in response from the UPI app."
+  }
+},{
+  "_id": {
+    "$oid": "62b72f6c4035e93c7ff24f34"
+  },
+  "payment_id": "pay_Jo95qqQGonlLlP",
+  "merchant": "RazorPay",
+  "user_id": {
+    "$oid": "62b373d94035e93c7ff24a71"
+  },
+  "details": {
+    "purpose": "StudentApplication",
+    "application_id": {
+      "$oid": "62b373d94035e93c7ff24a73"
+    }
+  },
+  "status": "captured",
+  "error": {
+    "error_code": "BAD_REQUEST_ERROR",
+    "description": "You may have cancelled the payment or there was a delay in response from the UPI app."
+  }
+},{
+  "_id": {
+    "$oid": "62bb368f1a547c3eba24049b"
+  },
+  "payment_id": "pay_Jo95qqQGonlLlP",
+  "merchant": "RazorPay",
+  "user_id": {
+    "$oid": "62bb200b4035e93c7ff257e6"
+  },
+  "details": {
+    "purpose": "StudentApplication",
+    "application_id": {
+      "$oid": "62bb200b4035e93c7ff257e8"
+    }
+  },
+  "status": "captured",
+  "error": {
+    "error_code": "BAD_REQUEST_ERROR",
+    "description": "Payment declined by card issuing bank as card may be inactive or not allowed for online payments. Please use another card or contact bank."
+  }
+},{
+  "_id": {
+    "$oid": "62bbcadf1a547c3eba2404dc"
+  },
+  "payment_id": "pay_Jo95qqQGonlLlP",
+  "merchant": "RazorPay",
+  "user_id": {
+    "$oid": "62bb245f1a547c3eba24044d"
+  },
+  "details": {
+    "purpose": "StudentApplication",
+    "application_id": {
+      "$oid": "62bb245f1a547c3eba24044e"
+    }
+  },
+  "status": "captured",
+  "error": {
+    "error_code": "BAD_REQUEST_ERROR",
+    "description": "You may have cancelled the payment or there was a delay in response from the UPI app."
+  }
+},{
+  "_id": {
+    "$oid": "62bea93e41874cdcbf43d7ae"
+  },
+  "payment_id": "pay_Jo95qqQGonlLlP",
+  "order_id": "order_Jo1gxZ3VP1g3WL",
+  "merchant": "RazorPay",
+  "user_id": {
+    "$oid": "62be798741874cdcbf43d6f2"
+  },
+  "details": {
+    "purpose": "StudentApplication",
+    "application_id": {
+      "$oid": "62be798741874cdcbf43d6f4"
+    }
+  },
+  "status": "captured",
+  "error": {
+    "error_code": "GATEWAY_ERROR",
+    "description": "3D Secure authentication failed",
+    "created_at": {
+      "$date": "2022-07-01T07:58:54.811Z"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62beabaa41874cdcbf43d7b8"
+  },
+  "payment_id": "pay_Jo95qqQGonlLlP",
+  "order_id": "order_Jo1u6Lv0rMZavE",
+  "merchant": "RazorPay",
+  "user_id": {
+    "$oid": "62be798741874cdcbf43d6f2"
+  },
+  "details": {
+    "purpose": "StudentApplication",
+    "application_id": {
+      "$oid": "62be798741874cdcbf43d6f4"
+    }
+  },
+  "status": "captured",
+  "error": {
+    "error_code": "BAD_REQUEST_ERROR",
+    "description": "No UPI App on this device. Select other UPI option to proceed.",
+    "created_at": {
+      "$date": "2022-07-01T08:09:14.569Z"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62bec73c41874cdcbf43d854"
+  },
+  "payment_id": "pay_Jo95qqQGonlLlP",
+  "order_id": "order_Jo3tdvWVgUABwy",
+  "merchant": "RazorPay",
+  "user_id": {
+    "$oid": "62be691441874cdcbf43d6a4"
+  },
+  "details": {
+    "purpose": "StudentApplication",
+    "application_id": {
+      "$oid": "62be691441874cdcbf43d6a6"
+    }
+  },
+  "status": "captured",
+  "error": {
+    "error_code": "BAD_REQUEST_ERROR",
+    "description": "Your card has been disabled for online payments by your issuing bank. Please reach out to your bank or re-try the payment with another card/method.",
+    "created_at": {
+      "$date": "2022-07-01T10:06:52.690Z"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62bec9f541874cdcbf43d874"
+  },
+  "payment_id": "pay_Jo95qqQGonlLlP",
+  "order_id": "order_Jo49s8U1Qhl8n0",
+  "merchant": "RazorPay",
+  "user_id": {
+    "$oid": "62be691441874cdcbf43d6a4"
+  },
+  "details": {
+    "purpose": "StudentApplication",
+    "application_id": {
+      "$oid": "62be691441874cdcbf43d6a6"
+    }
+  },
+  "status": "captured",
+  "error": {
+    "error_code": "BAD_REQUEST_ERROR",
+    "description": "No UPI App on this device. Select other UPI option to proceed.",
+    "created_at": {
+      "$date": "2022-07-01T10:18:29.259Z"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62becd4241874cdcbf43d87b"
+  },
+  "payment_id": "pay_Jo95qqQGonlLlP",
+  "order_id": "order_Jo4Nzh4HsQFROR",
+  "merchant": "RazorPay",
+  "user_id": {
+    "$oid": "62bdabb541874cdcbf43d5a2"
+  },
+  "details": {
+    "purpose": "StudentApplication",
+    "application_id": {
+      "$oid": "62bdabb541874cdcbf43d5a3"
+    }
+  },
+  "status": "captured",
+  "error": {
+    "error_code": "BAD_REQUEST_ERROR",
+    "description": "You may have cancelled the payment or there was a delay in response from the UPI app.",
+    "created_at": {
+      "$date": "2022-07-01T10:32:34.502Z"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62b3ffec4035e93c7ff24ae7"
+  },
+  "payment_id": "pay_Jo95qqQGonlLlP",
+  "merchant": "RazorPay",
+  "user_id": {
+    "$oid": "62b1569b4035e93c7ff248d2"
+  },
+  "details": {
+    "purpose": "StudentApplication",
+    "application_id": {
+      "$oid": "62b1569b4035e93c7ff248d4"
+    }
+  },
+  "status": "captured",
+  "error": {
+    "error_code": "BAD_REQUEST_ERROR",
+    "description": "Payment processing cancelled by user"
+  }
+},{
+  "_id": {
+    "$oid": "62b4487a4035e93c7ff24b95"
+  },
+  "payment_id": "pay_Jo95qqQGonlLlP",
+  "merchant": "RazorPay",
+  "user_id": {
+    "$oid": "62b424b34035e93c7ff24b59"
+  },
+  "details": {
+    "purpose": "StudentApplication",
+    "application_id": {
+      "$oid": "62b424b34035e93c7ff24b5b"
+    }
+  },
+  "status": "captured",
+  "error": {
+    "error_code": "BAD_REQUEST_ERROR",
+    "description": "Your payment has been cancelled. Try again or complete the payment later."
+  }
+},{
+  "_id": {
+    "$oid": "62b44a174035e93c7ff24b9c"
+  },
+  "payment_id": "pay_Jo95qqQGonlLlP",
+  "merchant": "RazorPay",
+  "user_id": {
+    "$oid": "62b424b34035e93c7ff24b59"
+  },
+  "details": {
+    "purpose": "StudentApplication",
+    "application_id": {
+      "$oid": "62b424b34035e93c7ff24b5b"
+    }
+  },
+  "status": "captured",
+  "error": {
+    "error_code": "GATEWAY_ERROR",
+    "description": "Payment processing failed due to error at bank or wallet gateway"
+  }
+},{
+  "_id": {
+    "$oid": "62b5ee364035e93c7ff24dcb"
+  },
+  "payment_id": "undefined",
+  "merchant": "RazorPay",
+  "user_id": {
+    "$oid": "62b373d94035e93c7ff24a71"
+  },
+  "details": {
+    "purpose": "StudentApplication",
+    "application_id": {
+      "$oid": "62b373d94035e93c7ff24a73"
+    }
+  },
+  "status": "captured",
+  "error": {
+    "error_code": "GATEWAY_ERROR",
+    "description": "Payment processing failed due to error at bank or wallet gateway"
+  }
+},{
+  "_id": {
+    "$oid": "62bec81c41874cdcbf43d85d"
+  },
+  "payment_id": "pay_Jo95qqQGonlLlP",
+  "order_id": "order_Jo3tdvWVgUABwy",
+  "merchant": "RazorPay",
+  "user_id": {
+    "$oid": "62be691441874cdcbf43d6a4"
+  },
+  "details": {
+    "purpose": "StudentApplication",
+    "application_id": {
+      "$oid": "62be691441874cdcbf43d6a6"
+    }
+  },
+  "status": "captured",
+  "error": {
+    "error_code": "GATEWAY_ERROR",
+    "description": "Payment processing failed due to error at bank or wallet gateway",
+    "created_at": {
+      "$date": "2022-07-01T10:10:36.068Z"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62becfa041874cdcbf43d88a"
+  },
+  "payment_id": "pay_Jo95qqQGonlLlP",
+  "order_id": "order_Jo4TpDJaaDccF3",
+  "merchant": "RazorPay",
+  "user_id": {
+    "$oid": "62be691441874cdcbf43d6a4"
+  },
+  "details": {
+    "purpose": "StudentApplication",
+    "application_id": {
+      "$oid": "62be691441874cdcbf43d6a6"
+    }
+  },
+  "status": "captured",
+  "error": {
+    "error_code": "GATEWAY_ERROR",
+    "description": "3D Secure authentication failed",
+    "created_at": {
+      "$date": "2022-07-01T10:42:40.264Z"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62bed04941874cdcbf43d890"
+  },
+  "payment_id": "pay_Jo95qqQGonlLlP",
+  "order_id": "order_Jo4TpDJaaDccF3",
+  "merchant": "RazorPay",
+  "user_id": {
+    "$oid": "62be691441874cdcbf43d6a4"
+  },
+  "details": {
+    "purpose": "StudentApplication",
+    "application_id": {
+      "$oid": "62be691441874cdcbf43d6a6"
+    }
+  },
+  "status": "captured",
+  "error": {
+    "error_code": "BAD_REQUEST_ERROR",
+    "description": "Payment processing cancelled by user",
+    "created_at": {
+      "$date": "2022-07-01T10:45:29.298Z"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62bed11d41874cdcbf43d894"
+  },
+  "payment_id": "pay_Jo95qqQGonlLlP",
+  "order_id": "order_Jo4TpDJaaDccF3",
+  "merchant": "RazorPay",
+  "user_id": {
+    "$oid": "62be691441874cdcbf43d6a4"
+  },
+  "details": {
+    "purpose": "StudentApplication",
+    "application_id": {
+      "$oid": "62be691441874cdcbf43d6a6"
+    }
+  },
+  "status": "captured",
+  "error": {
+    "error_code": "GATEWAY_ERROR",
+    "description": "Payment processing failed due to error at bank or wallet gateway",
+    "created_at": {
+      "$date": "2022-07-01T10:49:01.116Z"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62beab7541874cdcbf43d7b6"
+  },
+  "payment_id": "pay_Jo95qqQGonlLlP",
+  "order_id": "order_Jo1u6Lv0rMZavE",
+  "merchant": "RazorPay",
+  "user_id": {
+    "$oid": "62be798741874cdcbf43d6f2"
+  },
+  "details": {
+    "purpose": "StudentApplication",
+    "application_id": {
+      "$oid": "62be798741874cdcbf43d6f4"
+    }
+  },
+  "status": "captured",
+  "error": {
+    "error_code": "GATEWAY_ERROR",
+    "description": "3D Secure authentication failed",
+    "created_at": {
+      "$date": "2022-07-01T08:08:21.573Z"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62bed0aa41874cdcbf43d892"
+  },
+  "payment_id": "pay_Jo95qqQGonlLlP",
+  "order_id": "order_Jo4TpDJaaDccF3",
+  "merchant": "RazorPay",
+  "user_id": {
+    "$oid": "62be691441874cdcbf43d6a4"
+  },
+  "details": {
+    "purpose": "StudentApplication",
+    "application_id": {
+      "$oid": "62be691441874cdcbf43d6a6"
+    }
+  },
+  "status": "captured",
+  "error": {
+    "error_code": "BAD_REQUEST_ERROR",
+    "description": "Payment processing cancelled by user",
+    "created_at": {
+      "$date": "2022-07-01T10:47:06.153Z"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62b171474035e93c7ff248fb"
+  },
+  "payment_id": "pay_Jo95qqQGonlLlP",
+  "merchant": "RazorPay",
+  "user_id": {
+    "$oid": "62adca434035e93c7ff24770"
+  },
+  "details": {
+    "purpose": "StudentApplication",
+    "application_id": {
+      "$oid": "62adca434035e93c7ff24771"
+    }
+  },
+  "status": "captured",
+  "error": {
+    "error_code": "BAD_REQUEST_ERROR",
+    "description": "You may have cancelled the payment or there was a delay in response from the UPI app."
+  }
+},{
+  "_id": {
+    "$oid": "62b447d04035e93c7ff24b8f"
+  },
+  "payment_id": "pay_Jo95qqQGonlLlP",
+  "merchant": "RazorPay",
+  "user_id": {
+    "$oid": "62b424b34035e93c7ff24b59"
+  },
+  "details": {
+    "purpose": "StudentApplication",
+    "application_id": {
+      "$oid": "62b424b34035e93c7ff24b5b"
+    }
+  },
+  "status": "captured",
+  "error": {
+    "error_code": "GATEWAY_ERROR",
+    "description": "Payment processing failed due to error at bank or wallet gateway"
+  }
+},{
+  "_id": {
+    "$oid": "62b447f74035e93c7ff24b90"
+  },
+  "payment_id": "pay_Jo95qqQGonlLlP",
+  "merchant": "RazorPay",
+  "user_id": {
+    "$oid": "62b424b34035e93c7ff24b59"
+  },
+  "details": {
+    "purpose": "StudentApplication",
+    "application_id": {
+      "$oid": "62b424b34035e93c7ff24b5b"
+    }
+  },
+  "status": "captured",
+  "error": {
+    "error_code": "GATEWAY_ERROR",
+    "description": "Payment processing failed due to error at bank or wallet gateway"
+  }
+},{
+  "_id": {
+    "$oid": "62b97bee4035e93c7ff251ca"
+  },
+  "payment_id": "pay_Jo95qqQGonlLlP",
+  "merchant": "RazorPay",
+  "user_id": {
+    "$oid": "62b953894035e93c7ff2514d"
+  },
+  "details": {
+    "purpose": "StudentApplication",
+    "application_id": {
+      "$oid": "62b953894035e93c7ff2514f"
+    }
+  },
+  "status": "captured",
+  "error": {
+    "error_code": "BAD_REQUEST_ERROR",
+    "description": "Your card has been disabled for online payments by your issuing bank. Please reach out to your bank or re-try the payment with another card/method."
+  }
+},{
+  "_id": {
+    "$oid": "62bda74541874cdcbf43d596"
+  },
+  "payment_id": "pay_Jo95qqQGonlLlP",
+  "order_id": "order_Jnj1TAD1QvO131",
+  "merchant": "RazorPay",
+  "user_id": {
+    "$oid": "62bd9b0741874cdcbf43d55b"
+  },
+  "details": {
+    "purpose": "StudentApplication",
+    "application_id": {
+      "$oid": "62bd9b0741874cdcbf43d55d"
+    }
+  },
+  "status": "captured",
+  "error": {
+    "error_code": "BAD_REQUEST_ERROR",
+    "description": "You may have cancelled the payment or there was a delay in response from the UPI app.",
+    "created_at": {
+      "$date": "2022-06-30T13:38:13.701Z"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62bdb83841874cdcbf43d5c1"
+  },
+  "payment_id": "pay_Jo95qqQGonlLlP",
+  "order_id": "order_JnkC3ZcJXj2lzQ",
+  "merchant": "RazorPay",
+  "user_id": {
+    "$oid": "62bd3e4c41874cdcbf43d47e"
+  },
+  "details": {
+    "purpose": "StudentApplication",
+    "application_id": {
+      "$oid": "62bd3e4c41874cdcbf43d47f"
+    }
+  },
+  "status": "captured",
+  "error": {
+    "error_code": "GATEWAY_ERROR",
+    "description": "3D Secure authentication failed",
+    "created_at": {
+      "$date": "2022-06-30T14:50:32.890Z"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62bdb93841874cdcbf43d5c2"
+  },
+  "payment_id": "pay_Jo95qqQGonlLlP",
+  "order_id": "order_JnkC3ZcJXj2lzQ",
+  "merchant": "RazorPay",
+  "user_id": {
+    "$oid": "62bd3e4c41874cdcbf43d47e"
+  },
+  "details": {
+    "purpose": "StudentApplication",
+    "application_id": {
+      "$oid": "62bd3e4c41874cdcbf43d47f"
+    }
+  },
+  "status": "captured",
+  "error": {
+    "error_code": "GATEWAY_ERROR",
+    "description": "3D Secure authentication failed",
+    "created_at": {
+      "$date": "2022-06-30T14:54:48.659Z"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62bec7d641874cdcbf43d85b"
+  },
+  "payment_id": "pay_Jo95qqQGonlLlP",
+  "order_id": "order_Jo3tdvWVgUABwy",
+  "merchant": "RazorPay",
+  "user_id": {
+    "$oid": "62be691441874cdcbf43d6a4"
+  },
+  "details": {
+    "purpose": "StudentApplication",
+    "application_id": {
+      "$oid": "62be691441874cdcbf43d6a6"
+    }
+  },
+  "status": "captured",
+  "error": {
+    "error_code": "GATEWAY_ERROR",
+    "description": "Payment processing failed due to error at bank or wallet gateway",
+    "created_at": {
+      "$date": "2022-07-01T10:09:26.486Z"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62bed18a41874cdcbf43d89c"
+  },
+  "payment_id": "pay_Jo95qqQGonlLlP",
+  "order_id": "order_Jo4TpDJaaDccF3",
+  "merchant": "RazorPay",
+  "user_id": {
+    "$oid": "62be691441874cdcbf43d6a4"
+  },
+  "details": {
+    "purpose": "StudentApplication",
+    "application_id": {
+      "$oid": "62be691441874cdcbf43d6a6"
+    }
+  },
+  "status": "captured",
+  "error": {
+    "error_code": "GATEWAY_ERROR",
+    "description": "Payment processing failed due to error at bank or wallet gateway",
+    "created_at": {
+      "$date": "2022-07-01T10:50:50.864Z"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62b5bd344035e93c7ff24da9"
+  },
+  "payment_id": "pay_Jo95qqQGonlLlP",
+  "merchant": "RazorPay",
+  "user_id": {
+    "$oid": "62b5ad684035e93c7ff24d8e"
+  },
+  "details": {
+    "purpose": "StudentApplication",
+    "application_id": {
+      "$oid": "62b5ad684035e93c7ff24d8f"
+    }
+  },
+  "status": "captured",
+  "error": {
+    "error_code": "BAD_REQUEST_ERROR",
+    "description": "No UPI App on this device. Select other UPI option to proceed."
+  }
+},{
+  "_id": {
+    "$oid": "62b7069e4035e93c7ff24efe"
+  },
+  "payment_id": "pay_Jo95qqQGonlLlP",
+  "merchant": "RazorPay",
+  "user_id": {
+    "$oid": "62b6f7e84035e93c7ff24ee2"
+  },
+  "details": {
+    "purpose": "StudentApplication",
+    "application_id": {
+      "$oid": "62b6f7e84035e93c7ff24ee4"
+    }
+  },
+  "status": "captured",
+  "error": {
+    "error_code": "GATEWAY_ERROR",
+    "description": "The gateway request to submit payment information timed out. Please submit your details again"
+  }
+},{
+  "_id": {
+    "$oid": "62b985744035e93c7ff251e0"
+  },
+  "payment_id": "pay_Jo95qqQGonlLlP",
+  "merchant": "RazorPay",
+  "user_id": {
+    "$oid": "62b953894035e93c7ff2514d"
+  },
+  "details": {
+    "purpose": "StudentApplication",
+    "application_id": {
+      "$oid": "62b953894035e93c7ff2514f"
+    }
+  },
+  "status": "captured",
+  "error": {
+    "error_code": "BAD_REQUEST_ERROR",
+    "description": "You may have cancelled the payment or there was a delay in response from the UPI app."
+  }
+},{
+  "_id": {
+    "$oid": "62b987344035e93c7ff251e5"
+  },
+  "payment_id": "pay_Jo95qqQGonlLlP",
+  "merchant": "RazorPay",
+  "user_id": {
+    "$oid": "62b953894035e93c7ff2514d"
+  },
+  "details": {
+    "purpose": "StudentApplication",
+    "application_id": {
+      "$oid": "62b953894035e93c7ff2514f"
+    }
+  },
+  "status": "captured",
+  "error": {
+    "error_code": "BAD_REQUEST_ERROR",
+    "description": "You may have cancelled the payment or there was a delay in response from the UPI app."
+  }
+},{
+  "_id": {
+    "$oid": "62bda1c841874cdcbf43d575"
+  },
+  "payment_id": "pay_Jo95qqQGonlLlP",
+  "order_id": "order_Jnid105EKg2e8Y",
+  "merchant": "RazorPay",
+  "user_id": {
+    "$oid": "62bd9b0741874cdcbf43d55b"
+  },
+  "details": {
+    "purpose": "StudentApplication",
+    "application_id": {
+      "$oid": "62bd9b0741874cdcbf43d55d"
+    }
+  },
+  "status": "captured",
+  "error": {
+    "error_code": "BAD_REQUEST_ERROR",
+    "description": "You may have cancelled the payment or there was a delay in response from the UPI app.",
+    "created_at": {
+      "$date": "2022-06-30T13:14:48.520Z"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62bda7b841874cdcbf43d597"
+  },
+  "payment_id": "pay_Jo95qqQGonlLlP",
+  "order_id": "order_Jnj1TAD1QvO131",
+  "merchant": "RazorPay",
+  "user_id": {
+    "$oid": "62bd9b0741874cdcbf43d55b"
+  },
+  "details": {
+    "purpose": "StudentApplication",
+    "application_id": {
+      "$oid": "62bd9b0741874cdcbf43d55d"
+    }
+  },
+  "status": "captured",
+  "error": {
+    "error_code": "BAD_REQUEST_ERROR",
+    "description": "Your payment has been cancelled. Try again or complete the payment later.",
+    "created_at": {
+      "$date": "2022-06-30T13:40:08.512Z"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62bdf63b41874cdcbf43d621"
+  },
+  "payment_id": "pay_Jo95qqQGonlLlP",
+  "order_id": "order_JnolSC7z4JsepP",
+  "merchant": "RazorPay",
+  "user_id": {
+    "$oid": "62bdf12c41874cdcbf43d61c"
+  },
+  "details": {
+    "purpose": "StudentApplication",
+    "application_id": {
+      "$oid": "62bdf12c41874cdcbf43d61e"
+    }
+  },
+  "status": "captured",
+  "error": {
+    "error_code": "BAD_REQUEST_ERROR",
+    "description": "No UPI App on this device. Select other UPI option to proceed.",
+    "created_at": {
+      "$date": "2022-06-30T19:15:07.440Z"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62beab9741874cdcbf43d7b7"
+  },
+  "payment_id": "pay_Jo95qqQGonlLlP",
+  "order_id": "order_Jo1u6Lv0rMZavE",
+  "merchant": "RazorPay",
+  "user_id": {
+    "$oid": "62be798741874cdcbf43d6f2"
+  },
+  "details": {
+    "purpose": "StudentApplication",
+    "application_id": {
+      "$oid": "62be798741874cdcbf43d6f4"
+    }
+  },
+  "status": "captured",
+  "error": {
+    "error_code": "BAD_REQUEST_ERROR",
+    "description": "No UPI App on this device. Select other UPI option to proceed.",
+    "created_at": {
+      "$date": "2022-07-01T08:08:55.468Z"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62bec9b641874cdcbf43d872"
+  },
+  "payment_id": "pay_Jo95qqQGonlLlP",
+  "order_id": "order_Jo42drozJzpUhV",
+  "merchant": "RazorPay",
+  "user_id": {
+    "$oid": "62be691441874cdcbf43d6a4"
+  },
+  "details": {
+    "purpose": "StudentApplication",
+    "application_id": {
+      "$oid": "62be691441874cdcbf43d6a6"
+    }
+  },
+  "status": "captured",
+  "error": {
+    "error_code": "BAD_REQUEST_ERROR",
+    "description": "Your card has been disabled for online payments by your issuing bank. Please reach out to your bank or re-try the payment with another card/method.",
+    "created_at": {
+      "$date": "2022-07-01T10:17:26.891Z"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62becafd41874cdcbf43d878"
+  },
+  "payment_id": "pay_Jo95qqQGonlLlP",
+  "order_id": "order_Jo4AFz4plHUNUM",
+  "merchant": "RazorPay",
+  "user_id": {
+    "$oid": "62be691441874cdcbf43d6a4"
+  },
+  "details": {
+    "purpose": "StudentApplication",
+    "application_id": {
+      "$oid": "62be691441874cdcbf43d6a6"
+    }
+  },
+  "status": "captured",
+  "error": {
+    "error_code": "GATEWAY_ERROR",
+    "description": "Payment processing failed due to error at bank or wallet gateway",
+    "created_at": {
+      "$date": "2022-07-01T10:22:53.458Z"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62bece5b41874cdcbf43d880"
+  },
+  "payment_id": "pay_Jo95qqQGonlLlP",
+  "order_id": "order_Jo4PyD0sVXDjWt",
+  "merchant": "RazorPay",
+  "user_id": {
+    "$oid": "62bdabb541874cdcbf43d5a2"
+  },
+  "details": {
+    "purpose": "StudentApplication",
+    "application_id": {
+      "$oid": "62bdabb541874cdcbf43d5a3"
+    }
+  },
+  "status": "captured",
+  "error": {
+    "error_code": "BAD_REQUEST_ERROR",
+    "description": "You may have cancelled the payment or there was a delay in response from the UPI app.",
+    "created_at": {
+      "$date": "2022-07-01T10:37:15.456Z"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62c04f9ca47ab414cbf10d1e"
+  },
+  "payment_id": "pay_JoWU7gOyJffIeJ",
+  "order_id": "order_JoWSLGcviihZlm",
+  "user_id": {
+    "$oid": "62bf2cf2a8c782741bbcc398"
+  },
+  "details": {
+    "purpose": "studentApplication",
+    "application_id": {
+      "$oid": "62bf2cf2a8c782741bbcc399"
+    }
+  },
+  "status": "captured",
+  "error": {
+    "error_code": null,
+    "description": null,
+    "created_at": {
+      "$date": "2022-07-02T14:01:00.039Z"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62c0c58a209efb331f561edc"
+  },
+  "payment_id": "pay_Jof3dtNELBf9c0",
+  "order_id": "order_Jof3PNm5ZWjnDr",
+  "user_id": {
+    "$oid": "62c0c183209efb331f561ebd"
+  },
+  "details": {
+    "purpose": "studentApplication",
+    "application_id": {
+      "$oid": "62c0c276209efb331f561ec5"
+    }
+  },
+  "status": "captured",
+  "error": {
+    "error_code": null,
+    "description": null,
+    "created_at": {
+      "$date": "2022-07-02T22:24:10.455Z"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62c0c625209efb331f561ede"
+  },
+  "payment_id": "pay_Jof6QG1ClPolQH",
+  "order_id": "order_Jof6E0Ac7PYsal",
+  "user_id": {
+    "$oid": "62c0c183209efb331f561ebd"
+  },
+  "details": {
+    "purpose": "studentApplication",
+    "application_id": {
+      "$oid": "62c0c183209efb331f561ebe"
+    }
+  },
+  "status": "captured",
+  "error": {
+    "error_code": null,
+    "description": null,
+    "created_at": {
+      "$date": "2022-07-02T22:26:45.402Z"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62c0c6c3209efb331f561ee4"
+  },
+  "payment_id": "pay_Jof9CT7R1VXQ75",
+  "order_id": "order_Jof90r1D8BSvlk",
+  "user_id": {
+    "$oid": "62c0c183209efb331f561ebd"
+  },
+  "details": {
+    "purpose": "studentApplication",
+    "application_id": {
+      "$oid": "62c0c665209efb331f561ee0"
+    }
+  },
+  "status": "captured",
+  "error": {
+    "error_code": null,
+    "description": null,
+    "created_at": {
+      "$date": "2022-07-02T22:29:23.546Z"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62c0cae9209efb331f561eed"
+  },
+  "payment_id": "pay_JofRtUQ0VZfWXl",
+  "order_id": "order_JofRefGscuXzsV",
+  "user_id": {
+    "$oid": "62c0c903209efb331f561ee8"
+  },
+  "details": {
+    "purpose": "studentApplication",
+    "application_id": {
+      "$oid": "62c0c903209efb331f561ee9"
+    }
+  },
+  "status": "captured",
+  "error": {
+    "error_code": null,
+    "description": null,
+    "created_at": {
+      "$date": "2022-07-02T22:47:05.031Z"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62c0cb79209efb331f561ef1"
+  },
+  "payment_id": "pay_JofURC0uAKyM1I",
+  "order_id": "order_JofUCjjEwODUeu",
+  "user_id": {
+    "$oid": "62c0c903209efb331f561ee8"
+  },
+  "details": {
+    "purpose": "studentApplication",
+    "application_id": {
+      "$oid": "62c0cb4d209efb331f561ef0"
+    }
+  },
+  "status": "captured",
+  "error": {
+    "error_code": null,
+    "description": null,
+    "created_at": {
+      "$date": "2022-07-02T22:49:29.511Z"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62c0cbde209efb331f561ef5"
+  },
+  "payment_id": "pay_JofWDw2PiI8PiX",
+  "order_id": "order_JofW0a6buB8Avd",
+  "user_id": {
+    "$oid": "62c0c903209efb331f561ee8"
+  },
+  "details": {
+    "purpose": "studentApplication",
+    "application_id": {
+      "$oid": "62c0cb98209efb331f561ef3"
+    }
+  },
+  "status": "captured",
+  "error": {
+    "error_code": null,
+    "description": null,
+    "created_at": {
+      "$date": "2022-07-02T22:51:10.812Z"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62c11cec209efb331f561efc"
+  },
+  "payment_id": "pay_JolPUYAWgLZEgt",
+  "order_id": "order_JolPERA1KpARhZ",
+  "user_id": {
+    "$oid": "62c11ae9209efb331f561ef7"
+  },
+  "details": {
+    "purpose": "studentApplication",
+    "application_id": {
+      "$oid": "62c11ae9209efb331f561ef8"
+    }
+  },
+  "status": "captured",
+  "error": {
+    "error_code": null,
+    "description": null,
+    "created_at": {
+      "$date": "2022-07-03T04:37:00.659Z"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62c11e40209efb331f561f00"
+  },
+  "payment_id": "pay_JolVVXEJ9hQz48",
+  "order_id": "order_JolVKTfgNl9e9n",
+  "user_id": {
+    "$oid": "62c11ae9209efb331f561ef7"
+  },
+  "details": {
+    "purpose": "studentApplication",
+    "application_id": {
+      "$oid": "62c11daf209efb331f561efe"
+    }
+  },
+  "status": "captured",
+  "error": {
+    "error_code": null,
+    "description": null,
+    "created_at": {
+      "$date": "2022-07-03T04:42:40.091Z"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62c11fef209efb331f561f08"
+  },
+  "payment_id": "pay_Jold5hTosMWMLk",
+  "order_id": "order_JolctcpBtMOn4k",
+  "user_id": {
+    "$oid": "62c11f1b209efb331f561f01"
+  },
+  "details": {
+    "purpose": "studentApplication",
+    "application_id": {
+      "$oid": "62c11f1b209efb331f561f02"
+    }
+  },
+  "status": "captured",
+  "error": {
+    "error_code": null,
+    "description": null,
+    "created_at": {
+      "$date": "2022-07-03T04:49:51.058Z"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62c1205c209efb331f561f0b"
+  },
+  "payment_id": "pay_Jolf16ot9IabAU",
+  "order_id": "order_JoleqJklVFz4US",
+  "user_id": {
+    "$oid": "62c11f1b209efb331f561f01"
+  },
+  "details": {
+    "purpose": "studentApplication",
+    "application_id": {
+      "$oid": "62c11f96209efb331f561f06"
+    }
+  },
+  "status": "captured",
+  "error": {
+    "error_code": null,
+    "description": null,
+    "created_at": {
+      "$date": "2022-07-03T04:51:40.400Z"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62c1243a209efb331f561f13"
+  },
+  "payment_id": "pay_JolwR1TBVNiTjA",
+  "order_id": "order_Jolw7yf8xcpGri",
+  "user_id": {
+    "$oid": "62c12312209efb331f561f0d"
+  },
+  "details": {
+    "purpose": "studentApplication",
+    "application_id": {
+      "$oid": "62c12312209efb331f561f0e"
+    }
+  },
+  "status": "captured",
+  "error": {
+    "error_code": null,
+    "description": null,
+    "created_at": {
+      "$date": "2022-07-03T05:08:10.106Z"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62c12817209efb331f561f20"
+  },
+  "payment_id": "pay_JomDrGVG91Yu5X",
+  "order_id": "order_JomDd9yChcEyzU",
+  "user_id": {
+    "$oid": "62c12312209efb331f561f0d"
+  },
+  "details": {
+    "purpose": "studentApplication",
+    "application_id": {
+      "$oid": "62c12470209efb331f561f15"
+    }
+  },
+  "status": "captured",
+  "error": {
+    "error_code": null,
+    "description": null,
+    "created_at": {
+      "$date": "2022-07-03T05:24:39.665Z"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62c13248d037eb055be8948f"
+  },
+  "payment_id": "pay_JomxnTKIGp9zFY",
+  "order_id": "order_JomxZ4iB09Czuv",
+  "user_id": {
+    "$oid": "62c13179d037eb055be8948b"
+  },
+  "details": {
+    "purpose": "studentApplication",
+    "application_id": {
+      "$oid": "62c13179d037eb055be8948c"
+    }
+  },
+  "status": "captured",
+  "error": {
+    "error_code": null,
+    "description": null,
+    "created_at": {
+      "$date": "2022-07-03T06:08:08.966Z"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62c132a5d037eb055be89492"
+  },
+  "payment_id": "pay_JomzQTlO97nZEc",
+  "order_id": "order_JomzEGDdGmWejx",
+  "user_id": {
+    "$oid": "62c13179d037eb055be8948b"
+  },
+  "details": {
+    "purpose": "studentApplication",
+    "application_id": {
+      "$oid": "62c13272d037eb055be89491"
+    }
+  },
+  "status": "captured",
+  "error": {
+    "error_code": null,
+    "description": null,
+    "created_at": {
+      "$date": "2022-07-03T06:09:41.706Z"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62c133dcd037eb055be89495"
+  },
+  "payment_id": "pay_Jon4tQL8YNzP91",
+  "order_id": "order_Jon4eRnVVmLDjF",
+  "user_id": {
+    "$oid": "62c13179d037eb055be8948b"
+  },
+  "details": {
+    "purpose": "studentApplication",
+    "application_id": {
+      "$oid": "62c132d7d037eb055be89494"
+    }
+  },
+  "status": "captured",
+  "error": {
+    "error_code": null,
+    "description": null,
+    "created_at": {
+      "$date": "2022-07-03T06:14:52.468Z"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62c14843d037eb055be894a0"
+  },
+  "payment_id": "pay_JooYf7okG4Lg6l",
+  "order_id": "order_JooYM33zws7S5P",
+  "user_id": {
+    "$oid": "62c13179d037eb055be8948b"
+  },
+  "details": {
+    "purpose": "studentApplication",
+    "application_id": {
+      "$oid": "62c14807d037eb055be8949f"
+    }
+  },
+  "status": "captured",
+  "error": {
+    "error_code": null,
+    "description": null,
+    "created_at": {
+      "$date": "2022-07-03T07:41:55.173Z"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62c14cf222fb204ee25ecacb"
+  },
+  "payment_id": "pay_JootxaNNHBRWGh",
+  "order_id": "order_JootYacGAtFE5N",
+  "user_id": {
+    "$oid": "62c143eed037eb055be8949c"
+  },
+  "details": {
+    "purpose": "studentApplication",
+    "application_id": {
+      "$oid": "62c143eed037eb055be8949d"
+    }
+  },
+  "status": "captured",
+  "error": {
+    "error_code": null,
+    "description": null,
+    "created_at": {
+      "$date": "2022-07-03T08:01:54.769Z"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62c14d6722fb204ee25ecace"
+  },
+  "payment_id": "pay_Joow0SZbaFAoTP",
+  "order_id": "order_JoovSB3ANtbZI3",
+  "user_id": {
+    "$oid": "62c143eed037eb055be8949c"
+  },
+  "details": {
+    "purpose": "studentApplication",
+    "application_id": {
+      "$oid": "62c14d1922fb204ee25ecacd"
+    }
+  },
+  "status": "captured",
+  "error": {
+    "error_code": null,
+    "description": null,
+    "created_at": {
+      "$date": "2022-07-03T08:03:51.014Z"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62c1591922fb204ee25ecae3"
+  },
+  "payment_id": "pay_Jopmj3Piwsc3ek",
+  "order_id": "order_JopmQULlJZx9ay",
+  "user_id": {
+    "$oid": "62c1581a22fb204ee25ecadd"
+  },
+  "details": {
+    "purpose": "studentApplication",
+    "application_id": {
+      "$oid": "62c1589322fb204ee25ecae1"
+    }
+  },
+  "status": "captured",
+  "error": {
+    "error_code": null,
+    "description": null,
+    "created_at": {
+      "$date": "2022-07-03T08:53:45.275Z"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62c15a8322fb204ee25ecae5"
+  },
+  "payment_id": "pay_Jopt6QfnVR8NMb",
+  "order_id": "order_JopsqRMPtE1zX1",
+  "user_id": {
+    "$oid": "62c1581a22fb204ee25ecadd"
+  },
+  "details": {
+    "purpose": "studentApplication",
+    "application_id": {
+      "$oid": "62c1581a22fb204ee25ecade"
+    }
+  },
+  "status": "captured",
+  "error": {
+    "error_code": null,
+    "description": null,
+    "created_at": {
+      "$date": "2022-07-03T08:59:47.680Z"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62c15ba722fb204ee25ecae9"
+  },
+  "payment_id": "pay_JopyEYr6m4bLXn",
+  "order_id": "order_Jopy0Qtuwlhdvq",
+  "user_id": {
+    "$oid": "62c1581a22fb204ee25ecadd"
+  },
+  "details": {
+    "purpose": "studentApplication",
+    "application_id": {
+      "$oid": "62c15b7a22fb204ee25ecae8"
+    }
+  },
+  "status": "captured",
+  "error": {
+    "error_code": null,
+    "description": null,
+    "created_at": {
+      "$date": "2022-07-03T09:04:39.820Z"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62c1705822fb204ee25ecaf5"
+  },
+  "payment_id": "pay_JorTTfF7uDZgy5",
+  "order_id": "order_JorT6onPptVX2k",
+  "user_id": {
+    "$oid": "62c16e0a22fb204ee25ecaea"
+  },
+  "details": {
+    "purpose": "studentApplication",
+    "application_id": {
+      "$oid": "62c16e0a22fb204ee25ecaeb"
+    }
+  },
+  "status": "captured",
+  "error": {
+    "error_code": null,
+    "description": null,
+    "created_at": {
+      "$date": "2022-07-03T10:32:56.338Z"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62c1718c22fb204ee25ecaf9"
+  },
+  "payment_id": "pay_JorYtF6M9jfDP9",
+  "order_id": "order_JorYdOb1NXgac7",
+  "user_id": {
+    "$oid": "62c16e0a22fb204ee25ecaea"
+  },
+  "details": {
+    "purpose": "studentApplication",
+    "application_id": {
+      "$oid": "62c16f4622fb204ee25ecaf3"
+    }
+  },
+  "status": "captured",
+  "error": {
+    "error_code": null,
+    "description": null,
+    "created_at": {
+      "$date": "2022-07-03T10:38:04.363Z"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62c172a822fb204ee25ecafe"
+  },
+  "payment_id": "pay_JorduW5am9x3ah",
+  "order_id": "order_JordeZ7Bh9IIKp",
+  "user_id": {
+    "$oid": "62c16e0a22fb204ee25ecaea"
+  },
+  "details": {
+    "purpose": "studentApplication",
+    "application_id": {
+      "$oid": "62c1726922fb204ee25ecafc"
+    }
+  },
+  "status": "captured",
+  "error": {
+    "error_code": null,
+    "description": null,
+    "created_at": {
+      "$date": "2022-07-03T10:42:48.042Z"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62c175de22fb204ee25ecb08"
+  },
+  "payment_id": "pay_JorrjeiyPoKccQ",
+  "order_id": "order_JorrVjKoSfliBj",
+  "user_id": {
+    "$oid": "62c174af22fb204ee25ecb04"
+  },
+  "details": {
+    "purpose": "studentApplication",
+    "application_id": {
+      "$oid": "62c174b022fb204ee25ecb05"
+    }
+  },
+  "status": "captured",
+  "error": {
+    "error_code": null,
+    "description": null,
+    "created_at": {
+      "$date": "2022-07-03T10:56:30.524Z"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62c1767722fb204ee25ecb0b"
+  },
+  "payment_id": "pay_Jorv5fNPsUZkzL",
+  "order_id": "order_Jorup7dmtfpnmn",
+  "user_id": {
+    "$oid": "62c174af22fb204ee25ecb04"
+  },
+  "details": {
+    "purpose": "studentApplication",
+    "application_id": {
+      "$oid": "62c1765322fb204ee25ecb0a"
+    }
+  },
+  "status": "captured",
+  "error": {
+    "error_code": null,
+    "description": null,
+    "created_at": {
+      "$date": "2022-07-03T10:59:03.265Z"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62c178a422fb204ee25ecb12"
+  },
+  "payment_id": "pay_Jos4t5VM5XmwRi",
+  "order_id": "order_Jos4NaCQK1UE42",
+  "user_id": {
+    "$oid": "62c174af22fb204ee25ecb04"
+  },
+  "details": {
+    "purpose": "studentApplication",
+    "application_id": {
+      "$oid": "62c1786922fb204ee25ecb11"
+    }
+  },
+  "status": "captured",
+  "error": {
+    "error_code": null,
+    "description": null,
+    "created_at": {
+      "$date": "2022-07-03T11:08:20.769Z"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62c178b822fb204ee25ecb13"
+  },
+  "payment_id": "pay_Jos5EqDop1zTbs",
+  "order_id": "order_Jos4rgehH4S1ao",
+  "user_id": {
+    "$oid": "62c177d022fb204ee25ecb0c"
+  },
+  "details": {
+    "purpose": "studentApplication",
+    "application_id": {
+      "$oid": "62c177d022fb204ee25ecb0d"
+    }
+  },
+  "status": "captured",
+  "error": {
+    "error_code": null,
+    "description": null,
+    "created_at": {
+      "$date": "2022-07-03T11:08:40.672Z"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62c17a1d22fb204ee25ecb17"
+  },
+  "payment_id": "pay_JosBWgdL77KneF",
+  "order_id": "order_JosBBVO2fBjWb2",
+  "user_id": {
+    "$oid": "62c177d022fb204ee25ecb0c"
+  },
+  "details": {
+    "purpose": "studentApplication",
+    "application_id": {
+      "$oid": "62c179eb22fb204ee25ecb16"
+    }
+  },
+  "status": "captured",
+  "error": {
+    "error_code": null,
+    "description": null,
+    "created_at": {
+      "$date": "2022-07-03T11:14:37.535Z"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62c181cb22fb204ee25ecb20"
+  },
+  "payment_id": "pay_Josk87ySVlDiqH",
+  "order_id": "order_JosjTY07tGtLWg",
+  "user_id": {
+    "$oid": "62c177d022fb204ee25ecb0c"
+  },
+  "details": {
+    "purpose": "studentApplication",
+    "application_id": {
+      "$oid": "62c180be22fb204ee25ecb1f"
+    }
+  },
+  "status": "captured",
+  "error": {
+    "error_code": null,
+    "description": null,
+    "created_at": {
+      "$date": "2022-07-03T11:47:23.196Z"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62c1888d22fb204ee25ecb2d"
+  },
+  "payment_id": "pay_JotEaGQzwSPapH",
+  "order_id": "order_JotDr77n67JT9a",
+  "user_id": {
+    "$oid": "62c1870022fb204ee25ecb29"
+  },
+  "details": {
+    "purpose": "studentApplication",
+    "application_id": {
+      "$oid": "62c1870122fb204ee25ecb2a"
+    }
+  },
+  "status": "captured",
+  "error": {
+    "error_code": null,
+    "description": null,
+    "created_at": {
+      "$date": "2022-07-03T12:16:13.140Z"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62c1892422fb204ee25ecb30"
+  },
+  "payment_id": "pay_JotHGIW8Ckn6GU",
+  "order_id": "order_JotGuxDoOsgEfk",
+  "user_id": {
+    "$oid": "62c1870022fb204ee25ecb29"
+  },
+  "details": {
+    "purpose": "studentApplication",
+    "application_id": {
+      "$oid": "62c188ca22fb204ee25ecb2f"
+    }
+  },
+  "status": "captured",
+  "error": {
+    "error_code": null,
+    "description": null,
+    "created_at": {
+      "$date": "2022-07-03T12:18:44.507Z"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62c18fc822fb204ee25ecb39"
+  },
+  "payment_id": "pay_JotlBQfhVYK8aw",
+  "order_id": "order_Jotkqcxxl0TDa9",
+  "user_id": {
+    "$oid": "62c1870022fb204ee25ecb29"
+  },
+  "details": {
+    "purpose": "studentApplication",
+    "application_id": {
+      "$oid": "62c18f7e22fb204ee25ecb38"
+    }
+  },
+  "status": "captured",
+  "error": {
+    "error_code": null,
+    "description": null,
+    "created_at": {
+      "$date": "2022-07-03T12:47:04.479Z"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62c1944622fb204ee25ecb42"
+  },
+  "payment_id": "pay_Jou5OE96WNFRS1",
+  "order_id": "order_Jou50K1cVz4Y7s",
+  "user_id": {
+    "$oid": "62c174af22fb204ee25ecb04"
+  },
+  "details": {
+    "purpose": "studentApplication",
+    "application_id": {
+      "$oid": "62c193e422fb204ee25ecb41"
+    }
+  },
+  "status": "captured",
+  "error": {
+    "error_code": null,
+    "description": null,
+    "created_at": {
+      "$date": "2022-07-03T13:06:14.810Z"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62c1950922fb204ee25ecb48"
+  },
+  "payment_id": "pay_Jou8sWJ3WIvGBu",
+  "order_id": "order_Jou8YJ88LQldJ0",
+  "user_id": {
+    "$oid": "62c174af22fb204ee25ecb04"
+  },
+  "details": {
+    "purpose": "studentApplication",
+    "application_id": {
+      "$oid": "62c194d722fb204ee25ecb47"
+    }
+  },
+  "status": "captured",
+  "error": {
+    "error_code": null,
+    "description": null,
+    "created_at": {
+      "$date": "2022-07-03T13:09:29.799Z"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62c1a057b8ac3429e0c5034d"
+  },
+  "payment_id": "pay_JouxpGbn80HlgW",
+  "order_id": "order_JouxRRbOd2MjKP",
+  "user_id": {
+    "$oid": "62c1870022fb204ee25ecb29"
+  },
+  "details": {
+    "purpose": "studentApplication",
+    "application_id": {
+      "$oid": "62c1a024b8ac3429e0c5034c"
+    }
+  },
+  "status": "captured",
+  "error": {
+    "error_code": null,
+    "description": null,
+    "created_at": {
+      "$date": "2022-07-03T13:57:43.929Z"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62c1b31db8ac3429e0c50361"
+  },
+  "payment_id": "pay_JowKRS5W6B0liI",
+  "order_id": "order_JowKAdSqd1bBwI",
+  "user_id": {
+    "$oid": "62bf2cf2a8c782741bbcc398"
+  },
+  "details": {
+    "purpose": "studentApplication",
+    "application_id": {
+      "$oid": "62c1b0dfb8ac3429e0c5035c"
+    }
+  },
+  "status": "captured",
+  "error": {
+    "error_code": null,
+    "description": null,
+    "created_at": {
+      "$date": "2022-07-03T15:17:49.781Z"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62c1b479b8ac3429e0c50369"
+  },
+  "payment_id": "pay_JowQXsGTdXpmgo",
+  "order_id": "order_JowQFOqEKUpPMw",
+  "user_id": {
+    "$oid": "62bf2cf2a8c782741bbcc398"
+  },
+  "details": {
+    "purpose": "studentApplication",
+    "application_id": {
+      "$oid": "62c1b44ab8ac3429e0c50365"
+    }
+  },
+  "status": "captured",
+  "error": {
+    "error_code": null,
+    "description": null,
+    "created_at": {
+      "$date": "2022-07-03T15:23:37.152Z"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62c1bb44b8ac3429e0c50377"
+  },
+  "payment_id": "pay_Jowv9IJPGVpGET",
+  "order_id": "order_JowupH8QzKjuAS",
+  "user_id": {
+    "$oid": "62bf2cf2a8c782741bbcc398"
+  },
+  "details": {
+    "purpose": "studentApplication",
+    "application_id": {
+      "$oid": "62c1bacdb8ac3429e0c50373"
+    }
+  },
+  "status": "captured",
+  "error": {
+    "error_code": null,
+    "description": null,
+    "created_at": {
+      "$date": "2022-07-03T15:52:36.125Z"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62c1bc78b8ac3429e0c5037a"
+  },
+  "payment_id": "pay_Jox0b4OdtocH98",
+  "order_id": "order_Jox0AumHA65egl",
+  "user_id": {
+    "$oid": "62c1870022fb204ee25ecb29"
+  },
+  "details": {
+    "purpose": "studentApplication",
+    "application_id": {
+      "$oid": "62c1b25fb8ac3429e0c50360"
+    }
+  },
+  "status": "captured",
+  "error": {
+    "error_code": null,
+    "description": null,
+    "created_at": {
+      "$date": "2022-07-03T15:57:44.845Z"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62c1be34b8ac3429e0c50383"
+  },
+  "payment_id": "pay_Jox8PHkBaA9uFb",
+  "order_id": "order_Jox86zxF1APy54",
+  "user_id": {
+    "$oid": "62c1bd42b8ac3429e0c5037c"
+  },
+  "details": {
+    "purpose": "studentApplication",
+    "application_id": {
+      "$oid": "62c1bd42b8ac3429e0c5037d"
+    }
+  },
+  "status": "captured",
+  "error": {
+    "error_code": null,
+    "description": null,
+    "created_at": {
+      "$date": "2022-07-03T16:05:08.752Z"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62c1beadb8ac3429e0c50385"
+  },
+  "payment_id": "pay_JoxAXYkOJRhSQD",
+  "order_id": "order_JoxAGeSa74Fvaa",
+  "user_id": {
+    "$oid": "62c1bd42b8ac3429e0c5037c"
+  },
+  "details": {
+    "purpose": "studentApplication",
+    "application_id": {
+      "$oid": "62c1bdfab8ac3429e0c50381"
+    }
+  },
+  "status": "captured",
+  "error": {
+    "error_code": null,
+    "description": null,
+    "created_at": {
+      "$date": "2022-07-03T16:07:09.448Z"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62c1c444b8ac3429e0c5039a"
+  },
+  "payment_id": "pay_JoxZjiXGYgoiEI",
+  "order_id": "order_JoxYh2igSAfSyC",
+  "user_id": {
+    "$oid": "62c1c35bb8ac3429e0c50396"
+  },
+  "details": {
+    "purpose": "studentApplication",
+    "application_id": {
+      "$oid": "62c1c35bb8ac3429e0c50397"
+    }
+  },
+  "status": "captured",
+  "error": {
+    "error_code": null,
+    "description": null,
+    "created_at": {
+      "$date": "2022-07-03T16:31:00.493Z"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62c1c4acb8ac3429e0c5039d"
+  },
+  "payment_id": "pay_JoxbZ6S6VRCc2n",
+  "order_id": "order_JoxbEVRSEc5GFb",
+  "user_id": {
+    "$oid": "62c1c35bb8ac3429e0c50396"
+  },
+  "details": {
+    "purpose": "studentApplication",
+    "application_id": {
+      "$oid": "62c1c472b8ac3429e0c5039c"
+    }
+  },
+  "status": "captured",
+  "error": {
+    "error_code": null,
+    "description": null,
+    "created_at": {
+      "$date": "2022-07-03T16:32:44.360Z"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62c1d6374c8416d35cac87da"
+  },
+  "payment_id": "pay_Joysbqx1yuJwYf",
+  "order_id": "order_JoysP49qCGm68n",
+  "user_id": {
+    "$oid": "62c11f1b209efb331f561f01"
+  },
+  "details": {
+    "purpose": "studentApplication",
+    "application_id": {
+      "$oid": "62c19c8d476e6e6e5cec7402"
+    }
+  },
+  "status": "captured",
+  "error": {
+    "error_code": null,
+    "description": null,
+    "created_at": {
+      "$date": "2022-07-03T17:47:35.477Z"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62c1d9e748b4d3880fd671d4"
+  },
+  "payment_id": "pay_Joz9CGvp3cJTgk",
+  "order_id": "order_Joz90TetjRxsno",
+  "user_id": {
+    "$oid": "62c11f1b209efb331f561f01"
+  },
+  "details": {
+    "purpose": "studentApplication",
+    "application_id": {
+      "$oid": "62c19cda476e6e6e5cec7404"
+    }
+  },
+  "status": "captured",
+  "error": {
+    "error_code": null,
+    "description": null,
+    "created_at": {
+      "$date": "2022-07-03T18:03:19.501Z"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62c1dddb48b4d3880fd671de"
+  },
+  "payment_id": "pay_JozR4vXmXqbBxQ",
+  "order_id": "order_JozQq2NTp7IASh",
+  "user_id": {
+    "$oid": "62c1da6648b4d3880fd671d5"
+  },
+  "details": {
+    "purpose": "studentApplication",
+    "application_id": {
+      "$oid": "62c1da6748b4d3880fd671d6"
+    }
+  },
+  "status": "captured",
+  "error": {
+    "error_code": null,
+    "description": null,
+    "created_at": {
+      "$date": "2022-07-03T18:20:11.434Z"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62c1de9e48b4d3880fd671e1"
+  },
+  "payment_id": "pay_JozUVGnrM9CMnR",
+  "order_id": "order_JozUJPogEwwrh6",
+  "user_id": {
+    "$oid": "62c1da6648b4d3880fd671d5"
+  },
+  "details": {
+    "purpose": "studentApplication",
+    "application_id": {
+      "$oid": "62c1de6b48b4d3880fd671e0"
+    }
+  },
+  "status": "captured",
+  "error": {
+    "error_code": null,
+    "description": null,
+    "created_at": {
+      "$date": "2022-07-03T18:23:26.228Z"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62c1df3148b4d3880fd671e5"
+  },
+  "payment_id": "pay_JozX5wa2gyGmdw",
+  "order_id": "order_JozWtVMPKtE4ZJ",
+  "user_id": {
+    "$oid": "62c1da6648b4d3880fd671d5"
+  },
+  "details": {
+    "purpose": "studentApplication",
+    "application_id": {
+      "$oid": "62c1df1048b4d3880fd671e4"
+    }
+  },
+  "status": "captured",
+  "error": {
+    "error_code": null,
+    "description": null,
+    "created_at": {
+      "$date": "2022-07-03T18:25:53.668Z"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62c269735da9f7ac1259c7a0"
+  },
+  "payment_id": "pay_Jp9aEkBO31rjTe",
+  "order_id": "order_Jp9a3AgZ3S3M1S",
+  "user_id": {
+    "$oid": "62c268b65da9f7ac1259c79c"
+  },
+  "details": {
+    "purpose": "studentApplication",
+    "application_id": {
+      "$oid": "62c268b65da9f7ac1259c79d"
+    }
+  },
+  "status": "captured",
+  "error": {
+    "error_code": null,
+    "description": null,
+    "created_at": {
+      "$date": "2022-07-04T04:15:47.299Z"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62c2904d5da9f7ac1259c7af"
+  },
+  "payment_id": "pay_JpCPKynztgGh6X",
+  "order_id": "order_JpCPAl2akqHELG",
+  "user_id": {
+    "$oid": "62c28f1d5da9f7ac1259c7aa"
+  },
+  "details": {
+    "purpose": "studentApplication",
+    "application_id": {
+      "$oid": "62c28f1d5da9f7ac1259c7ab"
+    }
+  },
+  "status": "captured",
+  "error": {
+    "error_code": null,
+    "description": null,
+    "created_at": {
+      "$date": "2022-07-04T07:01:33.431Z"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62c291365da9f7ac1259c7b3"
+  },
+  "payment_id": "pay_JpCTRBBRrG5kTL",
+  "order_id": "order_JpCTDPkjGxBfev",
+  "user_id": {
+    "$oid": "62c28f1d5da9f7ac1259c7aa"
+  },
+  "details": {
+    "purpose": "studentApplication",
+    "application_id": {
+      "$oid": "62c2908e5da9f7ac1259c7b1"
+    }
+  },
+  "status": "captured",
+  "error": {
+    "error_code": null,
+    "description": null,
+    "created_at": {
+      "$date": "2022-07-04T07:05:26.295Z"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62c293ab5da9f7ac1259c7b9"
+  },
+  "payment_id": "pay_JpCeUpMnsZ9XV6",
+  "order_id": "order_JpCeHuARWxFMdv",
+  "user_id": {
+    "$oid": "62c292f75da9f7ac1259c7b4"
+  },
+  "details": {
+    "purpose": "studentApplication",
+    "application_id": {
+      "$oid": "62c293445da9f7ac1259c7b7"
+    }
+  },
+  "status": "captured",
+  "error": {
+    "error_code": null,
+    "description": null,
+    "created_at": {
+      "$date": "2022-07-04T07:15:55.607Z"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62c295005da9f7ac1259c7bc"
+  },
+  "payment_id": "pay_JpCkVd9wLHtNRt",
+  "order_id": "order_JpCkJwq70qY5rg",
+  "user_id": {
+    "$oid": "62c292f75da9f7ac1259c7b4"
+  },
+  "details": {
+    "purpose": "studentApplication",
+    "application_id": {
+      "$oid": "62c292f75da9f7ac1259c7b5"
+    }
+  },
+  "status": "captured",
+  "error": {
+    "error_code": null,
+    "description": null,
+    "created_at": {
+      "$date": "2022-07-04T07:21:36.186Z"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62c2b2577d9bf44ab1e40af1"
+  },
+  "payment_id": "pay_JpEsjVZlhb0s33",
+  "order_id": "order_JpEsVRm3XjVRJe",
+  "user_id": {
+    "$oid": "62c2b1597d9bf44ab1e40aec"
+  },
+  "details": {
+    "purpose": "studentApplication",
+    "application_id": {
+      "$oid": "62c2b15a7d9bf44ab1e40aed"
+    }
+  },
+  "status": "captured",
+  "error": {
+    "error_code": null,
+    "description": null,
+    "created_at": {
+      "$date": "2022-07-04T09:26:47.228Z"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62c2b2f17d9bf44ab1e40af6"
+  },
+  "payment_id": "pay_JpEvSyN4zNPV1N",
+  "order_id": "order_JpEvHsHOtqKsGM",
+  "user_id": {
+    "$oid": "62c2b1597d9bf44ab1e40aec"
+  },
+  "details": {
+    "purpose": "studentApplication",
+    "application_id": {
+      "$oid": "62c2b2c77d9bf44ab1e40af5"
+    }
+  },
+  "status": "captured",
+  "error": {
+    "error_code": null,
+    "description": null,
+    "created_at": {
+      "$date": "2022-07-04T09:29:21.936Z"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62c2b4e57d9bf44ab1e40afe"
+  },
+  "payment_id": "pay_JpF4FvG8tJJsS6",
+  "order_id": "order_JpF44H5PKULVpj",
+  "user_id": {
+    "$oid": "62c2b4447d9bf44ab1e40af9"
+  },
+  "details": {
+    "purpose": "studentApplication",
+    "application_id": {
+      "$oid": "62c2b48e7d9bf44ab1e40afc"
+    }
+  },
+  "status": "captured",
+  "error": {
+    "error_code": null,
+    "description": null,
+    "created_at": {
+      "$date": "2022-07-04T09:37:41.263Z"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62c2b59f7d9bf44ab1e40b01"
+  },
+  "payment_id": "pay_JpF7T4xpaxxYg8",
+  "order_id": "order_JpF7Fi4ydN5ZKZ",
+  "user_id": {
+    "$oid": "62c2b4447d9bf44ab1e40af9"
+  },
+  "details": {
+    "purpose": "studentApplication",
+    "application_id": {
+      "$oid": "62c2b4447d9bf44ab1e40afa"
+    }
+  },
+  "status": "captured",
+  "error": {
+    "error_code": null,
+    "description": null,
+    "created_at": {
+      "$date": "2022-07-04T09:40:47.031Z"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62c2b6a67d9bf44ab1e40b05"
+  },
+  "payment_id": "pay_JpFC9xv1hH1dOg",
+  "order_id": "order_JpFByuJjaRiKa1",
+  "user_id": {
+    "$oid": "62c2b4447d9bf44ab1e40af9"
+  },
+  "details": {
+    "purpose": "studentApplication",
+    "application_id": {
+      "$oid": "62c2b6817d9bf44ab1e40b04"
+    }
+  },
+  "status": "captured",
+  "error": {
+    "error_code": null,
+    "description": null,
+    "created_at": {
+      "$date": "2022-07-04T09:45:10.339Z"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62c2c44c97b9c58a9e1ecbf2"
+  },
+  "payment_id": "pay_JpGBeMQE7UWGB4",
+  "order_id": "order_JpGBNyuiCpFIFr",
+  "user_id": {
+    "$oid": "62c2c34997b9c58a9e1ecbed"
+  },
+  "details": {
+    "purpose": "studentApplication",
+    "application_id": {
+      "$oid": "62c2c34997b9c58a9e1ecbee"
+    }
+  },
+  "status": "captured",
+  "error": {
+    "error_code": null,
+    "description": null,
+    "created_at": {
+      "$date": "2022-07-04T10:43:24.046Z"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62c2c51297b9c58a9e1ecbf8"
+  },
+  "payment_id": "pay_JpGF8SHa18PSLr",
+  "order_id": "order_JpGEvvrccwut9v",
+  "user_id": {
+    "$oid": "62c2c34997b9c58a9e1ecbed"
+  },
+  "details": {
+    "purpose": "studentApplication",
+    "application_id": {
+      "$oid": "62c2c4e997b9c58a9e1ecbf7"
+    }
+  },
+  "status": "captured",
+  "error": {
+    "error_code": null,
+    "description": null,
+    "created_at": {
+      "$date": "2022-07-04T10:46:42.449Z"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62c2c65197b9c58a9e1ecbfd"
+  },
+  "payment_id": "pay_JpGKkMcqQFi3mO",
+  "order_id": "order_JpGKW4eehfSaSU",
+  "user_id": {
+    "$oid": "62c2c34997b9c58a9e1ecbed"
+  },
+  "details": {
+    "purpose": "studentApplication",
+    "application_id": {
+      "$oid": "62c2c5c397b9c58a9e1ecbfb"
+    }
+  },
+  "status": "captured",
+  "error": {
+    "error_code": null,
+    "description": null,
+    "created_at": {
+      "$date": "2022-07-04T10:52:01.095Z"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62c2d1b297b9c58a9e1ecc05"
+  },
+  "payment_id": "pay_JpHA3yETMsCKXR",
+  "order_id": "order_JpH9owzTizwu7k",
+  "user_id": {
+    "$oid": "62c2cf8497b9c58a9e1ecbff"
+  },
+  "details": {
+    "purpose": "studentApplication",
+    "application_id": {
+      "$oid": "62c2d0ac97b9c58a9e1ecc03"
+    }
+  },
+  "status": "captured",
+  "error": {
+    "error_code": null,
+    "description": null,
+    "created_at": {
+      "$date": "2022-07-04T11:40:34.844Z"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62c3ddcdd77ad4a8de15c7b2"
+  },
+  "payment_id": "pay_JpaePR0BePAJvx",
+  "order_id": "order_JpaeF7j0hR3rpy",
+  "user_id": {
+    "$oid": "62c3dd12d77ad4a8de15c7ae"
+  },
+  "details": {
+    "purpose": "studentApplication",
+    "application_id": {
+      "$oid": "62c3dd12d77ad4a8de15c7af"
+    }
+  },
+  "status": "captured",
+  "error": {
+    "error_code": null,
+    "description": null,
+    "created_at": {
+      "$date": "2022-07-05T06:44:28.974Z"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62c3deadd77ad4a8de15c7b5"
+  },
+  "payment_id": "pay_JpaiEG9VfV0iXk",
+  "order_id": "order_JpahyJD35um1Rg",
+  "user_id": {
+    "$oid": "62c3dd12d77ad4a8de15c7ae"
+  },
+  "details": {
+    "purpose": "studentApplication",
+    "application_id": {
+      "$oid": "62c3de7cd77ad4a8de15c7b4"
+    }
+  },
+  "status": "captured",
+  "error": {
+    "error_code": null,
+    "description": null,
+    "created_at": {
+      "$date": "2022-07-05T06:48:13.480Z"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62c3e0b1d77ad4a8de15c7b9"
+  },
+  "payment_id": "pay_JparSbRLZONWcw",
+  "order_id": "order_JparGjsnL0Xtk9",
+  "user_id": {
+    "$oid": "62c3dd12d77ad4a8de15c7ae"
+  },
+  "details": {
+    "purpose": "studentApplication",
+    "application_id": {
+      "$oid": "62c3e08ad77ad4a8de15c7b8"
+    }
+  },
+  "status": "captured",
+  "error": {
+    "error_code": null,
+    "description": null,
+    "created_at": {
+      "$date": "2022-07-05T06:56:49.770Z"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62c3e1a6d77ad4a8de15c7bd"
+  },
+  "payment_id": "pay_Jpavm9NQXe0IVC",
+  "order_id": "order_JpavabVvC24Eob",
+  "user_id": {
+    "$oid": "62c3dd12d77ad4a8de15c7ae"
+  },
+  "details": {
+    "purpose": "studentApplication",
+    "application_id": {
+      "$oid": "62c3e109d77ad4a8de15c7bb"
+    }
+  },
+  "status": "captured",
+  "error": {
+    "error_code": null,
+    "description": null,
+    "created_at": {
+      "$date": "2022-07-05T07:00:54.862Z"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62c3f1effd6c66e9fc50b0e9"
+  },
+  "payment_id": "pay_Jpc78sGuascag6",
+  "order_id": "order_Jpc6mpONxXcikJ",
+  "user_id": {
+    "$oid": "62c3e6fcd77ad4a8de15c7bf"
+  },
+  "details": {
+    "purpose": "studentApplication",
+    "application_id": {
+      "$oid": "62c3e6fcd77ad4a8de15c7c0"
+    }
+  },
+  "status": "captured",
+  "error": {
+    "error_code": null,
+    "description": null,
+    "created_at": {
+      "$date": "2022-07-05T08:10:22.977Z"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62c3f7fafd6c66e9fc50b0f2"
+  },
+  "payment_id": "pay_JpcXYIpw7I5sPb",
+  "order_id": "order_JpcWf8PYf54QAu",
+  "user_id": {
+    "$oid": "62c3e6fcd77ad4a8de15c7bf"
+  },
+  "details": {
+    "purpose": "studentApplication",
+    "application_id": {
+      "$oid": "62c3f756fd6c66e9fc50b0f1"
+    }
+  },
+  "status": "captured",
+  "error": {
+    "error_code": null,
+    "description": null,
+    "created_at": {
+      "$date": "2022-07-05T08:36:10.326Z"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62c3f92cfd6c66e9fc50b0f8"
+  },
+  "payment_id": "pay_JpccrXUYvH72sw",
+  "order_id": "order_JpccPEJ4vi1MPi",
+  "merchant": "RazorPay",
+  "user_id": {
+    "$oid": "62c3e6fcd77ad4a8de15c7bf"
+  },
+  "details": {
+    "purpose": "StudentApplication",
+    "application_id": {
+      "$oid": "62c3f838fd6c66e9fc50b0f6"
+    }
+  },
+  "status": "failed",
+  "error": {
+    "error_code": "BAD_REQUEST_ERROR",
+    "description": "Payment processing cancelled by user",
+    "created_at": {
+      "$date": "2022-07-05T08:41:16.817Z"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62c3f970fd6c66e9fc50b0f9"
+  },
+  "payment_id": "pay_Jpcdp4qyRnd9Sc",
+  "order_id": "order_JpccPEJ4vi1MPi",
+  "user_id": {
+    "$oid": "62c3e6fcd77ad4a8de15c7bf"
+  },
+  "details": {
+    "purpose": "studentApplication",
+    "application_id": {
+      "$oid": "62c3f838fd6c66e9fc50b0f6"
+    }
+  },
+  "status": "captured",
+  "error": {
+    "error_code": null,
+    "description": null,
+    "created_at": {
+      "$date": "2022-07-05T08:42:24.709Z"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62c3fa51fd6c66e9fc50b0fd"
+  },
+  "payment_id": "pay_Jpcium5fkOOutK",
+  "order_id": "order_JpcidHuLaDeyZ0",
+  "user_id": {
+    "$oid": "62c3e6fcd77ad4a8de15c7bf"
+  },
+  "details": {
+    "purpose": "studentApplication",
+    "application_id": {
+      "$oid": "62c3fa1cfd6c66e9fc50b0fc"
+    }
+  },
+  "status": "captured",
+  "error": {
+    "error_code": null,
+    "description": null,
+    "created_at": {
+      "$date": "2022-07-05T08:46:09.773Z"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62c3fb90fd6c66e9fc50b101"
+  },
+  "payment_id": "pay_JpcoO34FxJdNF9",
+  "order_id": "order_Jpco57zuNeEt7y",
+  "user_id": {
+    "$oid": "62c3e6fcd77ad4a8de15c7bf"
+  },
+  "details": {
+    "purpose": "studentApplication",
+    "application_id": {
+      "$oid": "62c3fb02fd6c66e9fc50b100"
+    }
+  },
+  "status": "captured",
+  "error": {
+    "error_code": null,
+    "description": null,
+    "created_at": {
+      "$date": "2022-07-05T08:51:28.560Z"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62c3fd88fd6c66e9fc50b104"
+  },
+  "payment_id": "pay_JpcxPY7hQqErB6",
+  "order_id": "order_Jpcx6BJXBMo74N",
+  "user_id": {
+    "$oid": "62c3e6fcd77ad4a8de15c7bf"
+  },
+  "details": {
+    "purpose": "studentApplication",
+    "application_id": {
+      "$oid": "62c3fd4cfd6c66e9fc50b103"
+    }
+  },
+  "status": "captured",
+  "error": {
+    "error_code": null,
+    "description": null,
+    "created_at": {
+      "$date": "2022-07-05T08:59:52.710Z"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62c3fe14fd6c66e9fc50b107"
+  },
+  "payment_id": "pay_JpczmHgE6pBBxh",
+  "order_id": "order_JpczWV44wmJLr1",
+  "user_id": {
+    "$oid": "62c3e6fcd77ad4a8de15c7bf"
+  },
+  "details": {
+    "purpose": "studentApplication",
+    "application_id": {
+      "$oid": "62c3fdb2fd6c66e9fc50b106"
+    }
+  },
+  "status": "captured",
+  "error": {
+    "error_code": null,
+    "description": null,
+    "created_at": {
+      "$date": "2022-07-05T09:02:12.019Z"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62c416a4fd6c66e9fc50b116"
+  },
+  "payment_id": "pay_JpemO8endEGqxa",
+  "order_id": "order_Jpelr6PWsjyIq8",
+  "user_id": {
+    "$oid": "62c3dd12d77ad4a8de15c7ae"
+  },
+  "details": {
+    "purpose": "studentApplication",
+    "application_id": {
+      "$oid": "62c41507fd6c66e9fc50b114"
+    }
+  },
+  "status": "captured",
+  "error": {
+    "error_code": null,
+    "description": null,
+    "created_at": {
+      "$date": "2022-07-05T10:47:00.354Z"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62c41897dca5372e487dc854"
+  },
+  "payment_id": "pay_JpevHk0HyZ8yPQ",
+  "order_id": "order_Jpev3KwqSUMuzZ",
+  "user_id": {
+    "$oid": "62c3dd12d77ad4a8de15c7ae"
+  },
+  "details": {
+    "purpose": "studentApplication",
+    "application_id": {
+      "$oid": "62c417a7dca5372e487dc853"
+    }
+  },
+  "status": "captured",
+  "error": {
+    "error_code": null,
+    "description": null,
+    "created_at": {
+      "$date": "2022-07-05T10:55:19.146Z"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62c43386dca5372e487dc86e"
+  },
+  "payment_id": "pay_JpgskvKcFzNe7R",
+  "order_id": "order_JpgsXsNa6mLspL",
+  "user_id": {
+    "$oid": "62c412c5fd6c66e9fc50b10f"
+  },
+  "details": {
+    "purpose": "studentApplication",
+    "application_id": {
+      "$oid": "62c412c5fd6c66e9fc50b110"
+    }
+  },
+  "status": "captured",
+  "error": {
+    "error_code": null,
+    "description": null,
+    "created_at": {
+      "$date": "2022-07-05T12:50:14.454Z"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62c450d8dca5372e487dc8b2"
+  },
+  "payment_id": "pay_Jpj0tarVfk93Oy",
+  "order_id": "order_Jpj0fThEmWm7iM",
+  "user_id": {
+    "$oid": "62c4500cdca5372e487dc8ae"
+  },
+  "details": {
+    "purpose": "studentApplication",
+    "application_id": {
+      "$oid": "62c4500cdca5372e487dc8af"
+    }
+  },
+  "status": "captured",
+  "error": {
+    "error_code": null,
+    "description": null,
+    "created_at": {
+      "$date": "2022-07-05T14:55:20.150Z"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62c4518adca5372e487dc8b5"
+  },
+  "payment_id": "pay_Jpj3joMKIXl9ua",
+  "order_id": "order_Jpj3WyH65jB1GR",
+  "user_id": {
+    "$oid": "62c4500cdca5372e487dc8ae"
+  },
+  "details": {
+    "purpose": "studentApplication",
+    "application_id": {
+      "$oid": "62c45155dca5372e487dc8b4"
+    }
+  },
+  "status": "captured",
+  "error": {
+    "error_code": null,
+    "description": null,
+    "created_at": {
+      "$date": "2022-07-05T14:58:18.599Z"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62c4527adca5372e487dc8b9"
+  },
+  "payment_id": "pay_Jpj8FCgNyVVsRh",
+  "order_id": "order_Jpj7xKDAPfHv92",
+  "user_id": {
+    "$oid": "62c4500cdca5372e487dc8ae"
+  },
+  "details": {
+    "purpose": "studentApplication",
+    "application_id": {
+      "$oid": "62c451cadca5372e487dc8b7"
+    }
+  },
+  "status": "captured",
+  "error": {
+    "error_code": null,
+    "description": null,
+    "created_at": {
+      "$date": "2022-07-05T15:02:18.698Z"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62c52ad0dca5372e487dc8d4"
+  },
+  "payment_id": "pay_Jpyr7gkV5pa4Qx",
+  "order_id": "order_Jpyqu5TgXR8oBS",
+  "user_id": {
+    "$oid": "62c434b2dca5372e487dc872"
+  },
+  "details": {
+    "purpose": "studentApplication",
+    "application_id": {
+      "$oid": "62c434b2dca5372e487dc873"
+    }
+  },
+  "status": "captured",
+  "error": {
+    "error_code": null,
+    "description": null,
+    "created_at": {
+      "$date": "2022-07-06T06:25:20.637Z"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62c571b256fae5f9326cfc32"
+  },
+  "payment_id": "pay_Jq40ko1SYywidh",
+  "order_id": "order_Jq40OVVcHBQ3Hv",
+  "user_id": {
+    "$oid": "62c412c5fd6c66e9fc50b10f"
+  },
+  "details": {
+    "purpose": "studentApplication",
+    "application_id": {
+      "$oid": "62c5717f56fae5f9326cfc31"
+    }
+  },
+  "status": "captured",
+  "error": {
+    "error_code": null,
+    "description": null,
+    "created_at": {
+      "$date": "2022-07-06T11:27:46.665Z"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62c5889256fae5f9326cfc6c"
+  },
+  "payment_id": "pay_Jq5fstbzIXbvIt",
+  "order_id": "order_Jq5fiKrNWXjNuF",
+  "user_id": {
+    "$oid": "62c434b2dca5372e487dc872"
+  },
+  "details": {
+    "purpose": "studentApplication",
+    "application_id": {
+      "$oid": "62c5435cdca5372e487dc90f"
+    }
+  },
+  "status": "captured",
+  "error": {
+    "error_code": null,
+    "description": null,
+    "created_at": {
+      "$date": "2022-07-06T13:05:22.750Z"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62c693f4f003e3387c79193b"
+  },
+  "payment_id": "pay_JqP70bjn5IXffF",
+  "order_id": "order_JqP6liAaTz3Mm4",
+  "merchant": "RazorPay",
+  "user_id": {
+    "$oid": "62c412c5fd6c66e9fc50b10f"
+  },
+  "details": {
+    "purpose": "StudentApplication",
+    "application_id": {
+      "$oid": "62c57ad856fae5f9326cfc4f"
+    }
+  },
+  "status": "failed",
+  "error": {
+    "error_code": "BAD_REQUEST_ERROR",
+    "description": "Payment failed",
+    "created_at": {
+      "$date": "2022-07-07T08:06:12.013Z"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62c6b737adefba9668689b3a"
+  },
+  "payment_id": "pay_JqP3rPjs4rtssD",
+  "order_id": "order_JqP3deBAKdAQSC",
+  "user_id": {
+    "$oid": "62c412c5fd6c66e9fc50b10f"
+  },
+  "details": {
+    "purpose": "studentApplication",
+    "application_id": {
+      "$oid": "62c57ad856fae5f9326cfc4f"
+    }
+  },
+  "status": "captured",
+  "error": {
+    "error_code": null,
+    "description": null,
+    "created_at": {
+      "$date": "2022-07-07T10:36:39.331Z"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62c6d3c1b1496bb46ecfd424"
+  },
+  "payment_id": "pay_JqTkWdAPMyZC8k",
+  "order_id": "order_JqTkEWlZpYeKN3",
+  "user_id": {
+    "$oid": "62c6d21eb1496bb46ecfd41a"
+  },
+  "details": {
+    "purpose": "studentApplication",
+    "application_id": {
+      "$oid": "62c6d21eb1496bb46ecfd41b"
+    }
+  },
+  "status": "captured",
+  "error": {
+    "error_code": null,
+    "description": null,
+    "created_at": {
+      "$date": "2022-07-07T12:38:25.319Z"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62c6d5cfb1496bb46ecfd42c"
+  },
+  "payment_id": "pay_JqTtmVNYAxZl9A",
+  "order_id": "order_JqTsuqJ2HNWvD8",
+  "user_id": {
+    "$oid": "62c6d21eb1496bb46ecfd41a"
+  },
+  "details": {
+    "purpose": "studentApplication",
+    "application_id": {
+      "$oid": "62c6d543b1496bb46ecfd42b"
+    }
+  },
+  "status": "captured",
+  "error": {
+    "error_code": null,
+    "description": null,
+    "created_at": {
+      "$date": "2022-07-07T12:47:11.944Z"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62c6d9d4b1496bb46ecfd43d"
+  },
+  "payment_id": "pay_JqUBuoqsdTaoO6",
+  "order_id": "order_JqUBb9HDE0Obkn",
+  "user_id": {
+    "$oid": "62c6d828b1496bb46ecfd437"
+  },
+  "details": {
+    "purpose": "studentApplication",
+    "application_id": {
+      "$oid": "62c6d828b1496bb46ecfd438"
+    }
+  },
+  "status": "captured",
+  "error": {
+    "error_code": null,
+    "description": null,
+    "created_at": {
+      "$date": "2022-07-07T13:04:20.185Z"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62c6da2eb1496bb46ecfd442"
+  },
+  "payment_id": "pay_JqUDV84C7K81D9",
+  "order_id": "order_JqUD7sC7b256eL",
+  "user_id": {
+    "$oid": "62c6d828b1496bb46ecfd437"
+  },
+  "details": {
+    "purpose": "studentApplication",
+    "application_id": {
+      "$oid": "62c6da02b1496bb46ecfd441"
+    }
+  },
+  "status": "captured",
+  "error": {
+    "error_code": null,
+    "description": null,
+    "created_at": {
+      "$date": "2022-07-07T13:05:50.342Z"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62c6dac1b1496bb46ecfd446"
+  },
+  "payment_id": "pay_JqUG4rsD88oV4l",
+  "order_id": "order_JqUFmNRO6LvVmz",
+  "user_id": {
+    "$oid": "62c6d679b1496bb46ecfd42d"
+  },
+  "details": {
+    "purpose": "studentApplication",
+    "application_id": {
+      "$oid": "62c6d679b1496bb46ecfd42e"
+    }
+  },
+  "status": "captured",
+  "error": {
+    "error_code": null,
+    "description": null,
+    "created_at": {
+      "$date": "2022-07-07T13:08:17.053Z"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62c6db60b1496bb46ecfd44a"
+  },
+  "payment_id": "pay_JqUIsqTBUVeK0Q",
+  "order_id": "order_JqUIcprB3kbzrh",
+  "user_id": {
+    "$oid": "62c6d679b1496bb46ecfd42d"
+  },
+  "details": {
+    "purpose": "studentApplication",
+    "application_id": {
+      "$oid": "62c6db2db1496bb46ecfd449"
+    }
+  },
+  "status": "captured",
+  "error": {
+    "error_code": null,
+    "description": null,
+    "created_at": {
+      "$date": "2022-07-07T13:10:56.833Z"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62c6dcf1b1496bb46ecfd44e"
+  },
+  "payment_id": "pay_JqUPx8m9EpoD9V",
+  "order_id": "order_JqUPmdN355NKWL",
+  "user_id": {
+    "$oid": "62c6d828b1496bb46ecfd437"
+  },
+  "details": {
+    "purpose": "studentApplication",
+    "application_id": {
+      "$oid": "62c6dcceb1496bb46ecfd44d"
+    }
+  },
+  "status": "captured",
+  "error": {
+    "error_code": null,
+    "description": null,
+    "created_at": {
+      "$date": "2022-07-07T13:17:37.565Z"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62c6ea51b1496bb46ecfd458"
+  },
+  "payment_id": "pay_JqVOE6kmipCbEw",
+  "order_id": "order_JqVO4VZIO36zkM",
+  "user_id": {
+    "$oid": "62c559a456fae5f9326cfc2a"
+  },
+  "details": {
+    "purpose": "studentApplication",
+    "application_id": {
+      "$oid": "62c5ae0c5cf11da7d85ab3c6"
+    }
+  },
+  "status": "captured",
+  "error": {
+    "error_code": null,
+    "description": null,
+    "created_at": {
+      "$date": "2022-07-07T14:14:41.579Z"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62c6f0b6b1496bb46ecfd465"
+  },
+  "payment_id": "pay_JqVr2st86Dcz0F",
+  "order_id": "order_JqVqroy1TYG9qn",
+  "user_id": {
+    "$oid": "62c559a456fae5f9326cfc2a"
+  },
+  "details": {
+    "purpose": "studentApplication",
+    "application_id": {
+      "$oid": "62c6c9bf5039c88969620cd1"
+    }
+  },
+  "status": "captured",
+  "error": {
+    "error_code": null,
+    "description": null,
+    "created_at": {
+      "$date": "2022-07-07T14:41:58.166Z"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62c71e03a7b3957cc2ab5388"
+  },
+  "payment_id": "pay_JqZ9DfutzO75WR",
+  "order_id": "order_JqZ8whpasd1k2k",
+  "user_id": {
+    "$oid": "62c6d7dfb1496bb46ecfd435"
+  },
+  "details": {
+    "purpose": "studentApplication",
+    "application_id": {
+      "$oid": "62c6d7dfb1496bb46ecfd436"
+    }
+  },
+  "status": "captured",
+  "error": {
+    "error_code": null,
+    "description": null,
+    "created_at": {
+      "$date": "2022-07-07T17:55:15.452Z"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62c71e90a7b3957cc2ab5389"
+  },
+  "payment_id": "pay_JqZBhc2MVlQyP2",
+  "order_id": "order_JqZBUX5FpACKAM",
+  "user_id": {
+    "$oid": "62c6d7dfb1496bb46ecfd435"
+  },
+  "details": {
+    "purpose": "studentApplication",
+    "application_id": {
+      "$oid": "62c6d7dfb1496bb46ecfd436"
+    }
+  },
+  "status": "captured",
+  "error": {
+    "error_code": null,
+    "description": null,
+    "created_at": {
+      "$date": "2022-07-07T17:57:36.360Z"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62c71f5ea7b3957cc2ab538a"
+  },
+  "payment_id": "pay_JqZFJlsNGrAcm8",
+  "order_id": "order_JqZF0XI3e8clYb",
+  "user_id": {
+    "$oid": "62c6d7dfb1496bb46ecfd435"
+  },
+  "details": {
+    "purpose": "studentApplication",
+    "application_id": {
+      "$oid": "62c6d7dfb1496bb46ecfd436"
+    }
+  },
+  "status": "captured",
+  "error": {
+    "error_code": null,
+    "description": null,
+    "created_at": {
+      "$date": "2022-07-07T18:01:01.993Z"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62cd084adbc878a0490e208a"
+  },
+  "payment_id": "pay_JsLE6CDnYc7xM7",
+  "order_id": "order_JsLDtrMal2OO3l",
+  "user_id": {
+    "$oid": "62c559a456fae5f9326cfc2a"
+  },
+  "details": {
+    "purpose": "studentApplication",
+    "application_id": {
+      "$oid": "62c70403b1496bb46ecfd48d"
+    }
+  },
+  "status": "captured",
+  "error": {
+    "error_code": null,
+    "description": null,
+    "created_at": {
+      "$date": "2022-07-12T05:36:10.401Z"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62cd09d9dbc878a0490e2090"
+  },
+  "payment_id": "pay_JsLL8OxntW5Njp",
+  "order_id": "order_JsLKv4ANokVZa5",
+  "user_id": {
+    "$oid": "62c559a456fae5f9326cfc2a"
+  },
+  "details": {
+    "purpose": "studentApplication",
+    "application_id": {
+      "$oid": "62c559a456fae5f9326cfc2b"
+    }
+  },
+  "status": "captured",
+  "error": {
+    "error_code": null,
+    "description": null,
+    "created_at": {
+      "$date": "2022-07-12T05:42:49.683Z"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62cd17a5dbc878a0490e20c5"
+  },
+  "payment_id": "pay_JsMLJ95y2cFhDg",
+  "order_id": "order_JsML8enxoWbfP3",
+  "user_id": {
+    "$oid": "62cd1374dbc878a0490e20a5"
+  },
+  "details": {
+    "purpose": "studentApplication",
+    "application_id": {
+      "$oid": "62cd1379dbc878a0490e20a6"
+    }
+  },
+  "status": "captured",
+  "error": {
+    "error_code": null,
+    "description": null,
+    "created_at": {
+      "$date": "2022-07-12T06:41:41.204Z"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62cdbabb00b820f5ea58cc5c"
+  },
+  "payment_id": "pay_JsYCLTFcCy0TxX",
+  "order_id": "order_JsYC9LOnMuMFmq",
+  "user_id": {
+    "$oid": "62cdad90a9b64d58b15e6976"
+  },
+  "details": {
+    "purpose": "studentApplication",
+    "application_id": {
+      "$oid": "62cdad90a9b64d58b15e6977"
+    }
+  },
+  "status": "captured",
+  "error": {
+    "error_code": null,
+    "description": null,
+    "created_at": {
+      "$date": "2022-07-12T18:17:31.245Z"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62ce4b5602b81fa74ac241cc"
+  },
+  "payment_id": "pay_Jsii5hfvAJbuqQ",
+  "order_id": "order_Jsihr6Hjfzzu1e",
+  "user_id": {
+    "$oid": "62ce3e8802b81fa74ac241b0"
+  },
+  "details": {
+    "purpose": "studentApplication",
+    "application_id": {
+      "$oid": "62ce3e8802b81fa74ac241b1"
+    }
+  },
+  "status": "captured",
+  "error": {
+    "error_code": null,
+    "description": null,
+    "created_at": {
+      "$date": "2022-07-13T04:34:30.813Z"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62ce4ce502b81fa74ac241d4"
+  },
+  "payment_id": "pay_Jsip6ckEEnIcjS",
+  "order_id": "order_Jsiote0T6D4ZTR",
+  "user_id": {
+    "$oid": "62ce4bea02b81fa74ac241cd"
+  },
+  "details": {
+    "purpose": "studentApplication",
+    "application_id": {
+      "$oid": "62ce4bea02b81fa74ac241ce"
+    }
+  },
+  "status": "captured",
+  "error": {
+    "error_code": null,
+    "description": null,
+    "created_at": {
+      "$date": "2022-07-13T04:41:09.056Z"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62ce551a8fa02c4daa0d42b7"
+  },
+  "payment_id": "pay_JsjQ1gBY1qUvow",
+  "order_id": "order_JsjPjOUujNvNWO",
+  "user_id": {
+    "$oid": "62ce529f8fa02c4daa0d42aa"
+  },
+  "details": {
+    "purpose": "studentApplication",
+    "application_id": {
+      "$oid": "62ce529f8fa02c4daa0d42ab"
+    }
+  },
+  "status": "captured",
+  "error": {
+    "error_code": null,
+    "description": null,
+    "created_at": {
+      "$date": "2022-07-13T05:16:10.516Z"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62ced234f64432659f576758"
+  },
+  "payment_id": "pay_JssVwtD4P8NAIL",
+  "order_id": "order_JssVlVLz8Any77",
+  "user_id": {
+    "$oid": "62ce4bea02b81fa74ac241cd"
+  },
+  "details": {
+    "purpose": "studentApplication",
+    "application_id": {
+      "$oid": "62ceb7aaf64432659f5766fb"
+    }
+  },
+  "status": "captured",
+  "error": {
+    "error_code": null,
+    "description": null,
+    "created_at": {
+      "$date": "2022-07-13T14:09:56.802Z"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62cf9d2df64432659f57676f"
+  },
+  "payment_id": "pay_Jt7GjOegl23Rk7",
+  "order_id": "order_Jt7GWpO52zlzw3",
+  "user_id": {
+    "$oid": "62ce3e8802b81fa74ac241b0"
+  },
+  "details": {
+    "purpose": "studentApplication",
+    "application_id": {
+      "$oid": "62ce426602b81fa74ac241b9"
+    }
+  },
+  "status": "captured",
+  "error": {
+    "error_code": null,
+    "description": null,
+    "created_at": {
+      "$date": "2022-07-14T04:35:57.378Z"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62cf9dfbf64432659f576771"
+  },
+  "payment_id": "pay_Jt7KNEC5zfJBOi",
+  "order_id": "order_Jt7KCb46X92E13",
+  "user_id": {
+    "$oid": "62ce3e8802b81fa74ac241b0"
+  },
+  "details": {
+    "purpose": "studentApplication",
+    "application_id": {
+      "$oid": "62cf9cfaf64432659f57676d"
+    }
+  },
+  "status": "captured",
+  "error": {
+    "error_code": null,
+    "description": null,
+    "created_at": {
+      "$date": "2022-07-14T04:39:23.913Z"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62cfa04d239a7a4d36aa4bca"
+  },
+  "payment_id": "pay_Jt7Up9auxrhi7I",
+  "order_id": "order_Jt7UedKo9aHjbn",
+  "user_id": {
+    "$oid": "62ce3e8802b81fa74ac241b0"
+  },
+  "details": {
+    "purpose": "studentApplication",
+    "application_id": {
+      "$oid": "62cfa029239a7a4d36aa4bc9"
+    }
+  },
+  "status": "captured",
+  "error": {
+    "error_code": null,
+    "description": null,
+    "created_at": {
+      "$date": "2022-07-14T04:49:17.479Z"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62cfa454239a7a4d36aa4bcc"
+  },
+  "payment_id": "pay_Jt7mzEOziArjTL",
+  "order_id": "order_Jt7mgleBEpDWib",
+  "user_id": {
+    "$oid": "62ce3bc602b81fa74ac241a4"
+  },
+  "details": {
+    "purpose": "studentApplication",
+    "application_id": {
+      "$oid": "62ce3bc602b81fa74ac241a5"
+    }
+  },
+  "status": "refunded",
+  "error": {
+    "error_code": null,
+    "description": null,
+    "created_at": {
+      "$date": "2022-07-14T05:06:28.500Z"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62cfa527239a7a4d36aa4bce"
+  },
+  "payment_id": "pay_Jt7qg9mDDhQQJd",
+  "order_id": "order_Jt7qUw9bwP4zy5",
+  "user_id": {
+    "$oid": "62ce3bc602b81fa74ac241a4"
+  },
+  "details": {
+    "purpose": "studentApplication",
+    "application_id": {
+      "$oid": "62ce3d1102b81fa74ac241af"
+    }
+  },
+  "status": "refunded",
+  "error": {
+    "error_code": null,
+    "description": null,
+    "created_at": {
+      "$date": "2022-07-14T05:09:59.027Z"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62cfa59f239a7a4d36aa4bd3"
+  },
+  "payment_id": "pay_Jt7sgfFdxJFlie",
+  "order_id": "order_Jt7sVPO9THGg4F",
+  "user_id": {
+    "$oid": "62ce3bc602b81fa74ac241a4"
+  },
+  "details": {
+    "purpose": "studentApplication",
+    "application_id": {
+      "$oid": "62cfa545239a7a4d36aa4bd2"
+    }
+  },
+  "status": "captured",
+  "error": {
+    "error_code": null,
+    "description": null,
+    "created_at": {
+      "$date": "2022-07-14T05:11:59.558Z"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62d139380bec92cb85a99fe8"
+  },
+  "payment_id": "pay_JtbDpRfTRByy6P",
+  "order_id": "order_JtbDfbR3FUmB0D",
+  "user_id": {
+    "$oid": "62ce4bea02b81fa74ac241cd"
+  },
+  "details": {
+    "purpose": "studentApplication",
+    "application_id": {
+      "$oid": "62d138df0bec92cb85a99fe7"
+    }
+  },
+  "status": "captured",
+  "error": {
+    "error_code": null,
+    "description": null,
+    "created_at": {
+      "$date": "2022-07-15T09:54:00.593Z"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62d13c210bec92cb85a99ff4"
+  },
+  "payment_id": "pay_JtbQwlI4jw7Lre",
+  "order_id": "order_JtbQcSQbZakicE",
+  "user_id": {
+    "$oid": "62d13ab60bec92cb85a99fe9"
+  },
+  "details": {
+    "purpose": "studentApplication",
+    "application_id": {
+      "$oid": "62d13ab70bec92cb85a99fea"
+    }
+  },
+  "status": "captured",
+  "error": {
+    "error_code": null,
+    "description": null,
+    "created_at": {
+      "$date": "2022-07-15T10:06:25.429Z"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62da8c398a2e0b3c882ce281"
+  },
+  "payment_id": "pay_JwOk5WyWWYqfLF",
+  "order_id": "order_JwOjl2wTOFRW3K",
+  "user_id": {
+    "$oid": "62c412c5fd6c66e9fc50b10f"
+  },
+  "details": {
+    "purpose": "studentApplication",
+    "application_id": {
+      "$oid": "62c57c8456fae5f9326cfc54"
+    }
+  },
+  "status": "captured",
+  "error": {
+    "error_code": null,
+    "description": null,
+    "created_at": {
+      "$date": "2022-07-22T11:38:33.142Z"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62da99a960288a31a2b928bb"
+  },
+  "payment_id": "pay_JwPif9YJAibwfd",
+  "order_id": "order_JwPiO2Nti4MZiD",
+  "user_id": {
+    "$oid": "62da987b60288a31a2b928b4"
+  },
+  "details": {
+    "purpose": "studentApplication",
+    "application_id": {
+      "$oid": "62da987b60288a31a2b928b5"
+    }
+  },
+  "status": "captured",
+  "error": {
+    "error_code": null,
+    "description": null,
+    "created_at": {
+      "$date": "2022-07-22T12:35:53.895Z"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62e0b8300d4498ca1f87a4ee"
+  },
+  "payment_id": "pay_JyFb1zXFoWTEFu",
+  "order_id": "order_JyFaqFPz3WpQ5j",
+  "user_id": {
+    "$oid": "62e0b7a60d4498ca1f87a4e9"
+  },
+  "details": {
+    "purpose": "studentApplication",
+    "application_id": {
+      "$oid": "62e0b7aa0d4498ca1f87a4ea"
+    }
+  },
+  "status": "captured",
+  "error": {
+    "error_code": null,
+    "description": null,
+    "created_at": {
+      "$date": "2022-07-27T03:59:44.006Z"
+    }
+  }
+}]

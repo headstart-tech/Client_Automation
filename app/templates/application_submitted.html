@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Email Verification</title>
+    <style>
+			@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&display=swap');
+			body {
+				margin: 0;
+				font-family: 'Poppins', sans-serif;
+			}
+			table {
+				max-width: 700px;
+				margin: 0 auto;
+			}
+			table tr {
+			}
+			table tr td {
+			}
+			table tr td p {
+				font-size: 16px;
+			}
+			table tr td p a {
+				text-decoration: none;
+				font-weight: bold;
+			}
+			table tr td h2 {
+				font-size: 20.83px;
+				font-weight: bold;
+			}
+    </style>
+</head>
+<body>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+    <tr>
+        <td>
+            <img alt="Banner Image" src="{banner image}"
+                 style="display: block; width: 100%"/>
+        </td>
+    </tr>
+    <tr>
+        <td style="padding: 20px">
+            <div>
+
+                <h2 id="name">Dear {name},</h2>
+                <p id="desc">
+                    Congratulations! Your application for {application name} from {Institute Name} with
+                    Application ID: {application id} has been successfully submitted.
+                </p>
+                <p>
+                    Let us know in case you are facing any issue by <br/>
+                    emailing us at <span id="contact-us-email"><a href="mailto:{contact email}" style="color: #0081a6">{contact email}</a></span>
+                    or <br/>
+                    calling us on
+                    <span id="contact-number"><a href="tel:{contact no}" style="color: #0081a6">{contact no}</a></span>.
+                </p>
+                <p>
+                    Thanks, <br/>
+                    <span id="college-details">{Institute Name}, {Address}</span>
+                </p>
+            </div>
+        </td>
+    </tr>
+    <tr>
+        <td style="padding: 20px 20px 0px">
+            <span style="display: block; background-color: #d0d0d0; width: 100%; height: 2px; margin-bottom: 20px"></span>
+            <table>
+                <tr>
+                    <td style="width: 35%">
+                        <img alt="" src="{email logo}"
+                             style="width: 100%; margin-top: auto"/>
+                    </td>
+                    <td style="width: 65%; padding-left: 20px">
+                        <p id="website-url" style="margin: 0; color: #000; font-weight: bold; font-size: 20px">Website :
+                            <a href="{website url}" style="color: #000; font-size: 20px"> {website url}</a>
+                        </p>
+                        <p id="toll-free-number" style="margin: 0; color: #000; font-weight: bold; font-size: 20px">Toll
+                            Free :
+                            <a href="tel:{contact toll free no}" style="color: #000; font-size: 20px">{contact toll free no}</a>
+                        </p>
+                    </td>
+                </tr>
+            </table>
+        </td>
+    </tr>
+</table>
+</body>
+</html>

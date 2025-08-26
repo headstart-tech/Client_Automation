@@ -1,0 +1,247 @@
+[{
+  "_id": {
+    "$oid": "628e03d94e22276b98231407"
+  },
+  "course_name": "BSc",
+  "course_description": "BSc",
+  "duration": "3 Years",
+  "fees": "Rs.1000.0/-",
+  "is_activated": true,
+  "banner_image_url": null,
+  "course_specialization": [
+    {
+      "spec_name": "Physician Assistant",
+      "is_activated": true
+    },
+    {
+      "spec_name": "Medical Lab Technology",
+      "is_activated": true
+    },
+    {
+      "spec_name": "Imaging Technology",
+      "is_activated": true
+    },
+    {
+      "spec_name": "Anesthesiology and Operation Technology",
+      "is_activated": true
+    },
+    {
+      "spec_name": "Renal Dialysis Technology",
+      "is_activated": true
+    },
+    {
+      "spec_name": "Respiratory Technology",
+      "is_activated": true
+    },
+    {
+      "spec_name": "Emergency Medical Technology",
+      "is_activated": true
+    },
+    {
+      "spec_name": "Optometry Technology",
+      "is_activated": true
+    },
+    {
+      "spec_name": "Biomedical Sciences",
+      "is_activated": true
+    },
+    {
+      "spec_name": "Genetics and Molecular Biology",
+      "is_activated": true
+    },
+    {
+      "spec_name": "Health Psychology",
+      "is_activated": true
+    }
+  ],
+  "college_id": {
+    "$oid": "628dfd41ef796e8f757a5c13"
+  },
+  "is_pg": false
+},{
+  "_id": {
+    "$oid": "628f35a1cb69fc0789e6917e"
+  },
+  "course_name": "MSc",
+  "course_description": "MSc",
+  "duration": "2 Years",
+  "fees": "Rs.1000.0/-",
+  "is_activated": true,
+  "banner_image_url": "null",
+  "course_specialization": [
+    {
+      "spec_name": "Clinical Psychology",
+      "is_activated": true
+    },
+    {
+      "spec_name": "Health Informatics and Analytics",
+      "is_activated": true
+    }
+  ],
+  "college_id": {
+    "$oid": "628dfd41ef796e8f757a5c13"
+  },
+  "is_pg": true,
+  "course_counselor": [
+    {
+      "$oid": "62bfcb0fd7a6a3c9a4e6d32b"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "628f36a6cb69fc0789e69180"
+  },
+  "course_name": "MBA",
+  "course_description": "MBA",
+  "duration": "2 Years",
+  "fees": "Rs.1000.0/-",
+  "is_activated": true,
+  "banner_image_url": null,
+  "course_specialization": [
+    {
+      "spec_name": "General",
+      "is_activated": true
+    },
+    {
+      "spec_name": "Hospital & Healthcare Management",
+      "is_activated": true
+    }
+  ],
+  "college_id": {
+    "$oid": "628dfd41ef796e8f757a5c13"
+  },
+  "is_pg": true,
+  "course_counselor": [
+    {
+      "$oid": "63341b496bbe7b27d36cdce2"
+    },
+    {
+      "$oid": "62fddf41eff0ff29b1b6a8f4"
+    },
+    {
+      "$oid": "631748c69987dfd89f45e652"
+    },
+    {
+      "$oid": "62bf143c41782e1c3f308344"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "628f3967cb69fc0789e69181"
+  },
+  "course_name": "BTech",
+  "course_description": "BTech",
+  "duration": "4 Years",
+  "fees": "Rs.1000.0/-",
+  "is_activated": true,
+  "banner_image_url": null,
+  "course_specialization": [
+    {
+      "spec_name": "Computer Science and Engineering",
+      "is_activated": true
+    },
+    {
+      "spec_name": "Artificial Intelligence & Data Science",
+      "is_activated": true
+    }
+  ],
+  "college_id": {
+    "$oid": "62d8e15c6cfb37811e0b4cbe"
+  },
+  "is_pg": false
+},{
+  "_id": {
+    "$oid": "628f39a4cb69fc0789e69182"
+  },
+  "course_name": "Bachelor",
+  "course_description": "Bachelor of Social Work",
+  "duration": "3 Years",
+  "fees": "Rs.1000.0/-",
+  "is_activated": true,
+  "banner_image_url": null,
+  "course_specialization": [
+    {
+      "spec_name": "Social Work",
+      "is_activated": true
+    }
+  ],
+  "college_id": {
+    "$oid": "628dfd41ef796e8f757a5c13"
+  },
+  "is_pg": false,
+  "course_counselor": [
+    {
+      "$oid": "63341bf76bbe7b27d36cdce3"
+    },
+    {
+      "$oid": "62fddeceeff0ff29b1b6a8f3"
+    }
+  ]
+},
+  {
+    "_id": {
+      "$oid": "628f39c0cb69fc0789e69183"
+    },
+    "course_name": "Master",
+    "course_description": "Master",
+    "duration": "2 Years",
+    "fees": "Rs.1000.0/-",
+    "is_activated": false,
+    "banner_image_url": null,
+    "course_specialization": [
+      {
+        "spec_name": "Social Work",
+        "is_activated": true
+      },
+      {
+        "spec_name": "Public Health",
+        "is_activated": true
+      }
+    ],
+    "college_id": {
+      "$oid": "628dfd41ef796e8f757a5c13"
+    },
+    "is_pg": true
+  },
+  {
+    "_id": {
+      "$oid": "62aab6669b3740313d881a30"
+    },
+    "college_id": {
+      "$oid": "628dfd41ef796e8f757a5c13"
+    },
+    "course_name": "BBA",
+    "course_description": "BBA ",
+    "duration": "3 Years",
+    "fees": "Rs.1000.0/-",
+    "is_activated": true,
+    "banner_image_url": "none",
+    "is_pg": false,
+    "course_specialization": null,
+    "course_counselor": [
+      {
+        "$oid": "63341bf76bbe7b27d36cdce3"
+      },
+      {
+        "$oid": "62bfd13a5ce8a398ad101bd7"
+      },
+      {
+        "$oid": "62fddeceeff0ff29b1b6a8f3"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "62e50e43e2702b7f2d3af95e"
+    },
+    "college_id": {
+      "$oid": "628dfd41ef796e8f757a5c13"
+    },
+    "course_name": "M.Com",
+    "course_description": "M.Com ",
+    "duration": "3 Years",
+    "fees": "Rs.1000.0/-",
+    "is_activated": true,
+    "banner_image_url": "none",
+    "course_specialization": null
+  }]

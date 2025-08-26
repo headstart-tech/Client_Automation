@@ -1,0 +1,20 @@
+# Add 'repo' label to any root file changes
+repo:
+  - '*'
+
+# Add 'docs' label to any changes to the docs folder
+docs:
+  - 'docs/**'
+
+# Add 'tests' label to any changes to the tests folder
+tests:
+  - 'app/tests/**'
+
+# Add 'ci' label to any changes to the .github folder
+ci:
+  - '.github/**'
+
+# Add 'dependencies' label to any changes to the requirements.txt or pytest.ini
+dependencies:
+  - 'requirements.txt'
+  - 'pytest.ini'

@@ -1,0 +1,3121 @@
+[{
+  "_id": {
+    "$oid": "628dfb044d5e00f51f14f115"
+  },
+  "user_name": "sb",
+  "password": "$2b$12$Uc/XDGiY3Vde6iw3rqtskeVKKjdmcqzq2PXDcdbGoEO0bFFzkRerC",
+  "email": "shiftboolean.com",
+  "role": {
+    "role_name": "super_admin",
+    "role_id": {
+      "$oid": "624b2b1c358ed95904f08954"
+    }
+  },
+  "last_accessed": {
+    "$date": "2022-11-21T16:34:20.925Z"
+  },
+  "created_on": {
+    "$date": "2022-05-25T09:46:44.385Z"
+  },
+  "first_name": "shift",
+  "last_name": "lean",
+  "middle_name": "bool",
+  "is_activated": true
+},
+  {
+    "_id": {
+      "$oid": "6290c40ee87e304387308492"
+    },
+    "user_name": "apollo@example.com",
+    "password": "$2b$12$8BACtgkPNsaSXV/ZZHtGquSOSV8uFnAkQZ9Y.ztZpUlVL0VeVnanu",
+    "email": "apollo@example.com",
+    "first_name": "apollo",
+    "middle_name": "college",
+    "last_name": "super",
+    "mobile_number": 1234567890,
+    "associated_colleges": [
+      {
+        "$oid": "628dfd41ef796e8f757a5c13"
+      },
+      {
+      "$oid": "62de19f5f3a898e4275962b6"
+    }
+  ],
+  "last_accessed": {
+    "$date": "2022-11-22T16:01:55.153Z"
+  },
+  "created_on": {
+    "$date": "2022-05-27T12:29:02.637Z"
+  },
+  "created_by": {
+    "$oid": "628dfb044d5e00f51f14f115"
+  },
+  "role": {
+    "role_name": "college_super_admin",
+    "role_id": {
+      "$oid": "624d556b1cb1f3aa797c0669"
+    }
+  },
+  "is_activated": true
+},{
+  "_id": {
+    "$oid": "6290c5f4e87e304387308499"
+  },
+  "user_name": "apollo1@example.com",
+  "password": "$2b$12$vQ80bbv0Q0brgJsW0zwaiuJhDANFGV8KPbaAJ358RI0rEWBAXfeZi",
+  "email": "apollo1@example.com",
+  "first_name": "akash",
+  "middle_name": "",
+  "last_name": "singh",
+  "mobile_number": 1234567890,
+  "associated_colleges": [
+    {
+      "$oid": "628dfd41ef796e8f757a5c13"
+    }
+  ],
+  "last_accessed": {
+    "$date": "2022-05-27T12:37:08.806Z"
+  },
+  "created_on": {
+    "$date": "2022-05-27T12:37:08.806Z"
+  },
+  "created_by": {
+    "$oid": "6290c40ee87e304387308492"
+  },
+  "role": {
+    "role_name": "college_admin",
+    "role_id": {
+      "$oid": "624d55801cb1f3aa797c066a"
+    }
+  },
+  "is_activated": false
+},
+  {
+    "_id": {
+      "$oid": "6290c65fe87e30438730849a"
+    },
+    "user_name": "f.ashhab@shiftboolean.com",
+    "password": "$2b$12$liRdmYElm4N.dyVgQ5a4Fuofl5PRYh6/TWmtPkwG6P7UrbqtGqEE6",
+    "email": "f.ashhab@shiftboolean.com",
+    "first_name": "string",
+    "middle_name": "",
+    "last_name": "string",
+    "mobile_number": 1234567890,
+    "associated_colleges": [
+      {
+        "$oid": "628dfd41ef796e8f757a5c13"
+      }
+    ],
+  "last_accessed": {
+    "$date": "2022-11-22T11:26:08.059Z"
+  },
+  "created_on": {
+    "$date": "2022-05-27T12:38:55.508Z"
+  },
+  "created_by": {
+    "$oid": "6290c5f4e87e304387308499"
+  },
+  "role": {
+    "role_name": "college_publisher_console",
+    "role_id": {
+      "$oid": "624d55d51cb1f3aa797c066b"
+    }
+  },
+    "is_activated": true
+},{
+  "_id": {
+    "$oid": "629118225acdc0f71b0cdad8"
+  },
+  "user_name": "m.sheikh@shiftboolean.com",
+  "password": "$2b$12$WLsQajiFJzor8gCL6dc1yur/hfYe88Z4jrSurW87TAs9ZDjt7NvjG",
+  "email": "m.sheikh@shiftboolean.com",
+  "first_name": "string",
+  "middle_name": "",
+  "last_name": "string",
+  "mobile_number": 1234567890,
+  "associated_colleges": [
+    {
+      "$oid": "6291174807c8903bb924a696"
+    }
+  ],
+  "last_accessed": {
+    "$date": "2022-11-10T16:51:49.001Z"
+  },
+  "created_on": {
+    "$date": "2022-05-27T18:27:46.494Z"
+  },
+  "created_by": {
+    "$oid": "628dfb044d5e00f51f14f115"
+  },
+  "role": {
+    "role_name": "college_super_admin",
+    "role_id": {
+      "$oid": "624d556b1cb1f3aa797c0669"
+    }
+  },
+  "is_activated": true
+},{
+  "_id": {
+    "$oid": "629dcfb0a09f4232fae329df"
+  },
+  "user_name": "veer@gmail.com",
+  "password": "$2b$12$YyuWYag9uGTzWf1B2I.bF.Jz33Q9I1cogGwG0KbtW17JEpxao6q6u",
+  "email": "veer@gmail.com",
+  "first_name": "veeru",
+  "middle_name": "bhai",
+  "last_name": "chaudhary",
+  "mobile_number": 8956425865,
+  "associated_colleges": [
+    {
+      "$oid": "628dfd41ef796e8f757a5c13"
+    }
+  ],
+  "last_accessed": {
+    "$date": "2022-06-06T09:58:08.669Z"
+  },
+  "created_on": {
+    "$date": "2022-06-06T09:58:08.669Z"
+  },
+  "created_by": {
+    "$oid": "628dfb044d5e00f51f14f115"
+  },
+  "role": {
+    "role_name": "client_manager",
+    "role_id": {
+      "$oid": "624d55461cb1f3aa797c0668"
+    }
+  },
+  "is_activated": false
+},{
+  "_id": {
+    "$oid": "62aada7f040d039d95027fa5"
+  },
+  "user_name": "apollo@headcounselor1.com",
+  "password": "$2b$12$D7vO.wAeiwUq5e9/8aSijuwLOGSm8oSK0ZidzZk/Tv8Z9NGUF7XHi",
+  "email": "apollo@headcounselor1.com",
+  "first_name": "string",
+  "middle_name": "string",
+  "last_name": "string",
+  "mobile_number": 1234567890,
+  "associated_colleges": [
+    {
+      "$oid": "628dfd41ef796e8f757a5c13"
+    }
+  ],
+  "last_accessed": {
+    "$date": "2022-06-16T07:23:43.984Z"
+  },
+  "created_on": {
+    "$date": "2022-06-16T07:23:43.984Z"
+  },
+  "created_by": {
+    "$oid": "6290c5f4e87e304387308499"
+  },
+  "role": {
+    "role_name": "college_head_counselor",
+    "role_id": {
+      "$oid": "624d55d51cb1f3aa797c066b"
+    }
+  },
+  "is_activated": true
+},{
+  "_id": {
+    "$oid": "62aadbd4040d039d95027fab"
+  },
+  "user_name": "apollo@headcounselor2.com",
+  "password": "$2b$12$0NobEDggqBqA3AyYoYD18.hhHl5fJmIfAPPJlsSjFY1OIFc2XcFEm",
+  "email": "apollo@headcounselor2.com",
+  "first_name": "string",
+  "middle_name": "string",
+  "last_name": "string",
+  "mobile_number": 1234567890,
+  "associated_colleges": [
+    {
+      "$oid": "628dfd41ef796e8f757a5c13"
+    }
+  ],
+  "last_accessed": {
+    "$date": "2022-11-22T15:57:04.281Z"
+  },
+  "created_on": {
+    "$date": "2022-06-16T07:29:24.363Z"
+  },
+  "created_by": {
+    "$oid": "6290c5f4e87e304387308499"
+  },
+  "role": {
+    "role_name": "college_head_counselor",
+    "role_id": {
+      "$oid": "624d55d51cb1f3aa797c066b"
+    }
+  },
+  "is_activated": true
+},{
+  "_id": {
+    "$oid": "62b1a8d434caa9d300ba8661"
+  },
+  "user_name": "string",
+  "email": "user@example.com",
+  "first_name": "string",
+  "middle_name": "string",
+  "last_name": "string",
+  "mobile_number": 1234567890,
+  "associated_colleges": [
+    {
+      "$oid": "628dfd41ef796e8f757a5c13"
+    }
+  ],
+  "last_accessed": {
+    "$date": "2022-06-21T11:17:40.291Z"
+  },
+  "created_on": {
+    "$date": "2022-06-21T11:17:40.291Z"
+  },
+  "created_by": {
+    "$oid": "6290c5f4e87e304387308499"
+  },
+  "role": {
+    "role_name": "college_publisher_console",
+    "role_id": {
+      "$oid": "624d55fe1cb1f3aa797c066d"
+    }
+  },
+  "is_activated": true,
+  "password": "$2b$12$onRVq4DZbPmHdpuPkIGHZOb6Frb1ixBPeyQcSmmwJe6wDikrxMkUK"
+},{
+  "_id": {
+    "$oid": "62b1ae89f45d5328f12b75e1"
+  },
+  "user_name": "a.sakpal@shiftboolean.com",
+  "email": "a.sakpal@shiftboolean.com",
+  "first_name": "string",
+  "middle_name": "string",
+  "last_name": "string",
+  "mobile_number": 1234567890,
+  "associated_colleges": [
+    {
+      "$oid": "628dfd41ef796e8f757a5c13"
+    }
+  ],
+  "last_accessed": {
+    "$date": "2022-11-22T15:12:08.221Z"
+  },
+  "created_on": {
+    "$date": "2022-06-21T11:41:54.976Z"
+  },
+  "created_by": {
+    "$oid": "6290c5f4e87e304387308499"
+  },
+  "role": {
+    "role_name": "college_publisher_console",
+    "role_id": {
+      "$oid": "624d55fe1cb1f3aa797c066d"
+    }
+  },
+  "is_activated": true,
+  "password": "$2b$12$9loI1m.ctMjhHfrnKyB/qOYgcAfP7g.ImgjROmTUItiR.VNoryq0O",
+  "associated_source_value": "Google"
+},{
+  "_id": {
+    "$oid": "62bb36db7912d1a55174cc90"
+  },
+  "user_name": "gojovo6938@weepm.com",
+  "email": "gojovo6938@weepm.com",
+  "first_name": "string",
+  "middle_name": "string",
+  "last_name": "string",
+  "mobile_number": 1234567890,
+  "associated_colleges": [
+    {
+      "$oid": "628dfd41ef796e8f757a5c13"
+    }
+  ],
+  "last_accessed": {
+    "$date": "2022-06-28T17:14:03.420Z"
+  },
+  "created_on": {
+    "$date": "2022-06-28T17:14:03.420Z"
+  },
+  "created_by": {
+    "$oid": "6290c5f4e87e304387308499"
+  },
+  "role": {
+    "role_name": "college_publisher_console",
+    "role_id": {
+      "$oid": "624d55fe1cb1f3aa797c066d"
+    }
+  },
+  "is_activated": true,
+  "password": "$2b$12$U3T9/PF5XVjgsSZ93wgjVecelTF/iaHLl36sn62jl9pblchpB4RTK"
+},{
+  "_id": {
+    "$oid": "62bf143c41782e1c3f308344"
+  },
+  "user_name": "vakado7024@meidir.com",
+  "email": "vakado7024@meidir.com",
+  "first_name": "vakado",
+  "middle_name": "",
+  "last_name": "jaysko",
+  "mobile_number": 1234567890,
+  "associated_colleges": [
+    {
+      "$oid": "628dfd41ef796e8f757a5c13"
+    }
+  ],
+  "last_accessed": {
+    "$date": "2022-07-01T15:35:24.421Z"
+  },
+  "created_on": {
+    "$date": "2022-07-01T15:35:24.421Z"
+  },
+  "created_by": {
+    "$oid": "6290c5f4e87e304387308499"
+  },
+  "role": {
+    "role_name": "college_counselor",
+    "role_id": {
+      "$oid": "624d55ea1cb1f3aa797c066c"
+    }
+  },
+  "is_activated": true,
+  "password": "$2b$12$O4jmMelpjKOylIqpnP0LuuhOEMW2XQbKWCX6J5A/k7UNfwAFpd8OO",
+  "last_activity": {
+    "$date": "2022-11-21T06:03:49.481Z"
+  },
+  "course_assign": [
+    "MBA"
+  ]
+},{
+  "_id": {
+    "$oid": "62bf30b8a8c782741bbcc39a"
+  },
+  "user_name": "gauravdubey@shiftboolean.com",
+  "email": "gauravdubey@shiftboolean.com",
+  "first_name": "Gaurav",
+  "middle_name": "",
+  "last_name": "Dubey",
+  "mobile_number": 1234567890,
+  "associated_colleges": [
+    {
+      "$oid": "628dfd41ef796e8f757a5c13"
+    }
+  ],
+  "last_accessed": {
+    "$date": "2022-07-01T17:36:56.017Z"
+  },
+  "created_on": {
+    "$date": "2022-07-01T17:36:56.017Z"
+  },
+  "created_by": {
+    "$oid": "6290c5f4e87e304387308499"
+  },
+  "role": {
+    "role_name": "college_publisher_console",
+    "role_id": {
+      "$oid": "624d55fe1cb1f3aa797c066d"
+    }
+  },
+  "is_activated": true,
+  "password": "$2b$12$JvN3Twvds0oqQ7.Sz6.1iujNBTe.m7L6kpeN/5gxD9.RWkSQvrVpO"
+},{
+  "_id": {
+    "$oid": "62bfcb0fd7a6a3c9a4e6d32b"
+  },
+  "user_name": "rohnagrawal1990@gmail.com",
+  "email": "rohnagrawal1990@gmail.com",
+  "first_name": "Rohan",
+  "middle_name": "",
+  "last_name": "Agrawal",
+  "mobile_number": 8754765842,
+  "associated_colleges": [
+    {
+      "$oid": "628dfd41ef796e8f757a5c13"
+    }
+  ],
+  "last_accessed": {
+    "$date": "2022-07-02T04:35:27.591Z"
+  },
+  "created_on": {
+    "$date": "2022-07-02T04:35:27.591Z"
+  },
+  "created_by": {
+    "$oid": "6290c5f4e87e304387308499"
+  },
+  "role": {
+    "role_name": "college_counselor",
+    "role_id": {
+      "$oid": "624d55ea1cb1f3aa797c066c"
+    }
+  },
+  "is_activated": false,
+  "password": "$2b$12$O4jmMelpjKOylIqpnP0LuuhOEMW2XQbKWCX6J5A/k7UNfwAFpd8OO",
+  "last_activity": {
+    "$date": "2022-11-17T18:29:30.652Z"
+  },
+  "course_assign": [
+    "MSc"
+  ]
+},{
+  "_id": {
+    "$oid": "62bfd13a5ce8a398ad101bd7"
+  },
+  "user_name": "viruchaudhary9@gmail.com",
+  "email": "viruchaudhary9@gmail.com",
+  "first_name": "viru",
+  "middle_name": "",
+  "last_name": "chaudhary",
+  "mobile_number": 8754765842,
+  "associated_colleges": [
+    {
+      "$oid": "628dfd41ef796e8f757a5c13"
+    }
+  ],
+  "last_accessed": {
+    "$date": "2022-11-22T16:45:14.158Z"
+  },
+  "created_on": {
+    "$date": "2022-07-02T05:01:46.143Z"
+  },
+  "created_by": {
+    "$oid": "6290c5f4e87e304387308499"
+  },
+  "role": {
+    "role_name": "college_counselor",
+    "role_id": {
+      "$oid": "624d55ea1cb1f3aa797c066c"
+    }
+  },
+  "is_activated": true,
+  "password": "$2b$12$vvd49AW1OuKJCUxwBPJWle/GF0LXVii.MnkeMArjapsMnHRdVYdPC",
+  "last_activity": {
+    "$date": "2022-11-17T18:23:03.632Z"
+  },
+  "course_assign": [
+    "BBA"
+  ]
+},{
+  "_id": {
+    "$oid": "62c05c3859c45dde60ab7015"
+  },
+  "email": "banih87454@lenfly.com",
+  "mobile_number": 1234567890,
+  "associated_colleges": [
+    {
+      "$oid": "628dfd41ef796e8f757a5c13"
+    }
+  ],
+  "user_name": "banih87454@lenfly.com",
+  "first_name": "string",
+  "middle_name": "",
+  "last_name": "",
+  "last_accessed": {
+    "$date": "2022-07-02T14:54:48.254Z"
+  },
+  "created_on": {
+    "$date": "2022-07-02T14:54:48.254Z"
+  },
+  "created_by": {
+    "$oid": "6290c40ee87e304387308492"
+  },
+  "role": {
+    "role_name": "college_publisher_console",
+    "role_id": {
+      "$oid": "624d55fe1cb1f3aa797c066d"
+    }
+  },
+  "is_activated": false,
+  "password": "$2b$12$bdCbRhghI3AnfxZzoIrzK.hSla5Kd70eUAKnqUZuG/PZj.oyVLMTm"
+},{
+  "_id": {
+    "$oid": "62c42934426f70761a7ed965"
+  },
+  "email": "hiyos19697@weepm.com",
+  "mobile_number": 1234567890,
+  "associated_colleges": [
+    {
+      "$oid": "628dfd41ef796e8f757a5c13"
+    }
+  ],
+  "associated_source_value": "Google",
+  "user_name": "hiyos19697@weepm.com",
+  "first_name": "test",
+  "middle_name": "",
+  "last_name": "",
+  "last_accessed": {
+    "$date": "2022-07-05T12:06:12.910Z"
+  },
+  "created_on": {
+    "$date": "2022-07-05T12:06:12.910Z"
+  },
+  "created_by": {
+    "$oid": "6290c40ee87e304387308492"
+  },
+  "role": {
+    "role_name": "college_publisher_console",
+    "role_id": {
+      "$oid": "624d55fe1cb1f3aa797c066d"
+    }
+  },
+  "is_activated": true,
+  "password": "$2b$12$fS2p4kAhzcuDy1GJ3GfEYOCg5taIlcNnSHFATVTBPP/3Yd7aSVdvK"
+},{
+  "_id": {
+    "$oid": "62cd086378d740fd54795787"
+  },
+  "email": "nanece9312@tebyy.com",
+  "mobile_number": 1234567890,
+  "associated_colleges": [
+    {
+      "$oid": "628dfd41ef796e8f757a5c13"
+    }
+  ],
+  "associated_source_value": null,
+  "user_name": "nanece9312@tebyy.com",
+  "first_name": "test",
+  "middle_name": "",
+  "last_name": "email",
+  "last_accessed": {
+    "$date": "2022-07-12T05:36:35.806Z"
+  },
+  "created_on": {
+    "$date": "2022-07-12T05:36:35.806Z"
+  },
+  "created_by": {
+    "$oid": "628dfb044d5e00f51f14f115"
+  },
+  "role": {
+    "role_name": "client_manager",
+    "role_id": {
+      "$oid": "624d55461cb1f3aa797c0668"
+    }
+  },
+  "is_activated": false,
+  "password": "$2b$12$a.Tu0sVzc8Qj4dvqqXigQ.I2LSV3ZTEkWQNd/7e673yalJnVl31Uu"
+},{
+  "_id": {
+    "$oid": "62d6e7558f91230f5a615fb2"
+  },
+  "email": "college_admin@example.com",
+  "mobile_number": 9898989898,
+  "associated_colleges": [
+    {
+      "$oid": "628dfd41ef796e8f757a5c13"
+    }
+  ],
+  "associated_source_value": null,
+  "user_name": "college_admin@example.com",
+  "first_name": "Admin",
+  "middle_name": "",
+  "last_name": "Admin",
+  "last_accessed": {
+    "$date": "2022-07-19T17:18:13.613Z"
+  },
+  "created_on": {
+    "$date": "2022-07-19T17:18:13.613Z"
+  },
+  "created_by": {
+    "$oid": "6290c40ee87e304387308492"
+  },
+  "role": {
+    "role_name": "college_admin",
+    "role_id": {
+      "$oid": "624d55801cb1f3aa797c066a"
+    }
+  },
+  "is_activated": true,
+  "password": "$2b$12$lcGaBkA4HUD2UD6/aTfhYOj1Lskr.CgQ22rEj.KWJ4Zkf64dQVA5S"
+},{
+  "_id": {
+    "$oid": "62d6e78f8f91230f5a615fc4"
+  },
+  "email": "college_super_admin@example.com",
+  "mobile_number": 9898989898,
+  "associated_colleges": [
+    {
+      "$oid": "628dfd41ef796e8f757a5c13"
+    }
+  ],
+  "associated_source_value": null,
+  "user_name": "college_super_admin@example.com",
+  "first_name": "Admin",
+  "middle_name": "",
+  "last_name": "Admin",
+  "last_accessed": {
+    "$date": "2022-07-19T17:19:11.938Z"
+  },
+  "created_on": {
+    "$date": "2022-07-19T17:19:11.938Z"
+  },
+  "created_by": {
+    "$oid": "6290c40ee87e304387308492"
+  },
+  "role": {
+    "role_name": "college_admin",
+    "role_id": {
+      "$oid": "624d55801cb1f3aa797c066a"
+    }
+  },
+  "is_activated": true,
+  "password": "$2b$12$MJ3XHCpgj.fjxXl8r/rQZejfNSEvQIrYS6.6nYH8ef/IbP3q4OD7e"
+},{
+  "_id": {
+    "$oid": "62d6e8f58f91230f5a615fc5"
+  },
+  "email": "client_manager@example.com",
+  "mobile_number": 9898989898,
+  "associated_colleges": [
+    {
+      "$oid": "628dfd41ef796e8f757a5c13"
+    }
+  ],
+  "associated_source_value": null,
+  "user_name": "client_manager@example.com",
+  "first_name": "Admin",
+  "middle_name": "",
+  "last_name": "Admin",
+  "last_accessed": {
+    "$date": "2022-07-19T17:25:09.538Z"
+  },
+  "created_on": {
+    "$date": "2022-07-19T17:25:09.538Z"
+  },
+  "created_by": {
+    "$oid": "628dfb044d5e00f51f14f115"
+  },
+  "role": {
+    "role_name": "client_manager",
+    "role_id": {
+      "$oid": "624d55461cb1f3aa797c0668"
+    }
+  },
+  "is_activated": true,
+  "password": "$2b$12$kTwd13imDZkshkdTXg2QBuhaZ8PBNapFyjWlhhd7f6ACsTDIMeLVa"
+},{
+  "_id": {
+    "$oid": "62d78d082c135962710f6dfa"
+  },
+  "email": "usefgr@example.com",
+  "mobile_number": 9898989898,
+  "associated_colleges": [
+    {
+      "$oid": "628dfd41ef796e8f757a5c13"
+    }
+  ],
+  "associated_source_value": null,
+  "user_name": "usefgr@example.com",
+  "first_name": "Fgfg",
+  "middle_name": "",
+  "last_name": "Fgf",
+  "last_accessed": {
+    "$date": "2022-07-20T05:05:12.937Z"
+  },
+  "created_on": {
+    "$date": "2022-07-20T05:05:12.937Z"
+  },
+  "created_by": {
+    "$oid": "6290c40ee87e304387308492"
+  },
+  "role": {
+    "role_name": "college_admin",
+    "role_id": {
+      "$oid": "624d55801cb1f3aa797c066a"
+    }
+  },
+  "is_activated": true,
+  "password": "$2b$12$KYN.g8hAVRwKZKITNzsroehd82.6/XjVkX0cHOpxFIKH2zmrIt02y"
+},{
+  "_id": {
+    "$oid": "62d79015eb9ad12eccf7cb71"
+  },
+  "email": "f.ashhaghghb@shiftboolean.com",
+  "mobile_number": 6767676767,
+  "associated_colleges": [
+    {
+      "$oid": "62de19f5f3a898e4275962b6"
+    }
+  ],
+  "associated_source_value": null,
+  "user_name": "f.ashhaghghb@shiftboolean.com",
+  "first_name": "Ghghgh",
+  "middle_name": "",
+  "last_name": "",
+  "last_accessed": {
+    "$date": "2022-07-20T05:18:13.149Z"
+  },
+  "created_on": {
+    "$date": "2022-07-20T05:18:13.149Z"
+  },
+  "created_by": {
+    "$oid": "6290c40ee87e304387308492"
+  },
+  "role": {
+    "role_name": "college_admin",
+    "role_id": {
+      "$oid": "624d55801cb1f3aa797c066a"
+    }
+  },
+  "is_activated": false,
+  "password": "$2b$12$LrMxefCb1X9GiI.FlLByUeCmrbyK5riw983o59j4OufubEWMH3aS2"
+},{
+  "_id": {
+    "$oid": "62d7ae2aeb9ad12eccf7cb72"
+  },
+  "email": "apollofggfgfgfge@example.com",
+  "mobile_number": 9898989898,
+  "associated_colleges": [
+    {
+      "$oid": "628dfd41ef796e8f757a5c13"
+    }
+  ],
+  "associated_source_value": "Google",
+  "user_name": "apollofggfgfgfge@example.com",
+  "first_name": "Sds",
+  "middle_name": "",
+  "last_name": "",
+  "last_accessed": {
+    "$date": "2022-07-20T07:26:34.947Z"
+  },
+  "created_on": {
+    "$date": "2022-07-20T07:26:34.947Z"
+  },
+  "created_by": {
+    "$oid": "6290c40ee87e304387308492"
+  },
+  "role": {
+    "role_name": "college_publisher_console",
+    "role_id": {
+      "$oid": "624d55fe1cb1f3aa797c066d"
+    }
+  },
+  "is_activated": false,
+  "password": "$2b$12$diwI7Zar72s9eeqXldlV8uAjJsd5ceH0lCghkQ4vkQl9ysY0kNYCe"
+},{
+  "_id": {
+    "$oid": "62d7ae74eb9ad12eccf7cb73"
+  },
+  "email": "jowema3914@storypo.com",
+  "mobile_number": 7878787878,
+  "associated_colleges": [
+    {
+      "$oid": "628dfd41ef796e8f757a5c13"
+    }
+  ],
+  "associated_source_value": null,
+  "user_name": "jowema3914@storypo.com",
+  "first_name": "Sds",
+  "middle_name": "",
+  "last_name": "",
+  "last_accessed": {
+    "$date": "2022-07-20T07:27:48.123Z"
+  },
+  "created_on": {
+    "$date": "2022-07-20T07:27:48.123Z"
+  },
+  "created_by": {
+    "$oid": "6290c40ee87e304387308492"
+  },
+  "role": {
+    "role_name": "college_admin",
+    "role_id": {
+      "$oid": "624d55801cb1f3aa797c066a"
+    }
+  },
+  "is_activated": false,
+  "password": "$2b$12$Q5bjrQQHFnz07QFRiCkEPuPH1FtTGlBKdswGk.NncwiIprVN0R/LS"
+},{
+  "_id": {
+    "$oid": "62e77af99e056050cea8819d"
+  },
+  "email": "apollo@headcounselor3.com",
+  "mobile_number": 9898989898,
+  "associated_colleges": [
+    {
+      "$oid": "628dfd41ef796e8f757a5c13"
+    }
+  ],
+  "associated_source_value": null,
+  "user_name": "apollo@headcounselor3.com",
+  "first_name": "Head",
+  "middle_name": "",
+  "last_name": "Counselor",
+  "last_accessed": {
+    "$date": "2022-08-01T07:04:25.783Z"
+  },
+  "created_on": {
+    "$date": "2022-08-01T07:04:25.783Z"
+  },
+  "created_by": {
+    "$oid": "6290c40ee87e304387308492"
+  },
+  "role": {
+    "role_name": "college_head_counselor",
+    "role_id": {
+      "$oid": "624d55d51cb1f3aa797c066b"
+    }
+  },
+  "is_activated": true,
+  "password": "$2b$12$0g0zN.3som3S3oAMZILex.TLfXpJU0GU/FhyLUlWwJsIUPpzaiKKu"
+},{
+  "_id": {
+    "$oid": "62fddeceeff0ff29b1b6a8f3"
+  },
+  "email": "testing@gmail.com",
+  "mobile_number": 5245555555,
+  "associated_colleges": [
+    {
+      "$oid": "628dfd41ef796e8f757a5c13"
+    }
+  ],
+  "associated_source_value": null,
+  "user_name": "testing@gmail.com",
+  "first_name": "Tesing",
+  "middle_name": "",
+  "last_name": "",
+  "last_accessed": {
+    "$date": "2022-08-18T06:40:14.057Z"
+  },
+  "created_on": {
+    "$date": "2022-08-18T06:40:14.057Z"
+  },
+  "created_by": {
+    "$oid": "6290c40ee87e304387308492"
+  },
+  "role": {
+    "role_name": "college_counselor",
+    "role_id": {
+      "$oid": "624d55ea1cb1f3aa797c066c"
+    }
+  },
+  "is_activated": true,
+  "password": "$2b$12$hMOrdG5aKIi2BsIrpyNWG.BZmNT.dHg7WYvoRax3dmXDDRxIrziFW",
+  "last_activity": {
+    "$date": "2022-11-20T18:52:57.218Z"
+  },
+  "course_assign": [
+    "BBA",
+    "Bachelor"
+  ]
+},{
+  "_id": {
+    "$oid": "62fddf41eff0ff29b1b6a8f4"
+  },
+  "email": "testmohib@gmail.com",
+  "mobile_number": 6666666666,
+  "associated_colleges": [
+    {
+      "$oid": "628dfd41ef796e8f757a5c13"
+    }
+  ],
+  "associated_source_value": null,
+  "user_name": "testmohib@gmail.com",
+  "first_name": "Test",
+  "middle_name": "",
+  "last_name": "",
+  "last_accessed": {
+    "$date": "2022-08-18T06:42:09.115Z"
+  },
+  "created_on": {
+    "$date": "2022-08-18T06:42:09.115Z"
+  },
+  "created_by": {
+    "$oid": "6290c40ee87e304387308492"
+  },
+  "role": {
+    "role_name": "college_counselor",
+    "role_id": {
+      "$oid": "624d55ea1cb1f3aa797c066c"
+    }
+  },
+  "is_activated": true,
+  "password": "$2b$12$qqNmDokDsvkjdDDkeK8oN.08pDXfVibj4gQHyDZ5SLz68JrU56ubG",
+  "last_activity": {
+    "$date": "2022-11-17T14:20:22.603Z"
+  },
+  "course_assign": [
+    "MBA"
+  ]
+},{
+  "_id": {
+    "$oid": "62fdf660f2d604e0d90f7fb6"
+  },
+  "email": "mr@gmail.com",
+  "mobile_number": 8888888888,
+  "associated_colleges": [
+    {
+      "$oid": "628dfd41ef796e8f757a5c13"
+    }
+  ],
+  "associated_source_value": null,
+  "user_name": "mr@gmail.com",
+  "first_name": "Mr",
+  "middle_name": "",
+  "last_name": "Johb",
+  "last_accessed": {
+    "$date": "2022-08-18T08:20:48.967Z"
+  },
+  "created_on": {
+    "$date": "2022-08-18T08:20:48.967Z"
+  },
+  "created_by": {
+    "$oid": "6290c40ee87e304387308492"
+  },
+  "role": {
+    "role_name": "college_head_counselor",
+    "role_id": {
+      "$oid": "624d55d51cb1f3aa797c066b"
+    }
+  },
+  "is_activated": false,
+  "password": "$2b$12$PqIH2wflmf26HqyxFdw..eiecyJyZYQUiGQaCr4Ha9GrcwoTTvFdu"
+},{
+  "_id": {
+    "$oid": "63062651916feeb15b6211ff"
+  },
+  "email": "apollo@examplee.com",
+  "mobile_number": 3456622525,
+  "associated_colleges": [
+    {
+      "$oid": "628dfd41ef796e8f757a5c13"
+    }
+  ],
+  "associated_source_value": null,
+  "user_name": "apollo@examplee.com",
+  "first_name": "Mr",
+  "middle_name": "",
+  "last_name": "John",
+  "last_accessed": {
+    "$date": "2022-08-24T13:23:29.507Z"
+  },
+  "created_on": {
+    "$date": "2022-08-24T13:23:29.507Z"
+  },
+  "created_by": {
+    "$oid": "6290c40ee87e304387308492"
+  },
+  "role": {
+    "role_name": "college_admin",
+    "role_id": {
+      "$oid": "624d55801cb1f3aa797c066a"
+    }
+  },
+  "is_activated": true,
+  "password": "$2b$12$VoVL6fTtabtppfkeK/ElD.3vHkVRqKhanS.IcA45WlznYWHdjjqQK"
+},
+  {
+    "_id": {
+      "$oid": "630dd910acaa91964a2c1608"
+    },
+    "email": "asf@gmail.com",
+    "mobile_number": 4444444444,
+    "associated_colleges": [
+      {
+        "$oid": "628dfd41ef796e8f757a5c13"
+      }
+    ],
+    "associated_source_value": null,
+    "user_name": "asf@gmail.com",
+    "first_name": "Mohib",
+    "middle_name": "",
+    "last_name": "Sheikh",
+    "last_accessed": {
+      "$date": "2022-08-30T09:32:00.463Z"
+    },
+    "created_on": {
+      "$date": "2022-08-30T09:32:00.463Z"
+    },
+    "created_by": {
+      "$oid": "6290c40ee87e304387308492"
+    },
+    "role": {
+      "role_name": "college_head_counselor",
+      "role_id": {
+        "$oid": "624d55d51cb1f3aa797c066b"
+      }
+    },
+    "is_activated": false,
+    "password": "$2b$12$FyD5bNlreZsyU7Y3FiMr6uIkzZDfHiqszWKFGmPo9PHKl3yLW1ZPi"
+  },
+  {
+    "_id": {
+      "$oid": "631748b19987dfd89f45e651"
+    },
+    "email": "f.alam@shiftboolean.com",
+    "mobile_number": 1234565789,
+    "associated_colleges": [
+      {
+        "$oid": "628dfd41ef796e8f757a5c13"
+      }
+    ],
+    "associated_source_value": null,
+    "user_name": "f.alam@shiftboolean.com",
+    "first_name": "Feroj",
+    "middle_name": "",
+    "last_name": "",
+    "last_accessed": {
+      "$date": "2022-09-06T13:18:41.598Z"
+    },
+    "created_on": {
+      "$date": "2022-09-06T13:18:41.598Z"
+    },
+    "created_by": {
+      "$oid": "6290c40ee87e304387308492"
+    },
+    "role": {
+      "role_name": "college_admin",
+      "role_id": {
+        "$oid": "624d55801cb1f3aa797c066a"
+      }
+    },
+    "is_activated": true,
+    "password": "$2b$12$lTcppk5eiXBkSAh19ycBf.4oS59VEN2xXOrHDTsaY2osNRp7cE8i6"
+  },
+  {
+    "_id": {
+      "$oid": "631748c69987dfd89f45e652"
+    },
+    "email": "nipah52240@esmoud.com",
+    "mobile_number": 9898989898,
+    "associated_colleges": [
+      {
+        "$oid": "628dfd41ef796e8f757a5c13"
+      }
+    ],
+    "associated_source_value": null,
+    "user_name": "nipah52240@esmoud.com",
+    "first_name": "Dfd",
+    "middle_name": "",
+    "last_name": "",
+    "last_accessed": {
+      "$date": "2022-09-06T13:19:02.130Z"
+    },
+    "created_on": {
+      "$date": "2022-09-06T13:19:02.130Z"
+    },
+    "created_by": {
+      "$oid": "6290c40ee87e304387308492"
+    },
+    "role": {
+      "role_name": "college_counselor",
+      "role_id": {
+        "$oid": "624d55ea1cb1f3aa797c066c"
+      }
+    },
+    "is_activated": true,
+    "password": "$2b$12$kKTO23gptfwH3NI2GoiEquI9Rmbrv5c0YObFTDtcovR/JG2yTM4QC",
+    "last_activity": {
+      "$date": "2022-11-21T05:32:03.537Z"
+    },
+    "course_assign": [
+      "MBA"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "631750399987dfd89f45e653"
+    },
+    "email": "testuser@gmail.com",
+    "mobile_number": 1234567865,
+    "associated_colleges": [
+      {
+        "$oid": "628dfd41ef796e8f757a5c13"
+      }
+    ],
+    "associated_source_value": null,
+    "user_name": "testuser@gmail.com",
+    "first_name": "Test",
+    "middle_name": "",
+    "last_name": "User",
+    "last_accessed": {
+      "$date": "2022-09-06T13:50:49.162Z"
+    },
+    "created_on": {
+      "$date": "2022-09-06T13:50:49.162Z"
+    },
+    "created_by": {
+      "$oid": "6290c40ee87e304387308492"
+    },
+    "role": {
+      "role_name": "college_admin",
+      "role_id": {
+        "$oid": "624d55801cb1f3aa797c066a"
+      }
+    },
+    "is_activated": true,
+    "password": "$2b$12$/n1VFPvaTGNLnOqsmHEs8eKiQcc6h7jnH4hIrwQLpBbe2dgfeJO8O"
+  },
+  {
+    "_id": {
+      "$oid": "6317524a54e7237cd6f6f27f"
+    },
+    "email": "testuser2@gmail.com",
+    "mobile_number": 2345679868,
+    "associated_colleges": [
+      {
+        "$oid": "628dfd41ef796e8f757a5c13"
+      }
+    ],
+    "associated_source_value": null,
+    "user_name": "testuser2@gmail.com",
+    "first_name": "Test",
+    "middle_name": "",
+    "last_name": "User",
+    "last_accessed": {
+      "$date": "2022-09-06T13:59:38.452Z"
+    },
+    "created_on": {
+      "$date": "2022-09-06T13:59:38.452Z"
+    },
+    "created_by": {
+      "$oid": "6290c40ee87e304387308492"
+    },
+    "role": {
+      "role_name": "college_admin",
+      "role_id": {
+        "$oid": "624d55801cb1f3aa797c066a"
+      }
+    },
+    "is_activated": false,
+    "password": "$2b$12$V6jlS9HVH4M1N2dK0vEsBe4ivMG5hhiUYnWtgSRkhiPtWmRBix8X2"
+  },
+  {
+    "_id": {
+      "$oid": "6317529554e7237cd6f6f280"
+    },
+    "email": "testuser3@gmail.com",
+    "mobile_number": 2533561246,
+    "associated_colleges": [
+      {
+        "$oid": "628dfd41ef796e8f757a5c13"
+      }
+    ],
+    "associated_source_value": null,
+    "user_name": "testuser3@gmail.com",
+    "first_name": "Test",
+    "middle_name": "",
+    "last_name": "User",
+    "last_accessed": {
+      "$date": "2022-09-06T14:00:53.152Z"
+    },
+    "created_on": {
+      "$date": "2022-09-06T14:00:53.152Z"
+    },
+    "created_by": {
+      "$oid": "6290c40ee87e304387308492"
+    },
+    "role": {
+      "role_name": "college_admin",
+      "role_id": {
+        "$oid": "624d55801cb1f3aa797c066a"
+      }
+    },
+    "is_activated": true,
+    "password": "$2b$12$MQbKD13sUAXmysPLWCPN9O0wENsUqAdKs3wJoNKnwvSVp8UZxzAkK"
+  },
+  {
+    "_id": {
+      "$oid": "63175d0854e7237cd6f6f281"
+    },
+    "email": "testuser4@gmail.com",
+    "mobile_number": 2357799876,
+    "associated_colleges": [
+      {
+        "$oid": "628dfd41ef796e8f757a5c13"
+      }
+    ],
+    "associated_source_value": null,
+    "user_name": "testuser4@gmail.com",
+    "first_name": "Test",
+    "middle_name": "",
+    "last_name": "User",
+    "last_accessed": {
+      "$date": "2022-09-06T14:45:28.292Z"
+    },
+    "created_on": {
+      "$date": "2022-09-06T14:45:28.292Z"
+    },
+    "created_by": {
+      "$oid": "6290c40ee87e304387308492"
+    },
+    "role": {
+      "role_name": "college_admin",
+      "role_id": {
+        "$oid": "624d55801cb1f3aa797c066a"
+      }
+    },
+    "is_activated": true,
+    "password": "$2b$12$FRW4Nj6b/k6nbBDxwIULfOITEy55wVqdy6LGIly4nAQV4H5yFTeDO"
+  },
+  {
+    "_id": {
+      "$oid": "63175d4e54e7237cd6f6f282"
+    },
+    "email": "testuser5@gmail.com",
+    "mobile_number": 3456788998,
+    "associated_colleges": [
+      {
+        "$oid": "628dfd41ef796e8f757a5c13"
+      }
+    ],
+    "associated_source_value": null,
+    "user_name": "testuser5@gmail.com",
+    "first_name": "Test",
+    "middle_name": "",
+    "last_name": "User",
+    "last_accessed": {
+      "$date": "2022-09-06T14:46:38.774Z"
+    },
+    "created_on": {
+      "$date": "2022-09-06T14:46:38.774Z"
+    },
+    "created_by": {
+      "$oid": "6290c40ee87e304387308492"
+    },
+    "role": {
+      "role_name": "college_admin",
+      "role_id": {
+        "$oid": "624d55801cb1f3aa797c066a"
+      }
+    },
+    "is_activated": false,
+    "password": "$2b$12$yFwL44jlxG0k6m0jScy21.h4qiwB0GLRd6jknFmOm3QIp0e6ULUOa"
+  },
+  {
+    "_id": {
+      "$oid": "63175d9454e7237cd6f6f283"
+    },
+    "email": "testuser6@gmail.com",
+    "mobile_number": 3456789876,
+    "associated_colleges": [
+      {
+        "$oid": "628dfd41ef796e8f757a5c13"
+      }
+    ],
+    "associated_source_value": null,
+    "user_name": "testuser6@gmail.com",
+    "first_name": "Test",
+    "middle_name": "",
+    "last_name": "User",
+    "last_accessed": {
+      "$date": "2022-09-06T14:47:48.943Z"
+    },
+    "created_on": {
+      "$date": "2022-09-06T14:47:48.943Z"
+    },
+    "created_by": {
+      "$oid": "6290c40ee87e304387308492"
+    },
+    "role": {
+      "role_name": "college_admin",
+      "role_id": {
+        "$oid": "624d55801cb1f3aa797c066a"
+      }
+    },
+    "is_activated": true,
+    "password": "$2b$12$JVNoKm65/PX.HVNgYTvkZOX97El.0IaTD4e2Am7bEJtNQ88H7gD4O"
+  },
+  {
+    "_id": {
+      "$oid": "63175db354e7237cd6f6f284"
+    },
+    "email": "testuser7@gmail.com",
+    "mobile_number": 3456789876,
+    "associated_colleges": [
+      {
+        "$oid": "628dfd41ef796e8f757a5c13"
+      }
+    ],
+    "associated_source_value": null,
+    "user_name": "testuser7@gmail.com",
+    "first_name": "Test",
+    "middle_name": "",
+    "last_name": "User",
+    "last_accessed": {
+      "$date": "2022-09-06T14:48:19.518Z"
+    },
+    "created_on": {
+      "$date": "2022-09-06T14:48:19.518Z"
+    },
+    "created_by": {
+      "$oid": "6290c40ee87e304387308492"
+    },
+    "role": {
+      "role_name": "college_admin",
+      "role_id": {
+        "$oid": "624d55801cb1f3aa797c066a"
+      }
+    },
+    "is_activated": true,
+    "password": "$2b$12$ozGYD.wqOpzauHi1/Srov.S5o0NBOjRnoCsuy9AJ6D.GjoM.Vjc8i"
+  },
+  {
+    "_id": {
+      "$oid": "63175de254e7237cd6f6f285"
+    },
+    "email": "testuser8@gmail.com",
+    "mobile_number": 3456789097,
+    "associated_colleges": [
+      {
+        "$oid": "628dfd41ef796e8f757a5c13"
+      }
+    ],
+    "associated_source_value": null,
+    "user_name": "testuser8@gmail.com",
+    "first_name": "Test",
+    "middle_name": "",
+    "last_name": "User",
+    "last_accessed": {
+      "$date": "2022-09-06T14:49:06.373Z"
+    },
+    "created_on": {
+      "$date": "2022-09-06T14:49:06.373Z"
+    },
+    "created_by": {
+      "$oid": "6290c40ee87e304387308492"
+    },
+    "role": {
+      "role_name": "college_admin",
+      "role_id": {
+        "$oid": "624d55801cb1f3aa797c066a"
+      }
+    },
+    "is_activated": false,
+    "password": "$2b$12$IweEANHAK6V7mkgwaOu7w./L3FunV7EdIka4koIrtlWD1vG4cH9kC"
+  },
+  {
+    "_id": {
+      "$oid": "63182fb445b1f87d27f83dd0"
+    },
+    "email": "test134@gmail.com",
+    "mobile_number": 3457987676,
+    "associated_colleges": [
+      {
+        "$oid": "628dfd41ef796e8f757a5c13"
+      }
+    ],
+    "associated_source_value": null,
+    "user_name": "test134@gmail.com",
+    "first_name": "Test",
+    "middle_name": "",
+    "last_name": "",
+    "last_accessed": {
+      "$date": "2022-09-07T05:44:20.549Z"
+    },
+    "created_on": {
+      "$date": "2022-09-07T05:44:20.549Z"
+    },
+    "created_by": {
+      "$oid": "6290c40ee87e304387308492"
+    },
+    "role": {
+      "role_name": "college_admin",
+      "role_id": {
+        "$oid": "624d55801cb1f3aa797c066a"
+      }
+    },
+    "is_activated": true,
+    "password": "$2b$12$sCtWQJSkw5oG0GVP/Juyv.vdoKpoKdglTp/xrBvUGVxydnbdSXiei"
+  },
+  {
+    "_id": {
+      "$oid": "6318304045b1f87d27f83dd1"
+    },
+    "email": "test23@gmail.com",
+    "mobile_number": 5466789965,
+    "associated_colleges": [
+      {
+        "$oid": "628dfd41ef796e8f757a5c13"
+      }
+    ],
+    "associated_source_value": null,
+    "user_name": "test23@gmail.com",
+    "first_name": "Test",
+    "middle_name": "",
+    "last_name": "",
+    "last_accessed": {
+      "$date": "2022-09-07T05:46:40.904Z"
+    },
+    "created_on": {
+      "$date": "2022-09-07T05:46:40.904Z"
+    },
+    "created_by": {
+      "$oid": "6290c40ee87e304387308492"
+    },
+    "role": {
+      "role_name": "college_admin",
+      "role_id": {
+        "$oid": "624d55801cb1f3aa797c066a"
+      }
+    },
+    "is_activated": true,
+    "password": "$2b$12$/X8RrILiGyhATa3QefdIV.TfOpFXXCsMHTJ4G8yp3YeSg3SKCHKES"
+  },
+  {
+    "_id": {
+      "$oid": "63188060c73b589c2a18320f"
+    },
+    "email": "apolhjhkhklo@example.com",
+    "mobile_number": 4545454545,
+    "associated_colleges": [
+      {
+        "$oid": "628dfd41ef796e8f757a5c13"
+      }
+    ],
+    "associated_source_value": null,
+    "user_name": "apolhjhkhklo@example.com",
+    "first_name": "Dfd",
+    "middle_name": "",
+    "last_name": "",
+    "last_accessed": {
+      "$date": "2022-09-07T11:28:32.742Z"
+    },
+    "created_on": {
+      "$date": "2022-09-07T11:28:32.742Z"
+    },
+    "created_by": {
+      "$oid": "6290c40ee87e304387308492"
+    },
+    "role": {
+      "role_name": "college_admin",
+      "role_id": {
+        "$oid": "624d55801cb1f3aa797c066a"
+      }
+    },
+    "is_activated": true,
+    "password": "$2b$12$rjmOJSmFO2JQCkoYhmxkouj03UCZ1biK4qNzqDilKFib2ZvoZGxzm"
+  },
+  {
+    "_id": {
+      "$oid": "631b275445b1f87d27f83e25"
+    },
+    "email": "f@gmail.com",
+    "mobile_number": 2334568987,
+    "associated_colleges": [
+      {
+        "$oid": "628dfd41ef796e8f757a5c13"
+      }
+    ],
+    "associated_source_value": null,
+    "user_name": "f@gmail.com",
+    "first_name": "Test",
+    "middle_name": "",
+    "last_name": "",
+    "last_accessed": {
+      "$date": "2022-09-09T11:45:24.159Z"
+    },
+    "created_on": {
+      "$date": "2022-09-09T11:45:24.159Z"
+    },
+    "created_by": {
+      "$oid": "6290c40ee87e304387308492"
+    },
+    "role": {
+      "role_name": "college_admin",
+      "role_id": {
+        "$oid": "624d55801cb1f3aa797c066a"
+      }
+    },
+    "is_activated": true,
+    "password": "$2b$12$MuWjiV/EbbcWAoQF9cvXp.ksAJ5M/S3ghsAdCp2rvV8g85wvb.CNa"
+  },
+  {
+    "_id": {
+      "$oid": "631b346b45b1f87d27f83e29"
+    },
+    "email": "a@g.com",
+    "mobile_number": 1233445678,
+    "associated_colleges": [
+      {
+        "$oid": "628dfd41ef796e8f757a5c13"
+      }
+    ],
+    "associated_source_value": null,
+    "user_name": "a@g.com",
+    "first_name": "Test",
+    "middle_name": "",
+    "last_name": "",
+    "last_accessed": {
+      "$date": "2022-09-09T12:41:15.238Z"
+    },
+    "created_on": {
+      "$date": "2022-09-09T12:41:15.238Z"
+    },
+    "created_by": {
+      "$oid": "6290c40ee87e304387308492"
+    },
+    "role": {
+      "role_name": "college_admin",
+      "role_id": {
+        "$oid": "624d55801cb1f3aa797c066a"
+      }
+    },
+    "is_activated": true,
+    "password": "$2b$12$rUrWKWcJWxPcy66KUrA6Wu1uqgTBnpUiWIKkz87GxntGNwxRDS4Wy"
+  },
+  {
+    "_id": {
+      "$oid": "631b34ab45b1f87d27f83e2a"
+    },
+    "email": "abc@gmail.com",
+    "mobile_number": 1234455676,
+    "associated_colleges": [
+      {
+        "$oid": "628dfd41ef796e8f757a5c13"
+      }
+    ],
+    "associated_source_value": null,
+    "user_name": "abc@gmail.com",
+    "first_name": "Aee",
+    "middle_name": "",
+    "last_name": "",
+    "last_accessed": {
+      "$date": "2022-09-09T12:42:19.342Z"
+    },
+    "created_on": {
+      "$date": "2022-09-09T12:42:19.342Z"
+    },
+    "created_by": {
+      "$oid": "6290c40ee87e304387308492"
+    },
+    "role": {
+      "role_name": "college_admin",
+      "role_id": {
+        "$oid": "624d55801cb1f3aa797c066a"
+      }
+    },
+    "is_activated": true,
+    "password": "$2b$12$rgcmqOpu.lXuen5amzbtsOz2h..SowHlrQhN4Pbpc9s7UGseDZbgG"
+  },
+  {
+    "_id": {
+      "$oid": "631b34d145b1f87d27f83e2b"
+    },
+    "email": "ab@g.com",
+    "mobile_number": 3345322455,
+    "associated_colleges": [
+      {
+        "$oid": "628dfd41ef796e8f757a5c13"
+      }
+    ],
+    "associated_source_value": null,
+    "user_name": "ab@g.com",
+    "first_name": "Ad",
+    "middle_name": "",
+    "last_name": "",
+    "last_accessed": {
+      "$date": "2022-09-09T12:42:57.142Z"
+    },
+    "created_on": {
+      "$date": "2022-09-09T12:42:57.142Z"
+    },
+    "created_by": {
+      "$oid": "6290c40ee87e304387308492"
+    },
+    "role": {
+      "role_name": "college_admin",
+      "role_id": {
+        "$oid": "624d55801cb1f3aa797c066a"
+      }
+    },
+    "is_activated": true,
+    "password": "$2b$12$uzVCzwbDaY0a7ZQKY92RRuMjyykq/dFQx35BUlsFhvOinCgrnfWPm"
+  },
+  {
+    "_id": {
+      "$oid": "631b487945b1f87d27f83e2f"
+    },
+    "email": "abcd@gmail.com",
+    "mobile_number": 2344566755,
+    "associated_colleges": [
+      {
+        "$oid": "628dfd41ef796e8f757a5c13"
+      }
+    ],
+    "associated_source_value": null,
+    "user_name": "abcd@gmail.com",
+    "first_name": "Abc",
+    "middle_name": "",
+    "last_name": "",
+    "last_accessed": {
+      "$date": "2022-09-09T14:06:49.827Z"
+    },
+    "created_on": {
+      "$date": "2022-09-09T14:06:49.827Z"
+    },
+    "created_by": {
+      "$oid": "6290c40ee87e304387308492"
+    },
+    "role": {
+      "role_name": "college_admin",
+      "role_id": {
+        "$oid": "624d55801cb1f3aa797c066a"
+      }
+    },
+    "is_activated": true,
+    "password": "$2b$12$vu.wrfxKzdZ9HnBJH9MZ7ORgFr0IFWDZQFfKd7W.7fAT/99kZKruW"
+  },
+  {
+    "_id": {
+      "$oid": "631b48a345b1f87d27f83e30"
+    },
+    "email": "avc@g.com",
+    "mobile_number": 1234545664,
+    "associated_colleges": [
+      {
+        "$oid": "628dfd41ef796e8f757a5c13"
+      }
+    ],
+    "associated_source_value": null,
+    "user_name": "avc@g.com",
+    "first_name": "Abc",
+    "middle_name": "",
+    "last_name": "",
+    "last_accessed": {
+      "$date": "2022-09-09T14:07:31.175Z"
+    },
+    "created_on": {
+      "$date": "2022-09-09T14:07:31.175Z"
+    },
+    "created_by": {
+      "$oid": "6290c40ee87e304387308492"
+    },
+    "role": {
+      "role_name": "college_admin",
+      "role_id": {
+        "$oid": "624d55801cb1f3aa797c066a"
+      }
+    },
+    "is_activated": true,
+    "password": "$2b$12$iY1Zeh.Ky5EBcRala9w9nOyrpVgm5uRyig5NjVbzOFYyvB6bbj90O"
+  },
+  {
+    "_id": {
+      "$oid": "631b498445b1f87d27f83e31"
+    },
+    "email": "adf@g.com",
+    "mobile_number": 1234545665,
+    "associated_colleges": [
+      {
+        "$oid": "628dfd41ef796e8f757a5c13"
+      }
+    ],
+    "associated_source_value": null,
+    "user_name": "adf@g.com",
+    "first_name": "Adf",
+    "middle_name": "",
+    "last_name": "",
+    "last_accessed": {
+      "$date": "2022-09-09T14:11:16.827Z"
+    },
+    "created_on": {
+      "$date": "2022-09-09T14:11:16.827Z"
+    },
+    "created_by": {
+      "$oid": "6290c40ee87e304387308492"
+    },
+    "role": {
+      "role_name": "college_admin",
+      "role_id": {
+        "$oid": "624d55801cb1f3aa797c066a"
+      }
+    },
+    "is_activated": true,
+    "password": "$2b$12$eOiYIFlm2tpYFncRU5rg7.rgNqjAuD/HJVVKbp5jFf68SJXsp/Joy"
+  },
+  {
+    "_id": {
+      "$oid": "631b49f545b1f87d27f83e32"
+    },
+    "email": "and@g.com",
+    "mobile_number": 2345656756,
+    "associated_colleges": [
+      {
+        "$oid": "628dfd41ef796e8f757a5c13"
+      }
+    ],
+    "associated_source_value": null,
+    "user_name": "and@g.com",
+    "first_name": "And",
+    "middle_name": "",
+    "last_name": "",
+    "last_accessed": {
+      "$date": "2022-09-09T14:13:09.696Z"
+    },
+    "created_on": {
+      "$date": "2022-09-09T14:13:09.696Z"
+    },
+    "created_by": {
+      "$oid": "6290c40ee87e304387308492"
+    },
+    "role": {
+      "role_name": "college_admin",
+      "role_id": {
+        "$oid": "624d55801cb1f3aa797c066a"
+      }
+    },
+    "is_activated": true,
+    "password": "$2b$12$XOe9uktEm.ulvG1hridqqOZsJuL1tfGdIikiBJLg6x2LOklVaWUsy"
+  },
+  {
+    "_id": {
+      "$oid": "631b4a5645b1f87d27f83e33"
+    },
+    "email": "ad@g.com",
+    "mobile_number": 2345677554,
+    "associated_colleges": [
+      {
+        "$oid": "628dfd41ef796e8f757a5c13"
+      }
+    ],
+    "associated_source_value": null,
+    "user_name": "ad@g.com",
+    "first_name": "Asd",
+    "middle_name": "",
+    "last_name": "",
+    "last_accessed": {
+      "$date": "2022-09-09T14:14:46.329Z"
+    },
+    "created_on": {
+      "$date": "2022-09-09T14:14:46.329Z"
+    },
+    "created_by": {
+      "$oid": "6290c40ee87e304387308492"
+    },
+    "role": {
+      "role_name": "college_admin",
+      "role_id": {
+        "$oid": "624d55801cb1f3aa797c066a"
+      }
+    },
+    "is_activated": true,
+    "password": "$2b$12$WV/rKFlWj8OGdliPYNHAUOoxeVWLJBkYqTrpwrFvU.nYAiV5Ql3o6"
+  },
+  {
+    "_id": {
+      "$oid": "631b511845b1f87d27f83e34"
+    },
+    "email": "aw@gmail.com",
+    "mobile_number": 2334567767,
+    "associated_colleges": [
+      {
+        "$oid": "628dfd41ef796e8f757a5c13"
+      }
+    ],
+    "associated_source_value": null,
+    "user_name": "aw@gmail.com",
+    "first_name": "Awq",
+    "middle_name": "",
+    "last_name": "",
+    "last_accessed": {
+      "$date": "2022-09-09T14:43:36.930Z"
+    },
+    "created_on": {
+      "$date": "2022-09-09T14:43:36.930Z"
+    },
+    "created_by": {
+      "$oid": "6290c40ee87e304387308492"
+    },
+    "role": {
+      "role_name": "college_admin",
+      "role_id": {
+        "$oid": "624d55801cb1f3aa797c066a"
+      }
+    },
+    "is_activated": true,
+    "password": "$2b$12$6VXqncNXCXGFrfTBz95XwuFbcmFD/7J3eo0OvLjK5ZRh1rhmCfvB2"
+  },
+  {
+    "_id": {
+      "$oid": "631f6a3a45b1f87d27f83e72"
+    },
+    "email": "abc@g.com",
+    "mobile_number": 1233456765,
+    "associated_colleges": [
+      {
+        "$oid": "628dfd41ef796e8f757a5c13"
+      }
+    ],
+    "associated_source_value": null,
+    "user_name": "abc@g.com",
+    "first_name": "Abc",
+    "middle_name": "",
+    "last_name": "",
+    "last_accessed": {
+      "$date": "2022-09-12T17:19:54.872Z"
+    },
+    "created_on": {
+      "$date": "2022-09-12T17:19:54.872Z"
+    },
+    "created_by": {
+      "$oid": "628dfb044d5e00f51f14f115"
+    },
+    "role": {
+      "role_name": "client_manager",
+      "role_id": {
+        "$oid": "624d55461cb1f3aa797c0668"
+      }
+    },
+    "is_activated": true,
+    "password": "$2b$12$HKjuFXS8InbgBYtUcfDnK.ZhX4pT2TEjnnKpQeP9hZU7t7R9e6/V2"
+  },
+  {
+    "_id": {
+      "$oid": "6321e7d4dcc742d7c94f25d4"
+    },
+    "email": "abcd@g.com",
+    "mobile_number": 2234456654,
+    "associated_colleges": [
+      {
+        "$oid": "628dfd41ef796e8f757a5c13"
+      }
+    ],
+    "associated_source_value": null,
+    "user_name": "abcd@g.com",
+    "first_name": "Abcd",
+    "middle_name": "",
+    "last_name": "",
+    "last_accessed": {
+      "$date": "2022-09-14T14:40:20.198Z"
+    },
+    "created_on": {
+      "$date": "2022-09-14T14:40:20.198Z"
+    },
+    "created_by": {
+      "$oid": "6290c40ee87e304387308492"
+    },
+    "role": {
+      "role_name": "college_admin",
+      "role_id": {
+        "$oid": "624d55801cb1f3aa797c066a"
+      }
+    },
+    "is_activated": true,
+    "password": "$2b$12$XSOsi2qzAvIVOM1ix7gXoOyBLqzf39DviCB8BC3jxaDSlEYCEkbnO"
+  },
+  {
+    "_id": {
+      "$oid": "6321e83adcc742d7c94f25d5"
+    },
+    "email": "ba@g.com",
+    "mobile_number": 2334566654,
+    "associated_colleges": [
+      {
+        "$oid": "628dfd41ef796e8f757a5c13"
+      }
+    ],
+    "associated_source_value": null,
+    "user_name": "ba@g.com",
+    "first_name": "Ab",
+    "middle_name": "",
+    "last_name": "",
+    "last_accessed": {
+      "$date": "2022-09-14T14:42:02.111Z"
+    },
+    "created_on": {
+      "$date": "2022-09-14T14:42:02.111Z"
+    },
+    "created_by": {
+      "$oid": "6290c40ee87e304387308492"
+    },
+    "role": {
+      "role_name": "college_head_counselor",
+      "role_id": {
+        "$oid": "624d55d51cb1f3aa797c066b"
+      }
+    },
+    "is_activated": true,
+    "password": "$2b$12$pJ33e31dj7xc.XTl0O8Zkeq1iTBJw6ltAvRd.qFrw8yPr.Fb1Kz.i"
+  },
+  {
+    "_id": {
+      "$oid": "6321e866dcc742d7c94f25d6"
+    },
+    "email": "bb@g.com",
+    "mobile_number": 3361252352,
+    "associated_colleges": [
+      {
+        "$oid": "628dfd41ef796e8f757a5c13"
+      }
+    ],
+    "associated_source_value": null,
+    "user_name": "bb@g.com",
+    "first_name": "Bb",
+    "middle_name": "",
+    "last_name": "",
+    "last_accessed": {
+      "$date": "2022-09-14T14:42:46.571Z"
+    },
+    "created_on": {
+      "$date": "2022-09-14T14:42:46.571Z"
+    },
+    "created_by": {
+      "$oid": "6290c40ee87e304387308492"
+    },
+    "role": {
+      "role_name": "college_admin",
+      "role_id": {
+        "$oid": "624d55801cb1f3aa797c066a"
+      }
+    },
+    "is_activated": true,
+    "password": "$2b$12$bkHYcYA86flBNjSR4mkd8eM05y.c65FnVvaL/8v5EBSdWtQ2BmaRa"
+  },
+  {
+    "_id": {
+      "$oid": "6321e894dcc742d7c94f25d7"
+    },
+    "email": "ahd@g.com",
+    "mobile_number": 2432578886,
+    "associated_colleges": [
+      {
+        "$oid": "628dfd41ef796e8f757a5c13"
+      }
+    ],
+    "associated_source_value": null,
+    "user_name": "ahd@g.com",
+    "first_name": "Ahd",
+    "middle_name": "",
+    "last_name": "",
+    "last_accessed": {
+      "$date": "2022-09-14T14:43:32.173Z"
+    },
+    "created_on": {
+      "$date": "2022-09-14T14:43:32.173Z"
+    },
+    "created_by": {
+      "$oid": "6290c40ee87e304387308492"
+    },
+    "role": {
+      "role_name": "college_admin",
+      "role_id": {
+        "$oid": "624d55801cb1f3aa797c066a"
+      }
+    },
+    "is_activated": true,
+    "password": "$2b$12$HozyvZRVyPfh8BQ67NL1/esGP.F7R00lNioyh9gKxS2ZO7Oq7Hsgi"
+  },
+  {
+    "_id": {
+      "$oid": "6321e8dadcc742d7c94f25d8"
+    },
+    "email": "hd@g.com",
+    "mobile_number": 3445355565,
+    "associated_colleges": [
+      {
+        "$oid": "628dfd41ef796e8f757a5c13"
+      }
+    ],
+    "associated_source_value": null,
+    "user_name": "hd@g.com",
+    "first_name": "Hd",
+    "middle_name": "",
+    "last_name": "",
+    "last_accessed": {
+      "$date": "2022-09-14T14:44:42.573Z"
+    },
+    "created_on": {
+      "$date": "2022-09-14T14:44:42.573Z"
+    },
+    "created_by": {
+      "$oid": "6290c40ee87e304387308492"
+    },
+    "role": {
+      "role_name": "college_admin",
+      "role_id": {
+        "$oid": "624d55801cb1f3aa797c066a"
+      }
+    },
+    "is_activated": true,
+    "password": "$2b$12$s1g32vKwQiIYM7VP9bxLs.19OnkLdszJGfiwAawYNR7YjYKkMupaa"
+  },
+  {
+    "_id": {
+      "$oid": "6322fdd6948a24b174d5ae47"
+    },
+    "email": "an@g.com",
+    "mobile_number": 1322352638,
+    "associated_colleges": [
+      {
+        "$oid": "628dfd41ef796e8f757a5c13"
+      }
+    ],
+    "associated_source_value": null,
+    "user_name": "an@g.com",
+    "first_name": "An",
+    "middle_name": "",
+    "last_name": "",
+    "last_accessed": {
+      "$date": "2022-09-15T10:26:30.005Z"
+    },
+    "created_on": {
+      "$date": "2022-09-15T10:26:30.005Z"
+    },
+    "created_by": {
+      "$oid": "6290c40ee87e304387308492"
+    },
+    "role": {
+      "role_name": "college_admin",
+      "role_id": {
+        "$oid": "624d55801cb1f3aa797c066a"
+      }
+    },
+    "is_activated": true,
+    "password": "$2b$12$gFnqvqJ/Jy1W/8VedIDaL.JfA/dTPyBF/0m75ZX6WjbHGmQMjqZxK"
+  },
+  {
+    "_id": {
+      "$oid": "6322ff17948a24b174d5ae48"
+    },
+    "email": "na@g.com",
+    "mobile_number": 1234567286,
+    "associated_colleges": [
+      {
+        "$oid": "628dfd41ef796e8f757a5c13"
+      }
+    ],
+    "associated_source_value": null,
+    "user_name": "na@g.com",
+    "first_name": "Na",
+    "middle_name": "",
+    "last_name": "",
+    "last_accessed": {
+      "$date": "2022-09-15T10:31:51.970Z"
+    },
+    "created_on": {
+      "$date": "2022-09-15T10:31:51.970Z"
+    },
+    "created_by": {
+      "$oid": "6290c40ee87e304387308492"
+    },
+    "role": {
+      "role_name": "college_admin",
+      "role_id": {
+        "$oid": "624d55801cb1f3aa797c066a"
+      }
+    },
+    "is_activated": true,
+    "password": "$2b$12$7t6m.fkmMO.dilO/7JGJZOqPP9lSVKka7.PqZMHGkn4TOehPF5tTO"
+  },
+  {
+    "_id": {
+      "$oid": "6322ff18948a24b174d5ae49"
+    },
+    "email": "na@g.com",
+    "mobile_number": 1234567286,
+    "associated_colleges": [
+      {
+        "$oid": "628dfd41ef796e8f757a5c13"
+      }
+    ],
+    "associated_source_value": null,
+    "user_name": "na@g.com",
+    "first_name": "Na",
+    "middle_name": "",
+    "last_name": "",
+    "last_accessed": {
+      "$date": "2022-09-15T10:31:52.243Z"
+    },
+    "created_on": {
+      "$date": "2022-09-15T10:31:52.243Z"
+    },
+    "created_by": {
+      "$oid": "6290c40ee87e304387308492"
+    },
+    "role": {
+      "role_name": "college_admin",
+      "role_id": {
+        "$oid": "624d55801cb1f3aa797c066a"
+      }
+    },
+    "is_activated": true,
+    "password": "$2b$12$WossykKGzyL7wa8B0RjW6OeC3av69dr33KNRAJAsRO3xaIpPqHZ0."
+  },
+  {
+    "_id": {
+      "$oid": "632b009c1b17aa3f0b90f864"
+    },
+    "email": "test4@gm.com",
+    "mobile_number": 1233468757,
+    "associated_colleges": [
+      {
+        "$oid": "628dfd41ef796e8f757a5c13"
+      }
+    ],
+    "associated_source_value": null,
+    "user_name": "test4@gm.com",
+    "first_name": "Test",
+    "middle_name": "",
+    "last_name": "",
+    "last_accessed": {
+      "$date": "2022-09-21T12:16:28.666Z"
+    },
+    "created_on": {
+      "$date": "2022-09-21T12:16:28.666Z"
+    },
+    "created_by": {
+      "$oid": "6290c40ee87e304387308492"
+    },
+    "role": {
+      "role_name": "college_admin",
+      "role_id": {
+        "$oid": "624d55801cb1f3aa797c066a"
+      }
+    },
+    "is_activated": true,
+    "password": "$2b$12$GYHx/xwSkZVpYiKZDT0zLundipiJtZktLK0CsaiRlu4bRXMYDlYcG"
+  },
+  {
+    "_id": {
+      "$oid": "632b04604fe8cbe07f473df6"
+    },
+    "email": "tes4@hn.com",
+    "mobile_number": 1233456788,
+    "associated_colleges": [
+      {
+        "$oid": "628dfd41ef796e8f757a5c13"
+      }
+    ],
+    "associated_source_value": null,
+    "user_name": "tes4@hn.com",
+    "first_name": "Tets",
+    "middle_name": "",
+    "last_name": "",
+    "last_accessed": {
+      "$date": "2022-09-21T12:32:32.133Z"
+    },
+    "created_on": {
+      "$date": "2022-09-21T12:32:32.133Z"
+    },
+    "created_by": {
+      "$oid": "6290c40ee87e304387308492"
+    },
+    "role": {
+      "role_name": "college_admin",
+      "role_id": {
+        "$oid": "624d55801cb1f3aa797c066a"
+      }
+    },
+    "is_activated": true,
+    "password": "$2b$12$1zGHjOo6iWLXFR0TKkOzIO5oN/.3Tl/DJdPgs/u2qKGvibjm4OIKK"
+  },
+  {
+    "_id": {
+      "$oid": "6333f3560db7a8fd56c9002d"
+    },
+    "email": "patejato@mailo.icu",
+    "mobile_number": 4561237890,
+    "associated_colleges": [
+      {
+        "$oid": "628dfd41ef796e8f757a5c13"
+      },
+      {
+        "$oid": "62de19f5f3a898e4275962b6"
+      }
+    ],
+    "associated_source_value": null,
+    "user_name": "patejato@mailo.icu",
+    "first_name": "Sonu",
+    "middle_name": "",
+    "last_name": "Pawar",
+    "last_accessed": {
+      "$date": "2022-09-28T07:10:14.386Z"
+    },
+    "created_on": {
+      "$date": "2022-09-28T07:10:14.386Z"
+    },
+    "created_by": {
+      "$oid": "628dfb044d5e00f51f14f115"
+    },
+    "role": {
+      "role_name": "client_manager",
+      "role_id": {
+        "$oid": "624d55461cb1f3aa797c0668"
+      }
+    },
+    "is_activated": true,
+    "password": "$2b$12$omm2iAEEOe5q3bHfLm5KIuUtco0OpyYKf/6xkvTeNKt1BfS/SkOjm"
+  },
+  {
+    "_id": {
+      "$oid": "63341afcba7d3688001af1d4"
+    },
+    "email": "feroj@gmail.com",
+    "mobile_number": 2345677654,
+    "associated_colleges": [
+      {
+        "$oid": "628dfd41ef796e8f757a5c13"
+      }
+    ],
+    "associated_source_value": null,
+    "user_name": "feroj@gmail.com",
+    "first_name": "Feroj",
+    "middle_name": "",
+    "last_name": "",
+    "last_accessed": {
+      "$date": "2022-09-28T09:59:24.854Z"
+    },
+    "created_on": {
+      "$date": "2022-09-28T09:59:24.854Z"
+    },
+    "created_by": {
+      "$oid": "6290c40ee87e304387308492"
+    },
+    "role": {
+      "role_name": "college_counselor",
+      "role_id": {
+        "$oid": "624d55ea1cb1f3aa797c066c"
+      }
+    },
+    "is_activated": true,
+    "password": "$2b$12$PP1K2v8W6rYnpqs/Zp9/8uTrHHubPGpvfd2vHl33XYy3RPwSeMb3.",
+    "last_activity": {
+      "$date": "2022-11-18T05:30:24.153Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "63341b15ba7d3688001af1d5"
+    },
+    "email": "gaurav@example.com",
+    "mobile_number": 1234567890,
+    "associated_colleges": [
+      {
+        "$oid": "628dfd41ef796e8f757a5c13"
+      }
+    ],
+    "associated_source_value": null,
+    "user_name": "gaurav@example.com",
+    "first_name": "Gaurav",
+    "middle_name": "",
+    "last_name": "Dubey",
+    "last_accessed": {
+      "$date": "2022-09-28T09:59:49.431Z"
+    },
+    "created_on": {
+      "$date": "2022-09-28T09:59:49.431Z"
+    },
+    "created_by": {
+      "$oid": "6290c40ee87e304387308492"
+    },
+    "role": {
+      "role_name": "college_publisher_console",
+      "role_id": {
+        "$oid": "624d55fe1cb1f3aa797c066d"
+      }
+    },
+    "is_activated": true,
+    "password": "$2b$12$UCRcc/siSr.HYdhsfU22BuPMSecpeWnZ9mHQVWhFYqaevNTi89mU6"
+  },
+  {
+    "_id": {
+      "$oid": "63341b2dba7d3688001af1d6"
+    },
+    "email": "asa.rahman@shiftboolean.com",
+    "mobile_number": 1234567890,
+    "associated_colleges": [
+      {
+        "$oid": "628dfd41ef796e8f757a5c13"
+      }
+    ],
+    "associated_source_value": null,
+    "user_name": "asa.rahman@shiftboolean.com",
+    "first_name": "Asadul",
+    "middle_name": "",
+    "last_name": "Rahman",
+    "last_accessed": {
+      "$date": "2022-09-28T10:00:13.599Z"
+    },
+    "created_on": {
+      "$date": "2022-09-28T10:00:13.599Z"
+    },
+    "created_by": {
+      "$oid": "6290c40ee87e304387308492"
+    },
+    "role": {
+      "role_name": "college_counselor",
+      "role_id": {
+        "$oid": "624d55ea1cb1f3aa797c066c"
+      }
+    },
+    "is_activated": true,
+    "password": "$2b$12$XP5mevhpsAyHD2oHTZ8O8elld/aQhtkYXkJfSWxa.aJ2E3eiaO7Q.",
+    "last_activity": {
+      "$date": "2022-11-20T18:13:28.925Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "63341b326bbe7b27d36cdce1"
+    },
+    "email": "bonixiv380@edxplus.com",
+    "mobile_number": 1234567890,
+    "associated_colleges": [
+      {
+        "$oid": "628dfd41ef796e8f757a5c13"
+      },
+      {
+        "$oid": "62d8e15c6cfb37811e0b4cbe"
+      }
+    ],
+    "associated_source_value": null,
+    "user_name": "bonixiv380@edxplus.com",
+    "first_name": "Akash",
+    "middle_name": "",
+    "last_name": "Sakpal",
+    "last_accessed": {
+      "$date": "2022-09-28T10:00:18.659Z"
+    },
+    "created_on": {
+      "$date": "2022-09-28T10:00:18.659Z"
+    },
+    "created_by": {
+      "$oid": "6290c40ee87e304387308492"
+    },
+    "role": {
+      "role_name": "college_counselor",
+      "role_id": {
+        "$oid": "624d55ea1cb1f3aa797c066c"
+      }
+    },
+    "is_activated": true,
+    "password": "$2b$12$SkOFXrHSzloSjFCxLvCaJOmGY9tG6o70p3h2Hepa0iT.n/X/9kshC",
+    "last_activity": {
+      "$date": "2022-11-20T03:02:14.317Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "63341b3bba7d3688001af1d7"
+    },
+    "email": "gauravcon@example.com",
+    "mobile_number": 1234567890,
+    "associated_colleges": [
+      {
+        "$oid": "628dfd41ef796e8f757a5c13"
+      }
+    ],
+    "associated_source_value": null,
+    "user_name": "gauravcon@example.com",
+    "first_name": "Gaurav",
+    "middle_name": "",
+    "last_name": "Dubey",
+    "last_accessed": {
+      "$date": "2022-09-28T10:00:27.290Z"
+    },
+    "created_on": {
+      "$date": "2022-09-28T10:00:27.290Z"
+    },
+    "created_by": {
+      "$oid": "6290c40ee87e304387308492"
+    },
+    "role": {
+      "role_name": "college_counselor",
+      "role_id": {
+        "$oid": "624d55ea1cb1f3aa797c066c"
+      }
+    },
+    "is_activated": true,
+    "password": "$2b$12$GQwPnlVW3M1lP0YBaJc1yuWLYgpOYub7LLTZMCQ0dBcorf99e9H6m",
+    "last_activity": {
+      "$date": "2022-11-20T16:27:13.391Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "63341b496bbe7b27d36cdce2"
+    },
+    "email": "feroj.web@gmail.com",
+    "mobile_number": 2345678755,
+    "associated_colleges": [
+      {
+        "$oid": "628dfd41ef796e8f757a5c13"
+      }
+    ],
+    "associated_source_value": null,
+    "user_name": "feroj.web@gmail.com",
+    "first_name": "Feroj",
+    "middle_name": "",
+    "last_name": "",
+    "last_accessed": {
+      "$date": "2022-09-28T10:00:41.962Z"
+    },
+    "created_on": {
+      "$date": "2022-09-28T10:00:41.962Z"
+    },
+    "created_by": {
+      "$oid": "6290c40ee87e304387308492"
+    },
+    "role": {
+      "role_name": "college_counselor",
+      "role_id": {
+        "$oid": "624d55ea1cb1f3aa797c066c"
+      }
+    },
+    "is_activated": true,
+    "password": "$2b$12$OU6lGVQPM8BAYIfxJ1Mhd.VkuSHbsz2i.MnELcQ0VieVTzRZJJ/sG",
+    "last_activity": {
+      "$date": "2022-11-17T10:52:10.384Z"
+    },
+    "course_assign": [
+      "MBA"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "63341bb6ba7d3688001af1d8"
+    },
+    "email": "pub@example.com",
+    "mobile_number": 1234567890,
+    "associated_colleges": [
+      {
+        "$oid": "628dfd41ef796e8f757a5c13"
+      }
+    ],
+    "associated_source_value": null,
+    "user_name": "pub@example.com",
+    "first_name": "Gaurav",
+    "middle_name": "",
+    "last_name": "Pub",
+    "last_accessed": {
+      "$date": "2022-09-28T10:02:30Z"
+    },
+    "created_on": {
+      "$date": "2022-09-28T10:02:30Z"
+    },
+    "created_by": {
+      "$oid": "6290c40ee87e304387308492"
+    },
+    "role": {
+      "role_name": "college_publisher_console",
+      "role_id": {
+        "$oid": "624d55fe1cb1f3aa797c066d"
+      }
+    },
+    "is_activated": true,
+    "password": "$2b$12$6XswmUiovEUbRgTI.yzhveRVT1ZEUfICSWnxa8fghkZ/WP0bH4QmO"
+  },
+  {
+    "_id": {
+      "$oid": "63341bf76bbe7b27d36cdce3"
+    },
+    "email": "huhuhu@fmail.com",
+    "mobile_number": 8564268954,
+    "associated_colleges": [
+      {
+        "$oid": "628dfd41ef796e8f757a5c13"
+      },
+      {
+        "$oid": "62d8e15c6cfb37811e0b4cbe"
+      }
+    ],
+    "associated_source_value": null,
+    "user_name": "huhuhu@fmail.com",
+    "first_name": "Virendra",
+    "middle_name": "",
+    "last_name": "Chaudhary",
+    "last_accessed": {
+      "$date": "2022-09-28T10:03:35.460Z"
+    },
+    "created_on": {
+      "$date": "2022-09-28T10:03:35.460Z"
+    },
+    "created_by": {
+      "$oid": "6290c40ee87e304387308492"
+    },
+    "role": {
+      "role_name": "college_counselor",
+      "role_id": {
+        "$oid": "624d55ea1cb1f3aa797c066c"
+      }
+    },
+    "is_activated": true,
+    "password": "$2b$12$1mb6LIcJSXihe7FttaAwfO9TC19aWdYMOWJ3Y/vz0J0o.mtXlZAYi",
+    "last_activity": {
+      "$date": "2022-11-20T17:35:59.917Z"
+    },
+    "course_assign": [
+      "Bachelor",
+      "BBA"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "63353f4aa64a891c8a81ac68"
+    },
+    "email": "f@shiftboolean.com",
+    "mobile_number": 2334556657,
+    "associated_colleges": [
+      {
+        "$oid": "628dfd41ef796e8f757a5c13"
+      }
+    ],
+    "associated_source_value": "Gtcrm",
+    "user_name": "f@shiftboolean.com",
+    "first_name": "Feroj",
+    "middle_name": "",
+    "last_name": "Alam",
+    "last_accessed": {
+      "$date": "2022-09-29T06:46:34.417Z"
+    },
+    "created_on": {
+      "$date": "2022-09-29T06:46:34.417Z"
+    },
+    "created_by": {
+      "$oid": "6290c40ee87e304387308492"
+    },
+    "role": {
+      "role_name": "college_publisher_console",
+      "role_id": {
+        "$oid": "624d55fe1cb1f3aa797c066d"
+      }
+    },
+    "is_activated": true,
+    "password": "$2b$12$m58GTYHgi7qZOMzURJkXGOc6NXwLer5iGUBXVvcilCznMjnf3zJmi"
+  },
+  {
+    "_id": {
+      "$oid": "63353faca64a891c8a81ac69"
+    },
+    "email": "falam@gmail.com",
+    "mobile_number": 2345667787,
+    "associated_colleges": [
+      {
+        "$oid": "628dfd41ef796e8f757a5c13"
+      }
+    ],
+    "associated_source_value": "Gtcrm",
+    "user_name": "falam@gmail.com",
+    "first_name": "Feroj",
+    "middle_name": "",
+    "last_name": "",
+    "last_accessed": {
+      "$date": "2022-09-29T06:48:12.460Z"
+    },
+    "created_on": {
+      "$date": "2022-09-29T06:48:12.460Z"
+    },
+    "created_by": {
+      "$oid": "6290c40ee87e304387308492"
+    },
+    "role": {
+      "role_name": "college_publisher_console",
+      "role_id": {
+        "$oid": "624d55fe1cb1f3aa797c066d"
+      }
+    },
+    "is_activated": true,
+    "password": "$2b$12$d6vDvH2Wma6gn2V0gmF5UOLR3ZCuLBrlZAgkQot58xrDjSnswH0Eu"
+  },
+  {
+    "_id": {
+      "$oid": "63356755a64a891c8a81ac6d"
+    },
+    "email": "apollof@example.com",
+    "mobile_number": 6565656565,
+    "associated_colleges": [
+      {
+        "$oid": "628dfd41ef796e8f757a5c13"
+      }
+    ],
+    "associated_source_value": "Api",
+    "user_name": "apollof@example.com",
+    "first_name": "Sdsdsfff",
+    "middle_name": "",
+    "last_name": "",
+    "last_accessed": {
+      "$date": "2022-09-29T09:37:25.430Z"
+    },
+    "created_on": {
+      "$date": "2022-09-29T09:37:25.430Z"
+    },
+    "created_by": {
+      "$oid": "6290c40ee87e304387308492"
+    },
+    "role": {
+      "role_name": "college_publisher_console",
+      "role_id": {
+        "$oid": "624d55fe1cb1f3aa797c066d"
+      }
+    },
+    "is_activated": true,
+    "password": "$2b$12$e/JQhoyFmW5lq4ynTMOr/eO4RQ3mmkLXGOgcjNECorbKAUa9m8Vq."
+  },
+  {
+    "_id": {
+      "$oid": "6343befd153804279c0e4542"
+    },
+    "email": "poxola2969@migonom.com",
+    "mobile_number": 1233445677,
+    "associated_colleges": [
+      {
+        "$oid": "628dfd41ef796e8f757a5c13"
+      }
+    ],
+    "associated_source_value": null,
+    "user_name": "poxola2969@migonom.com",
+    "first_name": "Feroj",
+    "middle_name": "",
+    "last_name": "Alam",
+    "last_accessed": {
+      "$date": "2022-10-10T06:43:09.591Z"
+    },
+    "created_on": {
+      "$date": "2022-10-10T06:43:09.591Z"
+    },
+    "created_by": {
+      "$oid": "6290c40ee87e304387308492"
+    },
+    "role": {
+      "role_name": "college_admin",
+      "role_id": {
+        "$oid": "624d55801cb1f3aa797c066a"
+      }
+    },
+    "is_activated": true,
+    "password": "$2b$12$NyUUJpYntzZhfvEuGy63ROiyYC.M9DQsvho807wClxTPUuz.sZCMO"
+  },
+  {
+    "_id": {
+      "$oid": "63470b37d09cebe72d0e3cfb"
+    },
+    "email": "new@gmail.com",
+    "mobile_number": 5555555555,
+    "associated_colleges": [
+      {
+        "$oid": "628dfd41ef796e8f757a5c13"
+      }
+    ],
+    "associated_source_value": null,
+    "user_name": "new@gmail.com",
+    "first_name": "New",
+    "middle_name": "",
+    "last_name": "User",
+    "last_accessed": {
+      "$date": "2022-10-12T18:45:11.617Z"
+    },
+    "created_on": {
+      "$date": "2022-10-12T18:45:11.617Z"
+    },
+    "created_by": {
+      "$oid": "6290c40ee87e304387308492"
+    },
+    "role": {
+      "role_name": "college_head_counselor",
+      "role_id": {
+        "$oid": "624d55d51cb1f3aa797c066b"
+      }
+    },
+    "is_activated": true,
+    "password": "$2b$12$9Gx9dTssSOmb8.5urb4hT.ptJfagWDdB0qwA.oruuKYBToIztVgpi"
+  },
+  {
+    "_id": {
+      "$oid": "6350ec8ff3d17d5192f2bef7"
+    },
+    "email": "test@gmail.com",
+    "mobile_number": 2334566575,
+    "associated_colleges": [
+      {
+        "$oid": "628dfd41ef796e8f757a5c13"
+      }
+    ],
+    "associated_source_value": null,
+    "user_name": "test@gmail.com",
+    "first_name": "Test",
+    "middle_name": "",
+    "last_name": "",
+    "last_accessed": {
+      "$date": "2022-10-20T06:37:03.694Z"
+    },
+    "created_on": {
+      "$date": "2022-10-20T06:37:03.694Z"
+    },
+    "created_by": {
+      "$oid": "6290c40ee87e304387308492"
+    },
+    "role": {
+      "role_name": "college_admin",
+      "role_id": {
+        "$oid": "624d55801cb1f3aa797c066a"
+      }
+    },
+    "is_activated": true,
+    "password": "$2b$12$wGlKviYysw9nhjmUDDgIZO0nQYpKkNu6Auc08SRkpjuxqR2Ff8cr2"
+  },
+  {
+    "_id": {
+      "$oid": "6363bb0e1bc75a2d2e53ad85"
+    },
+    "email": "testrk@12.com",
+    "mobile_number": 3635454464,
+    "associated_colleges": [
+      {
+        "$oid": "628dfd41ef796e8f757a5c13"
+      }
+    ],
+    "associated_source_value": null,
+    "user_name": "testrk@12.com",
+    "first_name": "Test",
+    "middle_name": "",
+    "last_name": "Rk",
+    "last_accessed": {
+      "$date": "2022-11-03T12:58:54.587Z"
+    },
+    "created_on": {
+      "$date": "2022-11-03T12:58:54.587Z"
+    },
+    "created_by": {
+      "$oid": "6290c40ee87e304387308492"
+    },
+    "role": {
+      "role_name": "college_admin",
+      "role_id": {
+        "$oid": "624d55801cb1f3aa797c066a"
+      }
+    },
+    "is_activated": true,
+    "password": "$2b$12$6a9UJ.a1sy23zE1okcWbOu6BujWm2I0cPinfm.UlNNkLuRJuR3IUi"
+  },
+  {
+    "_id": {
+      "$oid": "6363bbbb3a7c9c720d589e77"
+    },
+    "email": "for@gmail.com",
+    "mobile_number": 1234678976,
+    "associated_colleges": [
+      {
+        "$oid": "628dfd41ef796e8f757a5c13"
+      }
+    ],
+    "associated_source_value": null,
+    "user_name": "for@gmail.com",
+    "first_name": "For",
+    "middle_name": "",
+    "last_name": "Test",
+    "last_accessed": {
+      "$date": "2022-11-03T13:01:47.754Z"
+    },
+    "created_on": {
+      "$date": "2022-11-03T13:01:47.754Z"
+    },
+    "created_by": {
+      "$oid": "6290c40ee87e304387308492"
+    },
+    "role": {
+      "role_name": "college_admin",
+      "role_id": {
+        "$oid": "624d55801cb1f3aa797c066a"
+      }
+    },
+    "is_activated": true,
+    "password": "$2b$12$lpYaaHj6ADF3bnDzx0rfre3yVLe/3WpahSu9gefgzV15CJCeh4Umy"
+  },
+  {
+    "_id": {
+      "$oid": "6363be343a7c9c720d589e78"
+    },
+    "email": "abcd@test.com",
+    "mobile_number": 1234567898,
+    "associated_colleges": [
+      {
+        "$oid": "628dfd41ef796e8f757a5c13"
+      }
+    ],
+    "associated_source_value": null,
+    "user_name": "abcd@test.com",
+    "first_name": "Abcd",
+    "middle_name": "",
+    "last_name": "",
+    "last_accessed": {
+      "$date": "2022-11-03T13:12:20.962Z"
+    },
+    "created_on": {
+      "$date": "2022-11-03T13:12:20.962Z"
+    },
+    "created_by": {
+      "$oid": "6290c40ee87e304387308492"
+    },
+    "role": {
+      "role_name": "college_admin",
+      "role_id": {
+        "$oid": "624d55801cb1f3aa797c066a"
+      }
+    },
+    "is_activated": true,
+    "password": "$2b$12$Vms3TLa21DSN63pgBuBaku4s8QauJQrblKUf32/Ej7Lg5nLeyx9XC"
+  },
+  {
+    "_id": {
+      "$oid": "63688ac5413719eeaef37aa0"
+    },
+    "email": "testUser@gmail.com",
+    "mobile_number": 2345674654,
+    "associated_colleges": [
+      {
+        "$oid": "628dfd41ef796e8f757a5c13"
+      }
+    ],
+    "associated_source_value": null,
+    "user_name": "testUser@gmail.com",
+    "first_name": "Test",
+    "middle_name": "",
+    "last_name": "User",
+    "last_accessed": {
+      "$date": "2022-11-07T04:34:13.390Z"
+    },
+    "created_on": {
+      "$date": "2022-11-07T04:34:13.390Z"
+    },
+    "created_by": {
+      "$oid": "6290c40ee87e304387308492"
+    },
+    "role": {
+      "role_name": "college_admin",
+      "role_id": {
+        "$oid": "624d55801cb1f3aa797c066a"
+      }
+    },
+    "is_activated": true,
+    "password": "$2b$12$QDTl5ZUjH9jXgelnLxSxaukRwTtzIMakTO8tRnczz7pw9y4nEdeRm"
+  },
+  {
+    "_id": {
+      "$oid": "636e1795f0d5548a93768197"
+    },
+    "email": "tes4@gmail.com",
+    "mobile_number": 2235567867,
+    "associated_colleges": [
+      {
+        "$oid": "628dfd41ef796e8f757a5c13"
+      }
+    ],
+    "associated_source_value": null,
+    "user_name": "tes4@gmail.com",
+    "first_name": "Test",
+    "middle_name": "",
+    "last_name": "",
+    "last_accessed": {
+      "$date": "2022-11-11T09:36:21.674Z"
+    },
+    "created_on": {
+      "$date": "2022-11-11T09:36:21.674Z"
+    },
+    "created_by": {
+      "$oid": "6290c40ee87e304387308492"
+    },
+    "role": {
+      "role_name": "college_admin",
+      "role_id": {
+        "$oid": "624d55801cb1f3aa797c066a"
+      }
+    },
+    "is_activated": true,
+    "password": "$2b$12$7C.XYRDvzBPgfRmN6c.tiOOdgQw3PtpJxGm2o6oVntPiTbSElj2IG"
+  },
+  {
+    "_id": {
+      "$oid": "636e181ea664ec547433c0b1"
+    },
+    "email": "testNew@gmail.com",
+    "mobile_number": 2334567757,
+    "associated_colleges": [
+      {
+        "$oid": "628dfd41ef796e8f757a5c13"
+      }
+    ],
+    "associated_source_value": null,
+    "user_name": "testNew@gmail.com",
+    "first_name": "Test",
+    "middle_name": "",
+    "last_name": "New",
+    "last_accessed": {
+      "$date": "2022-11-11T09:38:38.793Z"
+    },
+    "created_on": {
+      "$date": "2022-11-11T09:38:38.793Z"
+    },
+    "created_by": {
+      "$oid": "6290c40ee87e304387308492"
+    },
+    "role": {
+      "role_name": "college_admin",
+      "role_id": {
+        "$oid": "624d55801cb1f3aa797c066a"
+      }
+    },
+    "is_activated": true,
+    "password": "$2b$12$5iVROo78oGnD3LJMrZf39.sgyy6.dUyYAuWYz9Vf1J/nJ.z6o7H1a"
+  },
+  {
+    "_id": {
+      "$oid": "636e18b26f3130ca320122c3"
+    },
+    "email": "testNow@gmail.com",
+    "mobile_number": 3458866575,
+    "associated_colleges": [
+      {
+        "$oid": "628dfd41ef796e8f757a5c13"
+      }
+    ],
+    "associated_source_value": null,
+    "user_name": "testNow@gmail.com",
+    "first_name": "Test",
+    "middle_name": "",
+    "last_name": "Now",
+    "last_accessed": {
+      "$date": "2022-11-11T09:41:06.699Z"
+    },
+    "created_on": {
+      "$date": "2022-11-11T09:41:06.699Z"
+    },
+    "created_by": {
+      "$oid": "6290c40ee87e304387308492"
+    },
+    "role": {
+      "role_name": "college_admin",
+      "role_id": {
+        "$oid": "624d55801cb1f3aa797c066a"
+      }
+    },
+    "is_activated": true,
+    "password": "$2b$12$XuYlAJEFYUnjZMI0xFKNdeasijysr8B72gNVmM/S1uIbM/1g8S3Rm"
+  },
+  {
+    "_id": {
+      "$oid": "636e194f6f3130ca320122c4"
+    },
+    "email": "test5@gmail.com",
+    "mobile_number": 3456788765,
+    "associated_colleges": [
+      {
+        "$oid": "628dfd41ef796e8f757a5c13"
+      }
+    ],
+    "associated_source_value": null,
+    "user_name": "test5@gmail.com",
+    "first_name": "Test",
+    "middle_name": "",
+    "last_name": "User",
+    "last_accessed": {
+      "$date": "2022-11-11T09:43:43.524Z"
+    },
+    "created_on": {
+      "$date": "2022-11-11T09:43:43.524Z"
+    },
+    "created_by": {
+      "$oid": "6290c40ee87e304387308492"
+    },
+    "role": {
+      "role_name": "college_admin",
+      "role_id": {
+        "$oid": "624d55801cb1f3aa797c066a"
+      }
+    },
+    "is_activated": false,
+    "password": "$2b$12$e9VIs0DbHa9noOXZGkVKbuVIadqLLIHkK6BHjFQOhyUz6mRXI0OAm"
+  },
+  {
+    "_id": {
+      "$oid": "63736bc9133b46d7fa75d49a"
+    },
+    "email": "nw@gmail.com",
+    "mobile_number": 3445678867,
+    "associated_colleges": [
+      {
+        "$oid": "628dfd41ef796e8f757a5c13"
+      }
+    ],
+    "associated_source_value": null,
+    "user_name": "nw@gmail.com",
+    "first_name": "Test",
+    "middle_name": "",
+    "last_name": "New",
+    "last_accessed": {
+      "$date": "2022-11-15T10:36:57.316Z"
+    },
+    "created_on": {
+      "$date": "2022-11-15T10:36:57.316Z"
+    },
+    "created_by": {
+      "$oid": "6290c40ee87e304387308492"
+    },
+    "role": {
+      "role_name": "college_admin",
+      "role_id": {
+        "$oid": "624d55801cb1f3aa797c066a"
+      }
+    },
+    "is_activated": true,
+    "password": "$2b$12$W2cbw/raRxZV/.OH6kTZRuwFf0P0bkqqA8xYk22E61q8RFUfdOgp2"
+  },
+  {
+    "_id": {
+      "$oid": "63747352133b46d7fa75d4a3"
+    },
+    "email": "fahim@gmail.com",
+    "mobile_number": 9898989898,
+    "associated_colleges": [
+      {
+        "$oid": "628dfd41ef796e8f757a5c13"
+      }
+    ],
+    "associated_source_value": null,
+    "user_name": "fahim@gmail.com",
+    "first_name": "Fahim",
+    "middle_name": "",
+    "last_name": "",
+    "last_accessed": {
+      "$date": "2022-11-16T05:21:22.235Z"
+    },
+    "created_on": {
+      "$date": "2022-11-16T05:21:22.235Z"
+    },
+    "created_by": {
+      "$oid": "6290c40ee87e304387308492"
+    },
+    "role": {
+      "role_name": "college_head_counselor",
+      "role_id": {
+        "$oid": "624d55d51cb1f3aa797c066b"
+      }
+    },
+    "is_activated": true,
+    "password": "$2b$12$9xQHBhx03Dh3YJnbekl5VugD2dpRHPixGY8naLmg.3eGknbW/6oOO"
+  },
+  {
+    "_id": {
+      "$oid": "63765877c9f6fb7624a72099"
+    },
+    "email": "fahimas@gmail.com",
+    "mobile_number": 9898989898,
+    "associated_colleges": [
+      {
+        "$oid": "628dfd41ef796e8f757a5c13"
+      }
+    ],
+    "associated_source_value": null,
+    "user_name": "fahimas@gmail.com",
+    "first_name": "Fahim",
+    "middle_name": "",
+    "last_name": "Ashhab",
+    "last_accessed": {
+      "$date": "2022-11-17T15:51:19.375Z"
+    },
+    "created_on": {
+      "$date": "2022-11-17T15:51:19.375Z"
+    },
+    "created_by": {
+      "$oid": "6290c40ee87e304387308492"
+    },
+    "role": {
+      "role_name": "college_counselor",
+      "role_id": {
+        "$oid": "624d55ea1cb1f3aa797c066c"
+      }
+    },
+    "is_activated": true,
+    "password": "$2b$12$Xa9pmkHCls7ngW//ueq/UuF8e8f72guo6Td8SyzRMy7S8FCE9aMqu",
+    "last_activity": {
+      "$date": "2022-11-22T11:27:50.586Z"
+    }
+  }
+]

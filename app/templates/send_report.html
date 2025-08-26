@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="en">
+ <head>
+  <meta charset="utf-8"/>
+  <meta content="IE=edge" http-equiv="X-UA-Compatible"/>
+  <meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+  <link href="https://fonts.googleapis.com/css?family=Cabin" rel="stylesheet" type="text/css"/>
+  <style>
+   * {
+				margin: 0;
+				padding: 0;
+				box-sizing: border-box;
+			}
+			body {
+				font-family: sans-serif;
+				background-color: #ace7e2;
+				color: #40507a;
+			}
+			main {
+				display: flex;
+				flex-direction: row;
+				justify-content: center;
+				padding: 2rem 0;
+			}
+
+			a {
+				text-decoration: none;
+			}
+			b {
+				font-weight: 1.2rem;
+				color: rgb(71, 71, 71);
+			}
+			.container {
+				width: 90%;
+				background-color: white;
+				padding: 2rem 1.5rem;
+				border-radius: 1rem;
+				box-shadow: 0px 0px 10px rgb(196, 196, 196);
+			}
+			.heading > h1 {
+				color: #506bec;
+			}
+
+			.main-content > p {
+				margin-top: 1rem;
+			}
+			article > div {
+				margin: 5px 0;
+			}
+			@media screen and (max-width: 778px) {
+				.container {
+					width: 95%;
+				}
+			}
+           .button-container {
+                margin: 30px 0;
+              }
+           #login-button {
+             padding: 10px 25px;
+             font-size: 20px;
+             border-radius: 5px;
+             background-color: #506bec;
+             border: none;
+             color: white;
+             text-decoration: none;
+           }
+  </style>
+ </head>
+ <body>
+  <main>
+   <div class="container">
+    <div class="heading">
+     <h1 id="welcome">
+      The Apollo University
+     </h1>
+    </div>
+    <div class="main-content">
+     <br/>
+     <article>
+      <p id="dear">
+       Dear user,
+      </p>
+     </article>
+     <p class="button-text">
+      Request of download report is successfully completed. Please click the below button to download report. <br />Note: Download report will be valid till 24 hours.
+     </p>
+     <div class="button-container" id="button-container">
+      <a href="https://dev1.shiftboolean.com/student/email/dkper/redirect/gAAAAABmVElXqjS_1wmIAEXs9KXIsMQKlMRwa2j23ofk3g3VtM0DE7D-JR78g6PQwUfK7GHTXiQpieHMeQfMLv_sJSxouaRebI06IoBPItOYi8fV_bFn4VhgbBlUoB336MbbbX1ToHGiqQZjtW5nU2v04_YhBhINh1cyU8XfiW0wl5bZufNP4g3Prv4ejdpN3tZIXHO8G8LGWROkNry7S1mSFgCmF5NWAw=="
+         id="login-button">
+       Verify and Start Your Application
+      </a>
+     </div>
+     <br/>
+     <div class="closing-container">
+      <p class="text">
+       Thanks
+      </p>
+      <p class="text">
+       Admission office
+      </p>
+      <p class="text" id="log">
+       The Apollo University
+      </p>
+     </div>
+    </div>
+   </div>
+  </main>
+ </body>
+</html>

@@ -1,0 +1,221 @@
+<!DOCTYPE html>
+<html lang="en">
+ <head>
+  <meta charset="utf-8"/>
+  <meta content="IE=edge" http-equiv="X-UA-Compatible"/>
+  <meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+  <link href="https://fonts.googleapis.com/css?family=Cabin" rel="stylesheet" type="text/css"/>
+  <style>
+   * {
+             margin: 0;
+             padding: 0;
+             box-sizing: border-box;
+          }
+          body {
+             font-family: sans-serif;
+             background-color: #ace7e2;
+             color: #40507a;
+          }
+          main {
+             display: flex;
+             flex-direction: row;
+             justify-content: center;
+             padding: 2rem 0;
+          }
+
+          a {
+             text-decoration: none;
+          }
+          b {
+             font-weight: 1.2rem;
+             color: rgb(71, 71, 71);
+          }
+          .container {
+             width: 90%;
+             background-color: white;
+             padding: 2rem 1.5rem;
+             border-radius: 1rem;
+             box-shadow: 0px 0px 10px rgb(196, 196, 196);
+          }
+          .heading > h1 {
+             color: #506bec;
+          }
+
+          .main-content > p {
+             margin-top: 1rem;
+          }
+          article > div {
+             margin: 5px 0;
+          }
+          table {
+             border-collapse: collapse;
+             width: 100%;
+             margin: 15px 0;
+          }
+          table, th, td {
+             border: 1px solid #ddd;
+          }
+          th, td {
+             padding: 8px;
+             text-align: left;
+          }
+          th {
+             background-color: #f2f2f2;
+          }
+          .section-header {
+             margin-top: 15px;
+             font-weight: bold;
+             color: #506bec;
+          }
+          @media screen and (max-width: 778px) {
+             .container {
+                width: 95%;
+             }
+          }
+          .poc-table {
+            display: none;
+          }
+          .account-managers {
+            display: none;
+          }
+  </style>
+ </head>
+ <body>
+  <main>
+   <div class="container">
+    <div class="heading">
+     <h1 id="welcome">
+      Headstart
+     </h1>
+    </div>
+    <div class="main-content">
+     <br/>
+     <article>
+      <p id="dear">
+       Dear Admin,
+      </p>
+     </article>
+     <p id="intro-text">
+      We are pleased to inform you that a new entity has been successfully added to our system.
+     </p>
+     <br/>
+     <article>
+      <div class="section-header" id="entity-header">
+       Entity Information:
+      </div>
+      <div>
+       <p>
+        <b>
+         Name:
+        </b>
+        <span id="entity-name">
+         Delta University
+        </span>
+       </p>
+      </div>
+      <div>
+       <p>
+        <b>
+         Email:
+        </b>
+        <span id="entity-email">
+         randomuser245@yopmail.com
+        </span>
+       </p>
+      </div>
+      <div>
+       <p>
+        <b>
+         Phone:
+        </b>
+        <span id="entity-phone">
+         9876543210
+        </span>
+       </p>
+      </div>
+      <div id="website-container" style="display: none;">
+       <p>
+        <b>
+         Website:
+        </b>
+        <a href="#" id="entity-website">
+         https://dev3.university.edu/
+        </a>
+       </p>
+      </div>
+      <br/>
+      <div class="section-header">
+       Address:
+      </div>
+      <div>
+       <p id="address-line1">
+        Building 5, Level 3
+       </p>
+       <p id="address-line2">
+        Tech Park, Sector 21
+       </p>
+       <p id="address-city-state">
+        Pune, MH
+       </p>
+       <p id="address-country">
+        India
+       </p>
+      </div>
+      <br/>
+      <div class="section-header">
+       Points of Contact:
+      </div>
+      <table class="">
+       <tr>
+        <th>
+         Name
+        </th>
+        <th>
+         Email
+        </th>
+        <th>
+         Phone Number
+        </th>
+       </tr>
+       <tbody id="poc-tbody">
+        <!-- POC rows will be inserted here dynamically -->
+       </tbody>
+      </table>
+      <br class=""/>
+      <div class="section-header account-managers">
+       Assigned Account Managers:
+      </div>
+      <div class="account-managers">
+       <p>
+        The following account managers have been assigned:
+       </p>
+       <div id="account-manager-list">
+        <!-- Account manager entries will be inserted here dynamically -->
+       </div>
+      </div>
+      <br class="account-managers"/>
+     </article>
+     <p>
+      Please ensure that all necessary follow-up actions are taken to complete the onboarding process. You can add additional configurations through the Dashboard under the
+      <span id="entity-type">
+       Entity
+      </span>
+      Management section.
+     </p>
+     <br/>
+     <div class="closing-container">
+      <p class="text">
+       Thanks,
+      </p>
+      <p class="text">
+       Administrator
+      </p>
+      <p class="text" id="log">
+       Headstart
+      </p>
+     </div>
+    </div>
+   </div>
+  </main>
+ </body>
+</html>

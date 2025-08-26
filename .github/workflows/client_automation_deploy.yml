@@ -1,0 +1,419 @@
+name: Client‑Automation temporary build
+on:
+  pull_request:
+    branches: [ 'develop' ]
+    types: [ opened, synchronize, closed , reopened ]
+  workflow_dispatch:
+
+concurrency:
+  group: client‑automation-${{ github.ref }}
+  cancel-in-progress: false
+
+env:
+  BRANCH_NAME: ${{ github.ref_name }} # get branch name from pull request
+  PR_NUMBER: ${{ github.event.pull_request.number || 'cln123' }}
+  AZURE_WEBAPP_NAME: gtcrm-api-${{ github.event.pull_request.number }} # add GTCRM- prefix to branch name
+  AZURE_WEBAPP_PACKAGE_PATH: '.'      # set this to the path to your web app project, defaults to the repository root
+  RESOURCE_GROUP: gtcrm-api-${{ github.event.pull_request.number }}-rg # add GTCRM- prefix to branch name
+  PYTHON_VERSION: '3.11' # set this to the Python version to use
+
+permissions:
+  contents: read
+  pull-requests: write
+  actions: write
+
+jobs:
+  pre-build:
+    if: |
+      (github.event_name == 'pull_request' && github.event.pull_request.head.ref == 'feature/Client-Automation' && github.event.action != 'closed')
+    runs-on: ubuntu-latest
+    name: Pre-build checks
+    steps:
+      - uses: actions/checkout@v4
+      - name: Login via Azure CLI
+        uses: azure/login@v1
+        with:
+          creds: ${{ secrets.AZURE_CREDENTIALS }}
+
+
+      # Find if a comment exists, then don't create a new one
+      - name: Find Comment
+        uses: peter-evans/find-comment@v3
+        id: find-comment
+        with:
+          issue-number: ${{ github.event.pull_request.number }}
+          comment-author: 'github-actions[bot]'
+          body-includes: 'PR Process Status:'
+
+      # Create or update the comment
+      - name: Create or Update Comment (Build in Progress)
+        uses: peter-evans/create-or-update-comment@v4
+        if: ${{ steps.find-comment.outputs.comment-id == 0 || steps.find-comment.outputs.comment-id == null }}
+        with:
+          issue-number: ${{ github.event.pull_request.number }}
+          comment-id: ${{ steps.find-comment.outputs.comment-id }}
+          edit-mode: replace
+          body: |
+            PR Process Status:
+            :hammer_and_wrench: Build in progress...
+
+
+
+      # Create new resource group for the web app if not exist
+      - name: Create resource group
+        uses: azure/cli@v2
+        with:
+          inlineScript: |
+            az group list --query "[?name=='$RESOURCE_GROUP']" --output tsv
+            if [ $? -ne 0 ]; then
+              echo "Resource group already exist"
+            else
+              echo "Creating resource group"
+              az group create --name ${{ env.RESOURCE_GROUP }} --location "South India"
+            fi
+
+      #      # Create an App Service Plan for the web app if not exist
+      - name: Create App service plan
+        uses: Azure/cli@v2
+        with:
+          inlineScript: |
+            az appservice plan list --query "[?name=='${{ env.AZURE_WEBAPP_NAME }}']" --output tsv
+            if [ $? -ne 0 ]; then
+              echo "App service plan already exist"
+            else
+              echo "Creating App service plan"
+              az appservice plan create --name ${{ env.AZURE_WEBAPP_NAME }}-plan --resource-group ${{ env.RESOURCE_GROUP }} --sku P0V3 --is-linux
+            fi
+
+      # Create Web App if not exist
+      - name: Create Web App
+        uses: Azure/cli@v2
+        with:
+          inlineScript: | # if web app not exit then only create
+            az webapp list --query "[?name=='${{ env.AZURE_WEBAPP_NAME }}']" --output tsv
+            if [ $? -ne 0 ]; then
+              echo "Web app already exist"
+            else
+              echo "Creating Web app"
+              az webapp create --resource-group ${{ env.RESOURCE_GROUP }} --plan ${{ env.AZURE_WEBAPP_NAME }}-plan --name ${{ env.AZURE_WEBAPP_NAME }}-${{ env.PR_NUMBER }} --runtime "PYTHON:3.11" 
+            fi
+
+  build:
+    runs-on: ubuntu-latest
+    needs: pre-build # wait for pre-build to finish
+    steps:
+      - uses: actions/checkout@v4
+      - name: Set up Python environment and install dependencies
+        run: |
+          python -m venv venv
+          source venv/bin/activate
+          pip install -r requirements.txt
+
+      - name: Verify directory structure after checkout
+        run: |
+          ls -la
+          ls -la app/
+
+      - name: Debug ORIGINS
+        run: echo "ORIGINS = ${ORIGINS}"
+        env:
+          ORIGINS: ${{ secrets.ORIGIN }}
+
+      - name: Create environment variables
+        run: |
+          echo "ORIGINS=['http://localhost:3000','http://localhost:3006','http://127.0.0.1:5000','http://127.0.0.1:5500','localhost','dev2.shiftboolean.com','https://dev.shiftboolean.com','dev1.shiftboolean.com','https://test-dev2-client.netlify.app','https://test-dev1-client.netlify.app', 'https://client-automation-student.netlify.app', 'https://client-automation-admin.netlify.app']" >> $GITHUB_ENV
+
+
+      - name: Create toml file from github secrets
+        run: |
+          echo "[general]" >> config.toml  
+          echo "first_superuser = \"${{secrets.FIRST_SUPERUSER}}\"" >> config.toml
+          echo "first_superuser_password = \"${{secrets.FIRST_SUPERUSER_PASSWORD}}\"" >> config.toml
+          echo "environment = \"${{secrets.ENVIRONMENT}}\"" >> config.toml
+          echo "log_level = \"${{secrets.LOG_LEVEL}}\"" >> config.toml
+          echo "origins = ${ORIGINS}" >> config.toml
+          
+          echo "[master_db]" >> config.toml
+          echo "db_username = \"${{secrets.DB_USERNAME_CUSTOM}}\"" >> config.toml
+          echo "db_password = \"${{secrets.DB_PASSWORD_CUSTOM}}\"" >> config.toml
+          echo "db_url = \"${{secrets.DB_URL_CUSTOM}}\"" >> config.toml
+          echo "db_name = \"${{secrets.DB_NAME_CUSTOM}}\"" >> config.toml
+          
+          echo "[base_path]" >> config.toml
+          echo "base_path_api = \"${{secrets.BASE_PATH_API}}\"" >> config.toml
+          echo "base_path = \"${{secrets.BASE_PATH}}\"" >> config.toml
+          echo "base_admin_path = \"${{secrets.BASE_ADMIN_PATH}}\"" >> config.toml
+          echo "user_base_path = \"${{secrets.USER_BASE_PATH}}\"" >> config.toml
+          echo "base_dev_path = \"${{secrets.BASE_DEV_PATH}}\"" >> config.toml
+          
+          echo "[random]" >> config.toml
+          echo "password_str = \"${{secrets.PASSWORD_STR}}\"" >> config.toml
+          echo "random_otp = \"${{secrets.RANDOM_OTP}}\"" >> config.toml
+          echo "random_name = \"${{secrets.RANDOM_NAME}}\"" >> config.toml
+          
+          echo "[authentication]" >> config.toml
+          echo "secret_key_auth = \"${{secrets.SECRET_KEY_AUTH}}\"" >> config.toml
+          echo "algorithm = \"${{secrets.ALGORITHM}}\"" >> config.toml
+          
+          echo "[testing]" >> config.toml
+          echo "test = ${{secrets.TEST}}" >> config.toml
+          
+          echo "[Google_recaptcha]" >> config.toml
+          echo "captcha_site_key = \"${{secrets.CAPTCHA_SITE_KEY}}\"" >> config.toml
+          echo "captcha_secret_key = \"${{secrets.CAPTCHA_SECRET_KEY}}\"" >> config.toml
+          
+          echo "[teamcity_credential]" >> config.toml
+          echo "teamcity_base_path = \"${{secrets.TEAMCITY_BASE_PATH}}\"" >> config.toml
+          echo "teamcity_build_type = \"${{secrets.TEAMCITY_BUILD_TYPE}}\"" >> config.toml
+          echo "teamcity_token = \"${{secrets.TEAMCITY_TOKEN}}\"" >> config.toml
+          
+          echo "[redis_server]" >> config.toml
+          echo "redis_server_url = \"${{secrets.REDIS_SERVER_URL}}\"" >> config.toml
+          
+          echo "[rate_limiting]" >> config.toml
+          echo "rate_limit_type = \"${{secrets.RATE_LIMIT_TYPE}}\"" >> config.toml
+          echo "public_limit_count = ${{secrets.PUBLIC_LIMIT_COUNT}}" >> config.toml
+          echo "private_limit_count = ${{secrets.PRIVATE_LIMIT_COUNT}}" >> config.toml
+          echo "global_limit_count = ${{secrets.GLOBAL_LIMIT_COUNT}}" >> config.toml
+          echo "advance_public_limit_count = ${{secrets.ADVANCE_PUBLIC_LIMIT_COUNT}}" >> config.toml
+          echo "advance_private_limit_count = ${{secrets.ADVANCE_PRIVATE_LIMIT_COUNT}}" >> config.toml
+          echo "advance_global_limit_count = ${{secrets.ADVANCE_GLOBAL_LIMIT_COUNT}}" >> config.toml
+          echo "[pool_db]" >> config.toml
+          echo "max_pool_size = ${{secrets.MAX_POOL_SIZE}}" >> config.toml
+          echo "min_pool_size = ${{secrets.MIN_POOL_SIZE}}" >> config.toml
+          
+          echo "[env]" >> config.toml
+          echo "aws_env = \"${{secrets.AWS_ENV}}\"" >> config.toml
+          
+          
+          echo "[pgsql_db]" >> config.toml
+          echo "pgsql_username = \"${{secrets.PGSQL_USERNAME}}\"" >> config.toml
+          echo "pgsql_password = \"${{secrets.PGSQL_PASSWORD}}\"" >> config.toml
+          echo "pgsql_host = \"${{secrets.PGSQL_HOST}}\"" >> config.toml
+          echo "pgsql_port = ${{secrets.PGSQL_PORT}}" >> config.toml
+          echo "pgsql_name = \"${{secrets.PGSQL_NAME}}\"" >> config.toml
+
+
+
+
+
+      - name: Verify created files before upload
+        run: |
+          ls -la
+          cat config.toml
+
+      - name: Upload artifact for deployment job
+        uses: actions/upload-artifact@v4
+        with:
+          name: python-app
+          path: |
+            .
+            config.toml 
+            !.github/
+            !venv/
+            !.git/
+            !docs/
+            !tests/
+            !static/
+
+  deploy:
+    # Run this job if pr is opened or reopened
+    if: github.event_name == 'pull_request' && (github.event.action == 'opened' || github.event.action == 'reopened' || github.event.action == 'synchronize')
+    permissions:
+      contents: read
+      pull-requests: write
+    runs-on: ubuntu-latest
+    needs: build # wait for build to finish
+    environment:
+      name: 'Development'
+      url: ${{ steps.deploy-to-webapp.outputs.webapp-url }}
+
+    steps:
+
+      - name: Login via Azure CLI
+        uses: azure/login@v2
+        with:
+          creds: ${{ secrets.AZURE_CREDENTIALS }}
+
+      - name: Download artifact from build job
+        uses: actions/download-artifact@v4
+        with:
+          name: python-app
+          path: .
+
+      - name: Verify downloaded files before deployment
+        run: |
+          ls -la
+          cat config.toml
+
+      - name: Azure App Service Settings
+        uses: Azure/appservice-settings@v1
+        with:
+          app-name: ${{ env.AZURE_WEBAPP_NAME }}-${{ env.PR_NUMBER }}
+          app-settings-json: |
+            [
+              {
+                "name": "SCM_DO_BUILD_DURING_DEPLOYMENT",
+                "value": "true"
+              },
+                {
+                    "name": "WEBSITES_CONTAINER_START_TIME_LIMIT",
+                    "value": "500"
+                }
+            ]
+
+      - name: 'Enable HTTPS only'
+        uses: Azure/cli@v2
+        with:
+          inlineScript: |
+            az webapp update --resource-group ${{ env.RESOURCE_GROUP }} --name ${{ env.AZURE_WEBAPP_NAME }}-${{ env.PR_NUMBER }} --set httpsOnly=true
+
+      - name: 'Deploy to Azure WebApp'
+        id: deploy-to-webapp
+        uses: azure/webapps-deploy@v2
+        with:
+          app-name: ${{ env.AZURE_WEBAPP_NAME }}-${{ env.PR_NUMBER }}
+          startup-command: 'uvicorn app.routers.api_v1.app:app --host 0.0.0.0 --port 8000'
+
+
+      - name: Find Comment
+        uses: peter-evans/find-comment@v3
+        id: find-comment
+        with:
+          issue-number: ${{ github.event.pull_request.number }}
+          comment-author: 'github-actions[bot]'
+          body-includes: 'PR Process Status:'
+
+      # Update the existing comment with deployment status
+      - name: Update Comment (Deployment Status)
+        uses: peter-evans/create-or-update-comment@v4
+        if: always()
+        with:
+          issue-number: ${{ github.event.pull_request.number }}
+          comment-id: ${{ steps.find-comment.outputs.comment-id }}
+          edit-mode: replace
+          body: |
+            PR Process Status:
+            :rocket: Deployment completed.
+            Deployment URL: ${{ steps.deploy-to-webapp.outputs.webapp-url }}
+
+
+      - name: Update Comment (Deployment Failure)
+        if: failure()
+        uses: peter-evans/create-or-update-comment@v4
+        with:
+          issue-number: ${{ github.event.pull_request.number }}
+          comment-id: ${{ steps.find-comment.outputs.comment-id }}
+          edit-mode: replace
+          body: |
+            :x: Pull Request Status: Deployment failed. Please check the logs for more details.
+
+
+      - name: Checkout code
+        uses: actions/checkout@v3
+
+      - name: Fetch PR and JIRA Details and Post Comments
+        continue-on-error: true
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          JIRA_USER_EMAIL: ${{ secrets.JIRA_USER_EMAIL }}
+          JIRA_API_TOKEN: ${{ secrets.JIRA_API_TOKEN }}
+          JIRA_BASE_URL: "https://shiftboolean.atlassian.net/rest/api/3"
+          DEPLOYMENT_URL: ${{ steps.deploy-to-webapp.outputs.webapp-url }}
+        run: |
+          echo "PR Number: ${{ github.event.pull_request.number }}"
+          PR_DESCRIPTION="$(gh pr view ${{ github.event.pull_request.number }} --json body -q .body)"
+          echo "PR Description: $PR_DESCRIPTION"
+
+          # Extract JIRA issue keys and post formatted comment to each
+          echo "$PR_DESCRIPTION" | grep -oE 'GTCRM-[0-9]+' | sort -u | while read JIRA_ISSUE_KEY; do
+            if [ -n "$JIRA_ISSUE_KEY" ]; then
+              echo "Posting comment to JIRA issue: $JIRA_ISSUE_KEY"
+              curl -s -u "$JIRA_USER_EMAIL:$JIRA_API_TOKEN" \
+                -X POST \
+                -H "Content-Type: application/json" \
+                --data "{
+                  \"body\": {
+                    \"version\": 1,
+                    \"type\": \"doc\",
+                    \"content\": [
+                      {
+                        \"type\": \"paragraph\",
+                        \"content\": [
+                          {
+                            \"type\": \"text\",
+                            \"text\": \"Deployment successful! Check it out here: \"
+                          },
+                          {
+                            \"type\": \"text\",
+                            \"text\": \"Deployment Link\",
+                            \"marks\": [
+                              {
+                                \"type\": \"link\",
+                                \"attrs\": {
+                                  \"href\": \"$DEPLOYMENT_URL\",
+                                  \"title\": \"Deployment URL\"
+                                }
+                              }
+                            ]
+                          },
+                          {
+                            \"type\": \"emoji\",
+                            \"attrs\": {
+                              \"shortName\": \":rocket:\",
+                              \"id\": \"1f680\",
+                              \"text\": \" 🚀\"
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                }" \
+                "$JIRA_BASE_URL/issue/$JIRA_ISSUE_KEY/comment" -v
+            fi
+          done
+
+  # Delete Resources once PR is closed
+  cleanup-resources:
+    if: |
+      (github.event.action == 'closed' && github.ref == 'refs/heads/feature/Client-Automation')
+    runs-on: ubuntu-latest
+    environment:
+      name: 'Development'
+      url: ${{ steps.deploy-to-webapp.outputs.webapp-url }}
+
+    steps:
+      - name: Login via Azure CLI
+        uses: azure/login@v2
+        with:
+          creds: ${{ secrets.AZURE_CREDENTIALS }}
+
+      # Delete resource group and webapp
+      - name: Delete Resource Group
+        uses: azure/CLI@v2
+        with:
+          inlineScript: |
+            az group delete --name ${{ env.RESOURCE_GROUP }} --no-wait --yes
+
+      # Find the existing comment
+      - name: Find Comment
+        uses: peter-evans/find-comment@v3
+        id: find-comment
+        with:
+          issue-number: ${{ github.event.pull_request.number }}
+          comment-author: 'github-actions[bot]'
+          body-includes: 'PR Process Status:'
+
+      # Update the comment to indicate that the resources have been cleaned up
+      - name: Update Comment (Cleanup)
+        if: steps.find-comment.outputs.comment-id != 0
+        uses: peter-evans/create-or-update-comment@v4
+        with:
+          comment-id: ${{ steps.find-comment.outputs.comment-id }}
+          edit-mode: replace
+          body: |
+            PR Process Status:
+            🏁 The preview of this Pull Request has been deleted. Resources have been cleaned up.
+
+

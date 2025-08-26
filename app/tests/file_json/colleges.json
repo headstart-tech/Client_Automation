@@ -1,0 +1,273 @@
+[{
+  "_id": {
+    "$oid": "628dfd41ef796e8f757a5c13"
+  },
+  "name": "Test",
+  "address": {
+    "address_line_1": "The Apollo Knowledge City Campus, Saketa, Murukambattu",
+    "address_line_2": "Chittoor",
+    "country_code": "IN",
+    "state_code": "AP",
+    "city": "Chittoor"
+  },
+  "website_url": "https://theapollouniversity.edu.in/",
+  "pocs": [
+    {
+      "name": "Alkendra Singh",
+      "pocs_email": "Marketing@apollouniversity.edu.in",
+      "pocs_mobile_number": 8826901188
+    }
+  ],
+  "subscriptions": {
+    "raw_data_module": true,
+    "lead_management_system": true,
+    "app_management_system": true
+  },
+  "enforcements": {
+    "lead_limit": 200000,
+    "counselor_limit": 15,
+    "college_managerLimit": 4,
+    "publisher_account_limit": 8
+  },
+  "leads": {
+    "verification_type": "email",
+    "lead_api_enabled": true
+  },
+  "number_of_forms": 19,
+  "integrations": {
+    "with_erp": false,
+    "with_3rd_party_app": true,
+    "with_3rd_party_telephony": false
+  },
+  "status_info": {
+    "is_activated": true,
+    "activation_date": "20-05-2022 12:00",
+    "deactivation_date": "20-05-2024 12:00",
+    "creation_date": "20-05-2022 12:00"
+  },
+  "chargers_per_release": {
+    "for_sms": 400000,
+    "for_email": 100000
+  },
+  "college_manager_name": [
+    {
+      "college0": "Sukhjinder"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62d8e15c6cfb37811e0b4cbe"
+  },
+  "name": "GrowthTrack",
+  "address": {
+    "address_line_1": "Lorem",
+    "address_line_2": "Lorem",
+    "country_code": "Lorem",
+    "state": null,
+    "city": "Lorem"
+  },
+  "website_url": "./resource.txt#frag01",
+  "pocs": [
+    {
+      "name": "lorem",
+      "email": "a@gmail.com",
+      "mobile_number": 34233232
+    }
+  ],
+  "subscriptions": {
+    "raw_data_module": true,
+    "lead_management_system": true,
+    "app_management_system": true
+  },
+  "enforcements": {
+    "lead_limit": -53,
+    "counselor_limit": -63,
+    "client_managerLimit": null,
+    "publisher_account_limit": 68
+  },
+  "leads": {
+    "verification_type": "'OTP'",
+    "lead_api_enabled": true
+  },
+  "number_of_forms": 67,
+  "integrations": {
+    "with_erp": false,
+    "with_3rd_party_app": true,
+    "with_3rd_party_telephony": true
+  },
+  "status_info": {
+    "is_activated": true,
+    "activation_date": "2022-07-21 03:43:00.651965",
+    "deactivation_date": "2022-07-21 03:43:00.651987",
+    "creation_date": "2022-07-21 03:43:00.651989"
+  },
+  "charges_per_release": {
+    "for_sms": -93,
+    "for_email": 10
+  },
+  "college_manager_name": [
+    "test"
+  ]
+},{
+  "_id": {
+    "$oid": "62d9423e7dc02edcbd55d084"
+  },
+  "name": "asdf",
+  "address": {
+    "address_line_1": "asdf",
+    "address_line_2": "asdf",
+    "country_code": "AF",
+    "state": null,
+    "city": "Fayzabad"
+  },
+  "website_url": "asdf",
+  "pocs": [
+    {
+      "name": "asdf",
+      "email": "asdf@gmail.com",
+      "mobile_number": 323
+    }
+  ],
+  "subscriptions": {
+    "raw_data_module": false,
+    "lead_management_system": false,
+    "app_management_system": false
+  },
+  "enforcements": {
+    "lead_limit": 44,
+    "counselor_limit": 55,
+    "client_managerLimit": null,
+    "publisher_account_limit": 55
+  },
+  "leads": {
+    "verification_type": "OTP",
+    "lead_api_enabled": false
+  },
+  "number_of_forms": 23,
+  "integrations": {
+    "with_erp": false,
+    "with_3rd_party_app": false,
+    "with_3rd_party_telephony": false
+  },
+  "status_info": {
+    "is_activated": false,
+    "activation_date": "2022-07-21T10:29:20.768506",
+    "deactivation_date": "2022-07-21T10:29:20.768510",
+    "creation_date": "2022-07-21T10:29:20.768511"
+  },
+  "charges_per_release": {
+    "for_sms": 444,
+    "for_email": 44
+  },
+  "college_manager_name": [
+    "asdf"
+  ]
+},{
+  "_id": {
+    "$oid": "62d948afd42adb5793ce2399"
+  },
+  "name": "asdfasdf",
+  "address": {
+    "address_line_1": "asdf",
+    "address_line_2": "asdf",
+    "country_code": "AT",
+    "state": null,
+    "city": "Anif"
+  },
+  "website_url": "asdf",
+  "pocs": [
+    {
+      "name": "asdf",
+      "email": "asdf@gmail.com",
+      "mobile_number": 55555555555555
+    }
+  ],
+  "subscriptions": {
+    "raw_data_module": false,
+    "lead_management_system": false,
+    "app_management_system": false
+  },
+  "enforcements": {
+    "lead_limit": 5555,
+    "counselor_limit": 5555,
+    "client_managerLimit": null,
+    "publisher_account_limit": 5555
+  },
+  "leads": {
+    "verification_type": "OTP",
+    "lead_api_enabled": false
+  },
+  "number_of_forms": 5555,
+  "integrations": {
+    "with_erp": false,
+    "with_3rd_party_app": false,
+    "with_3rd_party_telephony": false
+  },
+  "status_info": {
+    "is_activated": false,
+    "activation_date": "2022-07-21T12:35:38.564283",
+    "deactivation_date": "2022-07-21T12:35:38.564287",
+    "creation_date": "2022-07-21T12:35:38.564288"
+  },
+  "charges_per_release": {
+    "for_sms": 555,
+    "for_email": 555
+  },
+  "college_manager_name": [
+    "asdfasdf"
+  ]
+},{
+  "_id": {
+    "$oid": "62de19f5f3a898e4275962b6"
+  },
+  "name": "Fahim",
+  "address": {
+    "address_line_1": "dfdf",
+    "address_line_2": "dfdfdf",
+    "country_code": "AF",
+    "state": null,
+    "city": "Nahrīn"
+  },
+  "website_url": "dfdf",
+  "pocs": [
+    {
+      "name": "dfdf",
+      "email": "dfdf@gmail.com",
+      "mobile_number": 7676767676
+    }
+  ],
+  "subscriptions": {
+    "raw_data_module": true,
+    "lead_management_system": true,
+    "app_management_system": false
+  },
+  "enforcements": {
+    "lead_limit": 56,
+    "counselor_limit": 56,
+    "client_managerLimit": null,
+    "publisher_account_limit": 78
+  },
+  "leads": {
+    "verification_type": "OTP",
+    "lead_api_enabled": false
+  },
+  "number_of_forms": 56,
+  "integrations": {
+    "with_erp": true,
+    "with_3rd_party_app": true,
+    "with_3rd_party_telephony": true
+  },
+  "status_info": {
+    "is_activated": false,
+    "activation_date": "2022-07-24T17:25:33.470543",
+    "deactivation_date": "2022-07-24T17:25:33.470547",
+    "creation_date": "2022-07-24T17:25:33.470548"
+  },
+  "charges_per_release": {
+    "for_sms": 55,
+    "for_email": 55
+  },
+  "college_manager_name": [
+    "ghyg"
+  ]
+}]

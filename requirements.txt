@@ -1,0 +1,59 @@
+# The aiobotocore library for async S3 operations
+aio-pika==9.4.2
+aiobotocore==2.5.2
+APScheduler==3.10.4
+beautifulsoup4==4.12.2
+# boto3 for Amazon Web Services (AWS)
+boto3==1.26.0
+certifi==2023.7.22
+cryptography==42.0.6
+fastapi==0.104.1
+httpx==0.25.1
+motor==3.3.2
+pandas==2.1.3
+passlib==1.7.4
+pika==1.3.2
+pydantic==2.5.2
+pymongo==4.6.3
+pytest~=7.4.0
+pytz==2023.3
+razorpay==1.4.1
+requests==2.31.0
+uvicorn==0.24.0.post1
+xlrd==2.0.1
+python-jose==3.3.0
+bcrypt==4.0.1
+ecdsa==0.18.0 # Required for python-jose
+python-multipart==0.0.18
+email-validator==2.1.0.post1
+pytest-asyncio==0.21.1
+arrow==1.3.0
+psutil==5.9.6
+py-cpuinfo==9.0.0
+reportlab==4.0.7
+openpyxl==3.1.2
+meilisearch~=0.28.1
+websockets==12.0
+pydantic-settings==2.1.0
+celery==5.4.0
+redis[hiredis]>=5.0.1
+tomli>=2.0.1
+attrs==23.1.0
+numpy==1.26.2
+toml==0.10.2
+word2number==1.1
+pillow>=10.0.1 # not directly required, pinned by Snyk to avoid a vulnerability
+kombu>=5.3.2
+starlette~=0.27.0
+botocore~=1.29.161
+scipy~=1.11.3
+aiohttp>=3.9.0 # not directly required, pinned by Snyk to avoid a vulnerability
+python-dateutil==2.8.2
+Faker==23.2.0
+chardet==5.2.0
+zoomus==1.2.1
+SQLAlchemy==2.0.38
+psycopg2==2.9.10
+asyncpg==0.30.0
+
+
